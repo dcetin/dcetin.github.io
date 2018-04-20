@@ -154,7 +154,7 @@ function ShowHideNav() {
 /*-------------------------------------------------------------------------*/
 /* HANDLE MODAL */
 /* -----------------------------------------------------------------------*/
-
+/*
 function openModal() {
     $( "body" ).css( "overflow", "hidden" );
     $( ".modal, .modal__overlay" ).show().css( "display", "flex" );
@@ -183,11 +183,11 @@ $( ".js-modal-close" ).click( function() {
 $( ".modal__overlay" ).click( function() {
     removeModal();
 } );
-
+*/
 /*-------------------------------------------------------------------------*/
 /* FORM VALIDATION */
 /* -----------------------------------------------------------------------*/
-
+/*
 function formCheck() {
     $( ".js-submit" ).click( function( e ) {
 
@@ -244,12 +244,12 @@ function addErrorData( element, error ) {
     element.parent().addClass( "error" );
     element.after( "<span class='error-data'>" + error + "</span>" );
 }
-
+*/
 
 /*-------------------------------------------------------------------------*/
 /* AJAX FORM SUBMIT */
 /* -----------------------------------------------------------------------*/
-
+/*
 $( "#contactForm" ).submit( function( e ) {
 
     e.preventDefault();
@@ -294,3 +294,4 @@ $( "#contactForm" ).submit( function( e ) {
         }
     } );
 } );
+*/
