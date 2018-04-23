@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: showcase
 title: Personal
 permalink: /personal/
 ---
