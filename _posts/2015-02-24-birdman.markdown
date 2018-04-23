@@ -5,6 +5,8 @@ date: 2015-02-24 00:00:00 +0300
 language: tr
 categories: film
 permalink: /tr/film/birdman
+excerpt: ""
+hero_img: "birdman-2.jpg"
 ---
 ![birdman-0]({{ "/assets/posts/birdman-0.jpg" | absolute_url }})
 

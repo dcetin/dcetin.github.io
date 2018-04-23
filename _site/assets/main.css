@@ -21,6 +21,27 @@ html[xmlns] .clearfix {
 .cv-entry {
   margin-bottom: 1em; }
 
+.grid-wrapper {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 13em;
+  grid-gap: 10px; }
+
+.post-link.grid-box {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border-radius: 5px;
+  padding: 0.7em;
+  font-size: 150%; }
+
+.post-link.grid-box:hover {
+  text-decoration: none; }
+
+.grid-post-meta {
+  font-size: 14px;
+  color: #fff; }
+
 /**
  * Reset some basic elements
  */

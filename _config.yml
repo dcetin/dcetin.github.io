@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Doruk Çetin
 author: Doruk Çetin
-# email: doruk.cetin.dc@gmail.com
+email: doruk.cetin.dc@gmail.com
 description: >-
   Tis but a personal website.
 baseurl: ""
@@ -24,6 +24,7 @@ github_username:  dcetin
 linkedin_username: doruk-cetin
 letterboxd_username: Mirakodus
 spotify_username: "11145656283"
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
