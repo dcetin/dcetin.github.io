@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A few words about CD Projekt Red and The Witcher"
-date:   2015-10-17 00:00:00 +0300
+title: "A few words about The Witcher and CD Projekt Red"
+date: 2015-10-17 00:00:00 +0300
 language: en
 categories: game
 permalink: /en/game/witcher
