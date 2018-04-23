@@ -1,6 +1,6 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: page
 ---
+I am a final year bachelor student in [METU](https://www.metu.edu.tr), studying Computer Engineering.
+
+I will be continuing my studies at [ETH Zurich](https://www.ethz.ch/en.html).
