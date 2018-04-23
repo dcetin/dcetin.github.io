@@ -1,7 +1,3 @@
-.cv-section {
-  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #111; }
-
 .clearfix:after {
   content: "\00A0";
   display: block;
@@ -21,6 +17,9 @@ html[xmlns] .clearfix {
 
 .clearfix {
   display: block; }
+
+.cv-entry {
+  margin-bottom: 1em; }
 
 /**
  * Reset some basic elements

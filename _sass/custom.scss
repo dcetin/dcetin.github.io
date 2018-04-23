@@ -20,14 +20,12 @@ $content-width:    800px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
-
-.cv-section {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color;
-}
-
 .clearfix:after { content: "\00A0"; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;}  
 .clearfix{ display: inline-block;}  
 html[xmlns] .clearfix { display: block;}  
 * html .clearfix{ height: 1%;}  
 .clearfix {display: block}
+
+.cv-entry {
+  margin-bottom: 1em;
+}

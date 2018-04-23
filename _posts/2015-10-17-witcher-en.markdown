@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A few words about The Witcher and CD Projekt Red"
+title: "The Witcher"
 date: 2015-10-17 00:00:00 +0300
 language: en
 categories: game

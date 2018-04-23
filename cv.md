@@ -8,7 +8,6 @@ permalink: /cv/
 title="Direct Doctorate in Computer Science" loc="Zurich, CH" %}
 {% include cv-entry.html name="Middle East Technical University" dates="2013-2018" 
 title="Bachelor of Science in Computer Engineering" loc="Ankara, TR" %}
-
 # Experience
 {% include cv-entry.html name="Imperial College London" dates="Summer 2017" 
 title="Research Intern at Intelligent Behaviour Understanding Group" loc="London, UK" %}
