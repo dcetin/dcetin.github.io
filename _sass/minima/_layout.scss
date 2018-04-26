@@ -1,13 +1,19 @@
 /**
  * Site header
  */
+
 .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-
   // Positioning context for the mobile navigation icon
   position: relative;
+  // Custom CSS starts:
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: white;
+  // and ends.
 }
 
 .site-title {
@@ -29,7 +35,7 @@
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
-      display: none;
+    display: none;
   }
 
   .menu-icon {
@@ -135,18 +141,18 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+  width:         calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+  width:         calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+  width:         calc(40% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -177,6 +183,9 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+  // Custom CSS starts:
+  margin-top: 3.5em;
+  // and ends.
 }
 
 .page-heading {
@@ -228,6 +237,33 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
+  // Custom CSS starts:
+
+  h1 {
+    @include relative-font-size(1.9);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.65);
+    }
+  }
+
+  h2 {
+    @include relative-font-size(1.5);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.2);
+    }
+  }
+
+  h3 {
+    @include relative-font-size(1.1);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.0);
+    }
+  }
+
+  /*
   h2 {
     @include relative-font-size(2);
 
@@ -251,4 +287,7 @@
       @include relative-font-size(1.125);
     }
   }
+  */
+
+  // and ends.
 }

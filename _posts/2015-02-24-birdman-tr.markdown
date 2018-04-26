@@ -12,7 +12,7 @@ hero_img: "birdman-2.jpg"
 
 Riggan Thompson eski bir Hollywood aktörü, şimdi ise sadece eskiden oynadığı süper kahramanın adı geçince hatırlanıyor. Orta yaşın getirdiği varoluş krizi, hayallerle gerçeğin tezatı, önemli ve değerli bir şey ortaya çıkarma hevesi ve insanın egosuyla kavgası üst üste biniyor. Riggan kitaptan sahneye uyarladığı bir Broadway oyununda yönetmenliğe ve oyunculuğa soyunuyor. Varını yoğunu ortaya koyuyor. Kamera sahne arkasında gezinir ve oyuncuların omuzları üzerinde kıvrılarak ilerlerken biz de tüm tiyatronun hayallerine ve hayal kırıklıklarına seyirci oluyoruz.
 
-![birdman-1]({{ "/assets/posts/birdman-1.png" | absolute_url }})
+![birdman-1]({{ "/assets/posts/birdman-1.jpg" | absolute_url }})
 
 Yönetmen Alejandro González Iñárritu röportajlarında rahatını bozmak ve Birdman’e filmlerinde şimdiye kadar eksik olan bir şeyi katmak istediğinden bahsediyor. Komedide her şeyin zamanlama olduğunu anlatıyor ve tarzını trajediden kara mizaha doğru kaydırırken filmindeki mizahı akıllıca yerleştirilmiş repliklerle sunuyor. Birdman kahkaha atabileceğiniz bir film değil ama sizi endişelendirip üzerken suratınızda bir tebessüme izin veriyor. Kısacası film üstlendiği görevi başarıyor. Zaten kadroda Michael Keaton, Naomi Watts, Edward Norton gibi isimlerin yanında komedi deneyimi görece fazla olan Zach Galifianakis ve Emma Stone gibi isimlerin olması da bu işi kolay kılıyor.
 

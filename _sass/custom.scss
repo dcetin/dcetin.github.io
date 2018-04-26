@@ -34,8 +34,6 @@ html[xmlns] .clearfix { display: block;}
 
 .grid-wrapper {
   display: grid;
-  //grid-template-columns: 33% 33% 33%;
-  grid-template-columns: 100%;
   grid-template-columns: 50% 50%;
   grid-template-rows: 13em;
   grid-gap: 10px;
@@ -58,4 +56,13 @@ html[xmlns] .clearfix { display: block;}
 .grid-post-meta {
   font-size: $small-font-size;
   color: #fff;
+}
+
+@media screen and (max-width: 600px) {
+  .grid-wrapper {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 13em;
+    grid-gap: 10px;
+  }
 }

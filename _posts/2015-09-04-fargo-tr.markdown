@@ -17,7 +17,7 @@ FX’in kara mizah yüklü suç dizisi Fargo ikinci sezonuna başladı ve hatta 
 
 Dizinin kendilerini göstermeleri için oyunculara irili ufaklı fırsatlar tanıdığını görebiliyorsunuz; bir bölüm Dodd, bir bölüm Lou, sonra Hanzee derken her karakterin bir nevi kendi hikayesinin baş rolü olduğunu hissediyorsunuz; arka plandayken bile çoğu karakterin boş bırakılmaması dizinin ayaklarının yere sağlam basmasını sağlıyor. Ekran süresi kısıtlı olan karakterler bile detaylı olmasa da özgün, orijinal duruyor; Yargıç Mundt bunun en güzel örneği. Sonraki bölüme bile kim ölür kim kalır bilinmez ama bu dört bölümün yıldızı Mike Milligan bana göre. Umarım favori prog rock grubumu daha uzun süre ekranda görürüz.
 
-![name]({{ "/assets/posts/name.jpg" | absolute_url }})
+![fargo-2]({{ "/assets/posts/fargo-2.jpg" | absolute_url }})
 
 Billy Bob Thornton’ın oyunculuğunu bir kenara koyarsak bana Fargo’nun ilk sezonunu tek solukta izleten yegane sebep dizinin temposuydu. Fargo sizi ilk bölümden bir hız trenine oturtuyor; hızlanan, yavaşlayan fakat asla durmayan bir akıcılıkla anlatıyordu kendisini. Ekrana ne zaman baksanız ilginç bir şeyler oluyordu ve tüm bu hareketliliğin hiçbir anı yapay durmuyordu, dizi Malvo gibi bir karakteri bile rahatlıkla satıyordu izleyiciye. İsmini aldığı filmin mirasını hakkıyla kazanmış, sıradan insanların hayatlarını anlatırken dramı da kara mizahı da aksiyonu da dört dörtlük sunmuştu. İkinci sezonda yeni bir içerikle bu saydığım özelliklerin tekrarını izlesem bana yeterdi, ve şimdilik Fargo benim beklentilerimi bir bir karşılıyor.
 
