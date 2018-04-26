@@ -8,16 +8,16 @@
     <div class="footer-col-wrapper">
 
       <div class="footer-col footer-col-1">
-        {%- include social-pro.html -%}
+        <p>Via email: {{ site.email }}</p>
+        <p>or rather: {{ site.inst-email }}</p>
       </div>
 
       <div class="footer-col footer-col-2">
-        {%- include social-per.html -%}
+        {%- include social-pro.html -%}
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>Email: {{ site.email }}</p>
-        <p>or rather: {{ site.inst-email }}</p>
+        {%- include social-per.html -%}
       </div>
     </div>
 

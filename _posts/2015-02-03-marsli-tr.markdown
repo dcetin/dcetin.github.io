@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Marslı"
+date: 2015-02-03 00:00:00 +0300
+language: tr
+categories: book
+permalink: /tr/book/marsli
+excerpt: ""
+hero_img: "the-martian-2.jpg"
+---
+> Marslı hem türe yeni olanlara hem de klasik bilimkurgu hayranlarına rahatlıkla önerebileceğim bir kitap.
+
+![the-martian-1]({{ "/assets/posts/the-martian-1.jpg" | absolute_url }})
+
+Türün dev isimlerinin kaleme aldığı eserleri okumaya yeni başlamış biri olarak daha bu sene yayımlanmış, hatta yazarının ilk kitabı bir bilimkurgu romanını satın alırken biraz çekinmiştim, ama kitap kendi reklamını bana öyle güzel yapmıştı ki Marslı’yı okumadan edemedim.
+
+Andy Weir AOL ve Blizzard’da da çalışmış bir yazılım mühendisi. On beş yaşından beri programcılıkla ilgilenen bu Asimov ve Clarke hayranı çocuğun babası ise bir parçacık fizikçi. Weir ilk eserini internette yayımladıktan sonra hayranlarının talepleri sayesinde Marslı kısa sürede bir roman olarak basılıyor ve New York Bestseller listesine de 12. sıradan giriş yapıyor. Goodreads sitesi üyelerinin 2014’ün en iyi bilimkurgu romanı seçtiği Marslı’nın yayın hakları da satın alınıyor ve yazılım mühendisi Andy Weir’in internette yayımladığı ilk kitabı da böylece yönetmen Ridley Scott tarafından filme çekilmeye başlanıyor. (Başrol de Matt Damon!)
+
+Bu hikayeyi dinleyip, İthaki’nin kitabı Türkçe’ye çevirdiğini duysanız, sizin de kitabı almak için tek ihtiyacınız, muhtemelen başarılı kapak tasarımından fazlası olmazdı!
+
+Sürükleyiciliğine toz kondurmamak adına kitabın ilk sayfasından anlayacağınız ve gerisini de iyi kötü tahmin edeceğiniz ana hikaye hariç olay örgüsünün ayrıntısına girmeyeceğim. Ayrıca, eğer siz de kitabın yazım hatasıyla dolu olduğunu duyduysanız buna çok aldırmayın; baskıdaki hatalar bir elin parmaklarını geçmiyor. Her neyse.
+
+“Neresinden bakarsanız bakın, sıçmış durumdayım.” diye başlıyor kitap.
+
+Mark Watney, Mars’a insanlı keşif için gönderilen küçük bir ekibin üyesidir ve daha kızıl gezegendeki görevinin altıncı gününde gezegende yapayalnızdır. Ve muhtemelen kısa süre sonra da orda ölecektir. NASA, Ares 3 görevini iptal etmek zorunda kalmış ve ekibe kesin bir geri dön emri vermiştir. Kalkışa az zaman kala ortadan kaybolan ve mürettebatı tarafından öldü sanılan Watney geride kalmıştır ve yeryüzüyle iletişimi tamamen kesilmiş haldedir. Watney, medyada sıkça benzetildiği Robinson Crusoe gibi hayatta kalmanın ve kendine bir hayat inşa etmenin yollarını aramaya başlar. Biz okuyucular da bu sürece karakterimizin çaresizce tuttuğu kayıtlarla dahil oluruz.
+
+Tek başına ve medeniyetten uzak yaşamak kulağa yeterince ürkünç gelmediyse bu senaryodaki ıssız adayı Mars ile değiştirin. Kahramanımızın kitabın ilk sayfasından beri karşılaştığı sorunlar gerçekten hafife alınacak sorunlar değil ve en ufak hatası neredeyse kaçınılmaz olan ölümüyle sonuçlanabilir. Fakat Mark Watney gerçekten zeki ve eğitimli bir karakter (kaldı ki öyle olmasaydı Mars’a yollamazlardı!) ve yazar da yazdığı konuya en az karakteri kadar hakim, bu yüzden karşınıza çıkan her soruya kitap çok doyurucu ve bir o kadar bilimsel cevaplar veriyor. Bilimkurgu veya astronomiyle aranız yoksa bile gözünüz korkmasın, sıkıldığım bir iki paragrafa rağmen 400 sayfanın nasıl geçtiğini anlamadım, hatta uzay çalışmalarıyla ilgili kitabın verdiği bilgiler konuya ilgi doğuracak cinsten diyebilirim. Bunun arkasındaki neden ise kesinlikle sayfalardan rahatlıkla hissedebileceğiniz, yazarın yazdığı konuya olan içten ilgisi. Weir bu ilgiyi size aktarmayı başarıyor.
+
+{% include embed-video.html url="https://www.youtube.com/embed/JpETMXfihXM" %}
+
+Her “hayatta kalma” temalı eserin iyi kötü sahip olduğu kasvetli havayı ise yazar, Watney’nin iyimserliği ve mizahıyla dağıtıyor. Günlük girişleri genel olarak ilgiyi kendi üstünde tutmayı ve bunu yaparken okuru sıkmamayı başarıyor ve siz çoğu zaman Mars’ta yalnız kalan bir makine mühendisinin anlattığı teknik detayları dinlediğinizin farkına bile varmıyorsunuz. Yalnız, karakterin duygusal durumuyla ilgili tüm roman boyunca neredeyse hiçbir detay göremememiz cidden üzücü, böyle bir felaket senaryosunun başrolüne etkisini ister istemez yetersiz buldum.
+
+Kitabın hikayesi hakkında başka bir şey duymak istemeyenler kulaklarını bu paragraflık kapatsınlar; Watney dışındaki karakterler neredeyse birbirinden ayırt edilemeyecek derecede sıradanlar. Mitch ve Teddy’nin fikirlerinin zıtlaşması ve Mindy’nin kariyeri harici karakterleri derinleştirecek hiçbir detay yok ve bahsettiklerim de zaten bir hayli yetersizler. Birkaç sayfa sonra Venkat’tan da ümidi kesince uzay istasyonu bölümlerinde kimin konuştuğunu umursamayı bırakıp sadece alınan kararlara odaklanmaya başlamıştım bile.
+
+Bunlara rağmen kitap hakkındaki genel kanım gayet olumlu. Marslı hem türe yeni olanlara hem de klasik bilimkurgu hayranlarına rahatlıkla önerebileceğim bir kitap. Her kesimden okuyucu için hoşa gitmeyecek noktalar belki olacak ama “eğlenceli bir bilimkurgu” arıyorsanız, Marslı gerçekten uygun bir tercih.
