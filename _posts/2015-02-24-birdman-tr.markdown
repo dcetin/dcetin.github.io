@@ -6,7 +6,7 @@ language: tr
 categories: film
 permalink: /tr/film/birdman
 excerpt: ""
-hero_img: "birdman-3.jpg"
+image: "birdman-3.jpg"
 ---
 ![birdman-1]({{ "/assets/posts/birdman-0.jpg" | absolute_url }})
 

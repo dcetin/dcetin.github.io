@@ -6,7 +6,7 @@ language: tr
 categories: tv
 permalink: /tr/tv/rick-and-morty
 excerpt: ""
-hero_img: "ricknmorty-1.jpg"
+image: "ricknmorty-1.jpg"
 ---
 Bilim kurgu denen tür bana her zaman bir fikri geliştirmek veya bir kurguyu güçlendirmek için en önemli silahlardan biri olarak gözükmüştür. Bilim kurgunun imkanlarından yararlanarak ister dram anlatın ister komedi, ister aksiyon anlatın ister korku; önceden elinizde olmayan farklı zamanların, mekanların, karakterlerin ve tekniklerin hatırı sayılır bir anlatım gücüne sahip olursunuz. Ama öte yandan, klonlama, zamanda yolculuk veya paralel evrenler gibi bazı güçlü konuların aşırı kullanılmaktan eskidiği bir gerçek. Aynı konuyu temel alan kült eserlerden farklı noktalara değinmekten , farklı adımlar atmaktan çekinince ortaya bilim kurgu hayranı olmayanların bile aşina olduğu senaryolar çıkıyor. Böyle yapımlar görünce de insan düşünüyor, acaba bilim kurgu türü kendi kendini tekrar etmeye mi başladı diye. Neyse ki Rick and Morty var da kim bilir kaç kez işlenmiş klişelerin ne kadar yaratıcı bir şekilde elden geçebileceğini iki sezondur kanıtlıyor.
 

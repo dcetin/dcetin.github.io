@@ -6,7 +6,7 @@ language: tr
 categories: book
 permalink: /tr/book/marsli
 excerpt: ""
-hero_img: "the-martian-2.jpg"
+image: "the-martian-2.jpg"
 ---
 > Marslı hem türe yeni olanlara hem de klasik bilimkurgu hayranlarına rahatlıkla önerebileceğim bir kitap.
 

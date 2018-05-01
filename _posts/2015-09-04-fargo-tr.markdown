@@ -6,7 +6,7 @@ language: tr
 categories: tv
 permalink: /tr/tv/fargo
 excerpt: ""
-hero_img: "fargo-1.jpg"
+image: "fargo-1.jpg"
 ---
 FX’in kara mizah yüklü suç dizisi Fargo ikinci sezonuna başladı ve hatta dört bölümü arkasında bıraktı. Dizi hakkında bir şeyler karalamak için bir bölüm daha bekleyecektim ama olmadı, bekleyemedim, başlıkta da yalan söyledim. Belki bir şeyler konuşmak için yine erkendir, ilerleyen bölümleri izleyip resmin bütününe tekrardan bakarız ama şimdilik kuzeyde işlerin yolunda gittiğini gönül rahatlığıyla söyleyebilirim. Yazı spoilersız olmalı, ama n’olur n’olmaz, dördüncü bölümü de izleyip öyle gelin siz.
 

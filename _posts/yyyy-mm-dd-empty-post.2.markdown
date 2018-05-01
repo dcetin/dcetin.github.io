@@ -6,6 +6,6 @@ language: en
 categories: game
 permalink: /en/game/name
 excerpt: ""
-hero_img: "name.jpg"
+image: "name.jpg"
 ---
 ![name]({{ "/assets/posts/name.jpg" | absolute_url }})

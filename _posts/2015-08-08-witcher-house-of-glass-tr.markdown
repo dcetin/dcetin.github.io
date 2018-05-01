@@ -6,7 +6,7 @@ language: tr
 categories: game
 permalink: /tr/game/witcher-house-of-glass
 excerpt: ""
-hero_img: "witcher-house-of-glass-1.jpg"
+image: "witcher-house-of-glass-1.jpg"
 ---
 > “Tek düşünebildiğim bu dünyanın canavarları olmuştu. Kahrolası sayıda çok canavarın nasıl da gizlice pusuda yattığı. Marta’nın asla güvende olmadığı.”
 

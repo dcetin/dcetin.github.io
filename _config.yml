@@ -19,12 +19,23 @@ email: doruk.cetin.dc@gmail.com
 inst-email: doruk.cetin@metu.edu.tr
 description: >-
   Tis but a personal website.
+
 baseurl: ""
 url: "https://dcetin.github.io/"
+lang: en_US
+
 github_username:  dcetin
 linkedin_username: doruk-cetin
 letterboxd_username: Mirakodus
 spotify_username: "11145656283"
+
+social:
+  name: Doruk Çetin
+  links:
+    - https://www.linkedin.com/in/doruk-cetin
+    - https://github.com/dcetin
+    - https://letterboxd.com/Mirakodus
+    - https://open.spotify.com/user/11145656283
 
 # Build settings
 markdown: kramdown
