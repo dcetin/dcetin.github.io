@@ -136,4 +136,6 @@ It is not a Lovecraftian film in a classical sense, but the presence of some Lov
 
 With limited dialogue and even scarcer exposition it presents an narrative of communication. The film is unusual and it deserves a watch at least for the uncanny feel it carries.
 
+---&nbsp;
+
 Honorable Mentions: Hellboy, Hellraiser, The Mist, Under the Skin, Event Horizon, Prince of Darkness. True Detective’s first season is also sadly excluded, as only feature films were considered.

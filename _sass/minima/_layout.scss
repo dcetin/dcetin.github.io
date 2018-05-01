@@ -3,16 +3,17 @@
  */
 
 .site-header {
-  border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
   // Positioning context for the mobile navigation icon
   position: relative;
   // Custom CSS starts:
+  //border-top: 5px solid $grey-color-dark;
   position: fixed;
   top: 0;
   width: 100%;
   background-color: white;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
   // and ends.
 }
 
