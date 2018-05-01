@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-This is a short summary. If you'd rather read the longer one, it's <a href="/docs/doruk_cetin_cv.pdf">here</a>.
+This is a short summary. If you'd rather read the longer one, it's <a href="/docs/doruk_cetin_cv.pdf" target="_blank">here</a>.
 
 ---&nbsp;
 ## Education
