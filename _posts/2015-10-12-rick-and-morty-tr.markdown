@@ -2,7 +2,8 @@
 layout: post
 title: "Rick and Morty"
 date: 2015-10-12 00:00:00 +0300
-language: tr
+lang: tr
+author: "Doruk Çetin"
 categories: tv
 permalink: /tr/tv/rick-and-morty
 excerpt: ""

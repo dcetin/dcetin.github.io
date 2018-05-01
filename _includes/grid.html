@@ -1,6 +1,6 @@
 <div class="grid-wrapper">
   {%- for post in site.posts -%}
-  {% assign bg = "background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), 
+  {% assign bg = "background: linear-gradient( rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55) ), 
     url('../assets/posts/" | append: post.image | append: "'); 
     background-size: cover;" %}
   <a class="post-link grid-box" href="{{ post.url | relative_url }}"
@@ -8,7 +8,7 @@
     {{ post.title | escape }}
     <br>
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    <span class="grid-post-meta">{{ post.date | date: date_format }} - {{ post.language }}</span>
+    <span class="grid-post-meta">{{ post.date | date: date_format }} - {{ post.lang }}</span>
   </a>
   {%- endfor -%}
 </div>

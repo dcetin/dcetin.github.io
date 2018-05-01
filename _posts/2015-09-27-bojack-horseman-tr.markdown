@@ -2,7 +2,8 @@
 layout: post
 title: "BoJack Horseman"
 date: 2015-09-27 00:00:00 +0300
-language: tr
+lang: tr
+author: "Doruk Çetin"
 categories: tv
 permalink: /tr/tv/bojack
 excerpt: ""

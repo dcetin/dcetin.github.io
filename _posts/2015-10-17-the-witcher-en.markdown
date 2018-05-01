@@ -2,7 +2,8 @@
 layout: post
 title: "The Witcher"
 date: 2015-10-17 00:00:00 +0300
-language: en
+lang: en
+author: "Doruk Çetin"
 categories: game
 permalink: /en/game/witcher
 excerpt: ""

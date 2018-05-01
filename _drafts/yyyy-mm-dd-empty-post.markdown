@@ -2,10 +2,11 @@
 layout: post
 title: "name"
 date: 2015-10-17 00:00:00 +0300
-language: en
+lang: tr
+author: "Doruk Çetin"
 categories: game
 permalink: /en/game/name
 excerpt: ""
-hero_img: "name.jpg"
+image: "name.jpg"
 ---
 ![name]({{ "/assets/posts/name.jpg" | absolute_url }})

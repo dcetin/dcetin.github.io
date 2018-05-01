@@ -2,7 +2,8 @@
 layout: post
 title: "Lovecraftian Films"
 date: 2017-02-10 00:00:00 +0300
-language: en
+lang: en
+author: "Doruk Çetin"
 categories: film
 permalink: /en/film/lovecraftian-films
 excerpt: ""

@@ -2,7 +2,8 @@
 layout: post
 title: "Witcher: Camlar Konağı"
 date: 2015-08-08 00:00:00 +0300
-language: tr
+lang: tr
+author: "Doruk Çetin"
 categories: game
 permalink: /tr/game/witcher-house-of-glass
 excerpt: ""
