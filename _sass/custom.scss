@@ -20,6 +20,10 @@ $content-width:    800px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
 // for cv-entry justified text
 .clearfix:after { content: "\00A0"; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;}  
 .clearfix{ display: inline-block;}  
@@ -81,4 +85,15 @@ html[xmlns] .clearfix { display: block;}
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.endnote-wrapper {
+  display: flex;
+  border-top: 1px solid $grey-color-light;
+  height: 1em;
+  justify-content: center;
+  vertical-align: middle;
+  color: $grey-color;
+  @include relative-font-size(0.8);
+  padding-top: $spacing-unit/2;
 }

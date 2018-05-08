@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Fight Club 2 #1"
-date: 2015-07-15 00:00:00 +0300
+date: 2015-07-15 00:00:00 +0000
 lang: tr
 author: "Doruk Çetin"
-categories: comic
-permalink: /tr/comic/fight-club-2
-excerpt: ""
+categories: tr comic
+slug: fight-club-2
+permalink: /:categories/:title
 image: "fight-club-2-1.jpg"
 ---
 > “Bazı hayali arkadaşlar asla çekip gitmez!” 

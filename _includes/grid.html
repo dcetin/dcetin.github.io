@@ -1,6 +1,6 @@
 <div class="grid-wrapper">
   {%- for post in site.posts -%}
-  {% assign bg = "background: linear-gradient( rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55) ), 
+  {% assign bg = "background: linear-gradient( rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60) ), 
     url('../assets/posts/" | append: post.image | append: "'); 
     background-size: cover;" %}
   <a class="post-link grid-box" href="{{ post.url | relative_url }}"

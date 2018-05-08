@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The Binding of Isaac: Rebirth"
-date: 2014-11-17 00:00:00 +0300
+date: 2014-11-17 00:00:00 +0000
 lang: tr
 author: "Doruk Çetin"
-categories: game
-permalink: /tr/game/the-binding-of-isaac-rebirth
-excerpt: ""
+categories: tr game
+slug: the-binding-of-isaac-rebirth
+permalink: /:categories/:title
 image: "binding-of-isaac-1.jpg"
 ---
 > İlk oyunu ve DLC’sini oynayanlar için bile kaçırılmaması gereken bir oyun. Herkese hitap etmeyi başarabiliyor ve aynı zamanda hardcore oyuncuları da başından kaldırmıyor.

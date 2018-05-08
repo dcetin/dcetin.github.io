@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Marslı"
-date: 2015-02-03 00:00:00 +0300
+date: 2015-02-03 00:00:00 +0000
 lang: tr
 author: "Doruk Çetin"
-categories: book
-permalink: /tr/book/marsli
-excerpt: ""
+categories: tr book
+slug: the-martian
+permalink: /:categories/:title
 image: "the-martian-2.jpg"
 ---
 > Marslı hem türe yeni olanlara hem de klasik bilimkurgu hayranlarına rahatlıkla önerebileceğim bir kitap.

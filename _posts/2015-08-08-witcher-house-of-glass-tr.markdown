@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Witcher: Camlar Konağı"
-date: 2015-08-08 00:00:00 +0300
+date: 2015-08-08 00:00:00 +0000
 lang: tr
 author: "Doruk Çetin"
-categories: game
-permalink: /tr/game/witcher-house-of-glass
-excerpt: ""
+categories: tr game
+slug: witcher-house-of-glass
+permalink: /:categories/:title
 image: "witcher-house-of-glass-1.jpg"
 ---
 > “Tek düşünebildiğim bu dünyanın canavarları olmuştu. Kahrolası sayıda çok canavarın nasıl da gizlice pusuda yattığı. Marta’nın asla güvende olmadığı.”

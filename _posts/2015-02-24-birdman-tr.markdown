@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Birdman"
-date: 2015-02-24 00:00:00 +0300
+date: 2015-02-24 00:00:00 +0000
 lang: tr
 author: "Doruk Çetin"
-categories: film
-permalink: /tr/film/birdman
-excerpt: ""
+categories: tr film
+slug: birdman
+permalink: /:categories/:title
 image: "birdman-3.jpg"
 ---
 ![birdman-1]({{ "/assets/posts/birdman-1.jpg" | absolute_url }})

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Fargo"
-date: 2015-09-04 00:00:00 +0300
+date: 2015-11-04 00:00:00 +0000
 lang: tr
 author: "Doruk Çetin"
-categories: tv
-permalink: /tr/tv/fargo
-excerpt: ""
+categories: tr tv
+slug: fargo
+permalink: /:categories/:title
 image: "fargo-1.jpg"
 ---
 FX’in kara mizah yüklü suç dizisi Fargo ikinci sezonuna başladı ve hatta dört bölümü arkasında bıraktı. Dizi hakkında bir şeyler karalamak için bir bölüm daha bekleyecektim ama olmadı, bekleyemedim, başlıkta da yalan söyledim. Belki bir şeyler konuşmak için yine erkendir, ilerleyen bölümleri izleyip resmin bütününe tekrardan bakarız ama şimdilik kuzeyde işlerin yolunda gittiğini gönül rahatlığıyla söyleyebilirim. Yazı spoilersız olmalı, ama n’olur n’olmaz, dördüncü bölümü de izleyip öyle gelin siz.

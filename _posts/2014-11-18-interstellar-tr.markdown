@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Interstellar"
-date: 2014-11-18 00:00:00 +0300
+date: 2014-11-18 00:00:00 +0000
 lang: tr
 author: "Doruk Çetin"
-categories: film
-permalink: /tr/film/interstellar
-excerpt: ""
+categories: tr film
+slug: interstellar
+permalink: /:categories/:title
 image: "interstellar-1.jpg"
 ---
 > Nolan'dan bağımsız bir film samimiyetinde, insan odaklı bir bilimkurgu.

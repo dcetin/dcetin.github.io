@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Lovecraftian Films"
-date: 2017-02-10 00:00:00 +0300
+date: 2017-02-10 00:00:00 +0000
 lang: en
 author: "Doruk Çetin"
-categories: film
-permalink: /en/film/lovecraftian-films
-excerpt: ""
+categories: en film
+slug: lovecraftian-films
+permalink: /:categories/:title
 image: "in-the-mouth-of-madness-4.jpg"
 ---
 Unrecognized at his time and lived much of his life in poverty, Howard Phillips Lovecraft shaped the horror fiction of a century and had a lasting legacy that still influences the horror genre through various mediums.

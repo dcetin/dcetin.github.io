@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The Witcher"
-date: 2015-10-17 00:00:00 +0300
+date: 2015-10-17 00:00:00 +0000
 lang: en
 author: "Doruk Çetin"
-categories: game
-permalink: /en/game/witcher
-excerpt: ""
+categories: en game
+slug: the-witcher
+permalink: /:categories/:title
 image: "witcher-1.jpg"
 ---
 Thirteen years ago the development studio called CD Projekt RED has founded in Poland. As a result of the financial problems of the years that passed and the patient and elaborative work style of the developers, the studio itself is known for only one title: The Witcher. Now everyone in the industry certainly knows the name, this way or that, and the studio which had to cancel their games in development in the past for not having the economic independence they dreamed makes its name echo louder than ever by reaching four million copies in two weeks with their latest installment to the series. Even when we are looking at the details the great picture is still quite striking, but let’s look at what lies behind that success.

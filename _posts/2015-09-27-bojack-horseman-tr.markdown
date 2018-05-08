@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "BoJack Horseman"
-date: 2015-09-27 00:00:00 +0300
+date: 2015-09-27 00:00:00 +0000
 lang: tr
 author: "Doruk Çetin"
-categories: tv
-permalink: /tr/tv/bojack
-excerpt: ""
+categories: tr tv
+slug: bojack-horseman
+permalink: /:categories/:title
 image: "bojack-1.jpg"
 ---
 Sosyal medyanın ve reklamın bir ton farklı çeşidi sağ olsun, çoğu eser daha elimize geçmeden onlar hakkında fazlasıyla bilgiye sahip oluyoruz. Yeni yapımların sayısının her mecrada katlanarak büyüdüğü bu zamanlarda reklam artık neredeyse bir zorunluluk ama takdir edersiniz ki reklamın da fazlası bazen ters tepiyor, bazı yapımlar kozlarını çok erken yere düşüyor. Örneğin Suicide Squad filmi beni hala korkunç derecede heyecanlandırıyor, fakat Batman’in filmde yer alacağını bu kadar önceden öğrenmeseydik de sinema salonunda bir sürpriz yaşasaydık diye de iç geçirmiyor değilim.
