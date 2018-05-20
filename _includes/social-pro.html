@@ -2,14 +2,20 @@
 
   {%- if site.linkedin_username -%}
   <li><a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}">
-  <img src="/assets/icons/icon-linkedin.png" height="32" width="32">
+  <img src="/assets/icons/icons-20/icon-linkedin.png" height="20" width="20" style="margin: 6px 6px 6px 0px">
   <span class="username">via LinkedIn</span></a></li>
   {%- endif -%}
 
   {%- if site.github_username -%}
   <li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}">
-  <img src="/assets/icons/icon-github.png" height="32" width="32">
+  <img src="/assets/icons/icons-20/icon-github.png" height="20" width="20" style="margin: 6px 6px 6px 0px">
   <span class="username">via GitHub</span></a></li>
+  {%- endif -%}
+
+  {%- if site.gscholar_username -%}
+  <li><a href="https://scholar.google.com/citations?user={{ site.gscholar_username| cgi_escape | escape }}">
+  <img src="/assets/icons/icons-20/icon-gscholar.png" height="20" width="20" style="margin: 6px 6px 6px 0px">
+  <span class="username">via Google Scholar</span></a></li>
   {%- endif -%}
 
 </ul>

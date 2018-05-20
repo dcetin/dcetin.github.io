@@ -8,8 +8,9 @@
     <div class="footer-col-wrapper">
 
       <div class="footer-col footer-col-1">
-        <p>Via email: {{ site.email }}</p>
-        <p>or rather: {{ site.inst-email }}</p>
+        <p>Via email:</p>
+        <p>{{ site.email }}</p>
+        <p>{{ site.inst-email }}</p>
       </div>
 
       <div class="footer-col footer-col-2">
@@ -24,6 +25,6 @@
   </div>
 
   <div class="endnote-wrapper">
-    <p>&copy; 2018 Doruk Çetin &middot; Powered by the Minima theme for Jekyll. Last updated at {{ "now" | date: "%b %d, %y" }}.</p>
+    <p class="endnote">&copy; 2018 Doruk Çetin &middot; Powered by the Minima theme for Jekyll. Last updated on {{ "now" | date: "%b %d, %y" }}.</p>
   </div>
 </footer>

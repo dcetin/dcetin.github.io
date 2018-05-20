@@ -114,7 +114,9 @@
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0 $spacing-unit / 2 0;
+  // Custom CSS starts:
+  padding-top: $spacing-unit;
+  // and ends.
 }
 
 .footer-heading {

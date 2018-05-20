@@ -90,10 +90,16 @@ html[xmlns] .clearfix { display: block;}
 .endnote-wrapper {
   display: flex;
   border-top: 1px solid $grey-color-light;
-  height: 1em;
   justify-content: center;
   vertical-align: middle;
+  text-align: center;
   color: $grey-color;
   @include relative-font-size(0.8);
-  padding-top: $spacing-unit/2;
+  padding: $spacing-unit/2 0;
+  margin: 0 16px;
+}
+
+.endnote {
+  margin-bottom: 0;
+  display: inline-block;
 }

@@ -21,13 +21,15 @@ description: >-
   Tis but a personal website.
 
 baseurl: ""
-url: "https://dcetin.github.io/"
+url: "http://dorukcetin.me/"
 lang: en_US
 
 github_username:  dcetin
 linkedin_username: doruk-cetin
 letterboxd_username: Mirakodus
 spotify_username: "11145656283"
+instagram_username: "drkcetin"
+gscholar_username: "xbYfOpAAAAAJ"
 
 social:
   name: Doruk Çetin
