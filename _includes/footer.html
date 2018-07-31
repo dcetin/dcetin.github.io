@@ -1,28 +1,7 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
-
-    <h2 class="footer-heading">Contact</h2>
-
-    <div class="footer-col-wrapper">
-
-      <div class="footer-col footer-col-1">
-        <p>Via email:</p>
-        <p>{{ site.email }}</p>
-        <p>{{ site.inst-email }}</p>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social-pro.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        {%- include social-per.html -%}
-      </div>
-    </div>
-
-  </div>
+  {%- include footer-contact.html -%}
 
   <div class="endnote-wrapper">
     <p class="endnote">&copy; {{ "now" | date: "%Y" }} Doruk Çetin &middot; Powered by the Minima theme for Jekyll. Last updated on {{ "now" | date: "%b %d, %y" }} &middot; <a href="/faq/">FAQ</a> </p>

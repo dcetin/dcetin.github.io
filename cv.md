@@ -18,9 +18,6 @@ title="Research Intern at Intelligent Behaviour Understanding Group" loc="London
 {% include cv-entry.html name="École polytechnique fédérale de Lausanne" dates="Summer 2016" 
 title="Research Intern at Data Intensive Applications and Systems Laboratory" loc="Lausanne, CH" %}
 
-## Publications
-1. S. Petridis, J. Shen, **D. Cetin**, and M. Pantic, "Visual-Only Recognition of Normal, Whispered And Silent Speech", _IEEE ICASSP_, 2018 [[pdf]](https://ibug.doc.ic.ac.uk/media/uploads/documents/normalwhispersilentdb.pdf)
-
 ## Teaching
 * Student Teaching Assistant at CENG 242, Programming Language Concepts  
 _Spring 2018, Middle East Technical University_

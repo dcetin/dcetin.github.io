@@ -76,6 +76,33 @@ html[xmlns] .clearfix {
   margin-bottom: 0;
   display: inline-block; }
 
+.main-pic {
+  float: left;
+  height: 300px;
+  width: 300px;
+  margin: 5px 20px 20px 0; }
+
+.index-col-wrapper {
+  font-size: 15px;
+  color: #828282;
+  margin-left: -15px; }
+
+.index-col {
+  float: left;
+  margin-bottom: 15px;
+  padding-left: 15px; }
+
+.index-col-1 {
+  width: -webkit-calc(40% - (30px / 2));
+  width: calc(40% - (30px / 2)); }
+
+.index-col-2 {
+  width: -webkit-calc(60% - (30px / 2));
+  width: calc(60% - (30px / 2)); }
+
+.social-media-list > li {
+  height: auto; }
+
 /**
  * Reset some basic elements
  */
@@ -217,7 +244,7 @@ pre {
 /**
  * Clearfix
  */
-.wrapper:after, .footer-col-wrapper:after {
+.index-col-wrapper:after, .wrapper:after, .footer-col-wrapper:after {
   content: "";
   display: table;
   clear: both; }

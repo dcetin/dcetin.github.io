@@ -48,6 +48,7 @@ plugins:
 
 header_pages:
   - "cv.md"
+  - "publications.md"
   - "personal.md"
 
 # Exclude from processing.

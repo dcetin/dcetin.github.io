@@ -103,3 +103,37 @@ html[xmlns] .clearfix { display: block;}
   margin-bottom: 0;
   display: inline-block;
 }
+
+.main-pic {
+  float: left;
+  height: 300px;
+  width: 300px;
+  margin: 5px 20px 20px 0;
+}
+
+.index-col-wrapper {
+  @include relative-font-size(0.9375);
+  color: $grey-color;
+  margin-left: -$spacing-unit / 2;
+  @extend %clearfix;
+}
+
+.index-col {
+  float: left;
+  margin-bottom: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+}
+
+.index-col-1 {
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+  width:         calc(40% - (#{$spacing-unit} / 2));
+}
+
+.index-col-2 {
+  width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+  width:         calc(60% - (#{$spacing-unit} / 2));
+}
+
+.social-media-list > li {
+  height: auto;
+}
