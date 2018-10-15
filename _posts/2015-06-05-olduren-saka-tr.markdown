@@ -8,6 +8,7 @@ categories: tr comic
 slug: the-killing-joke
 permalink: /:categories/:title
 image: "the-killing-joke-2.jpg"
+excerpt: "Kendini tatsız düşüncelere bağlanmış, geçmişinde çığlıkların dayanılmaz olduğu yerlere gidiyor bulduğunda, her zaman deliliğin varlığını hatırla. Delilik acil durum çıkışıdır. Dışarı bir adım atabilir ve yaşanmış tüm korkunçlukların üzerine bir kapı kapatabilirsin, onları kilitleyebilirsin... sonsuza dek."
 ---
 The Killing Joke, ya da Türkçe ismiyle Öldüren Şaka gerçek bir klasik. Yazılmış en iyi Joker hikayesi, Miller’ın eserlerini saymazsak da kesinlikle en iyi Batman hikayelerinden biri. Yazar dünyaca ünlü Alan Moore; adını hala duymayan okurlar şimdi “Hah!” diyecekler çünkü kendisi V for Vendetta, Watchmen, From Hell, Swamp Thing diye alıp başını uzayan bir bibliyografiye sahip bir efsane. Çizer ise 2000 AD (Judge Dredd) ve DC Comics için çok defa kalemini oynatmış Brian Bolland. Bolland ayrıca 2008’deki yeniden basımda bu çizgi romanı gerçekçi ve kasvetli renklerine bürüyen kişi.
 

@@ -8,6 +8,7 @@ categories: tr film
 slug: birdman
 permalink: /:categories/:title
 image: "birdman-3.jpg"
+excerpt: "İnsancıl bir hikaye anlatıyor Iñárritu. Başarı, mutluluk, ego, ün, sanat gibi birçok kavram üzerinde geziniyor; onlar hakkında sorular soruyor."
 ---
 ![birdman-1]({{ "/assets/posts/birdman-1.jpg" | absolute_url }})
 

@@ -18,10 +18,17 @@ $table-text-align: left !default;
 // Width of the content area
 $content-width:    800px !default;
 $on-palm:          600px !default;
+$on-palm-ii:      550px !default;
 $on-laptop:        800px !default;
 
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
+}
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
 }
 
 // for cv-entry justified text
@@ -106,8 +113,8 @@ html[xmlns] .clearfix { display: block;}
 
 .main-pic {
   float: left;
-  height: 300px;
-  width: 300px;
+  max-height: 300px;
+  max-width: 300px;
   margin: 5px 20px 20px 0;
 }
 
@@ -136,4 +143,46 @@ html[xmlns] .clearfix { display: block;}
 
 .social-media-list > li {
   height: auto;
+}
+
+
+@include media-query($on-palm-ii) {
+  .index-col {
+    float: none;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+}
+
+.list-wrapper {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  grid-gap: 10px;
+}
+
+.list-box {
+  object-fit: cover;
+  height: 90px;
+  width: 160px;
+}
+
+.list-post-title {
+  font-weight: bold;
+  @include relative-font-size(1.5);
+  margin-right: 10px;
+}
+
+.list-post-date {
+  color: $grey-color-dark;
+  font-style: italic;
+  margin-right: 10px;
+}
+
+.list-post-lang {
+  margin-right: 10px;
+}
+
+blockquote.list-post-excerpt {
+  @include relative-font-size(1.0);
+  margin-right: 10px;
 }

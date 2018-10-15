@@ -8,6 +8,7 @@ categories: tr tv
 slug: fargo
 permalink: /:categories/:title
 image: "fargo-1.jpg"
+excerpt: "Sezon ortası Fargo incelemesi – o müthiş ilk sezona Llayık mı?"
 ---
 FX’in kara mizah yüklü suç dizisi Fargo ikinci sezonuna başladı ve hatta dört bölümü arkasında bıraktı. Dizi hakkında bir şeyler karalamak için bir bölüm daha bekleyecektim ama olmadı, bekleyemedim, başlıkta da yalan söyledim. Belki bir şeyler konuşmak için yine erkendir, ilerleyen bölümleri izleyip resmin bütününe tekrardan bakarız ama şimdilik kuzeyde işlerin yolunda gittiğini gönül rahatlığıyla söyleyebilirim. Yazı spoilersız olmalı, ama n’olur n’olmaz, dördüncü bölümü de izleyip öyle gelin siz.
 

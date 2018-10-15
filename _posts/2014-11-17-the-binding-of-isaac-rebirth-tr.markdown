@@ -8,6 +8,7 @@ categories: tr game
 slug: the-binding-of-isaac-rebirth
 permalink: /:categories/:title
 image: "binding-of-isaac-1.jpg"
+excerpt: "İlk oyunu ve DLC’sini oynayanlar için bile kaçırılmaması gereken bir oyun. Herkese hitap etmeyi başarabiliyor ve aynı zamanda hardcore oyuncuları da başından kaldırmıyor."
 ---
 > İlk oyunu ve DLC’sini oynayanlar için bile kaçırılmaması gereken bir oyun. Herkese hitap etmeyi başarabiliyor ve aynı zamanda hardcore oyuncuları da başından kaldırmıyor.
 

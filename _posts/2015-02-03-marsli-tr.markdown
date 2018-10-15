@@ -8,6 +8,7 @@ categories: tr book
 slug: the-martian
 permalink: /:categories/:title
 image: "the-martian-2.jpg"
+excerpt: "Marslı hem türe yeni olanlara hem de klasik bilimkurgu hayranlarına rahatlıkla önerebileceğim bir kitap."
 ---
 > Marslı hem türe yeni olanlara hem de klasik bilimkurgu hayranlarına rahatlıkla önerebileceğim bir kitap.
 

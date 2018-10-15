@@ -8,6 +8,7 @@ categories: tr comic
 slug: fight-club-2
 permalink: /:categories/:title
 image: "fight-club-2-1.jpg"
+excerpt: "Bazı hayali arkadaşlar asla çekip gitmez!"
 ---
 > “Bazı hayali arkadaşlar asla çekip gitmez!” 
 

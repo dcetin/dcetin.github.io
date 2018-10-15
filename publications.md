@@ -7,7 +7,10 @@ Alternatively, my Google Scholar page is [this way](https://scholar.google.com/c
 
 ---&nbsp;
 
-* **Visual-Only Recognition of Normal, Whispered And Silent Speech**  
+* **[DTSS '18]** **AlgoTrade: A web-based algorithmic trading and backtesting framework**  
+**D. Cetin**, B. Aydemir, E. Aldemir, U. Akunal, C. Seylan and S. Temizer  
+_International Conference & Exhibition on Digital Transformation & Smart Systems, October 2018_
+
+* **[ICASSP '18]** [**Visual-Only Recognition of Normal, Whispered And Silent Speech** ](https://ibug.doc.ic.ac.uk/media/uploads/documents/normalwhispersilentdb.pdf)  
 S. Petridis, J. Shen, **D. Cetin**, and M. Pantic  
-_IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018_  
-[[pdf]](https://ibug.doc.ic.ac.uk/media/uploads/documents/normalwhispersilentdb.pdf)
+_IEEE International Conference on Acoustics, Speech and Signal Processing, April 2018_

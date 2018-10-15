@@ -8,6 +8,7 @@ categories: en film
 slug: lovecraftian-films
 permalink: /:categories/:title
 image: "in-the-mouth-of-madness-4.jpg"
+excerpt: "Unrecognized at his time and lived much of his life in poverty, Howard Phillips Lovecraft shaped the horror fiction of a century and had a lasting legacy that still influences the horror genre through various mediums."
 ---
 Unrecognized at his time and lived much of his life in poverty, Howard Phillips Lovecraft shaped the horror fiction of a century and had a lasting legacy that still influences the horror genre through various mediums.
 

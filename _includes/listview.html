@@ -1,0 +1,18 @@
+<div class="list-wrapper">
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {%- for post in site.posts -%}
+  
+  <a class="post-link" href="{{ post.url | relative_url }}">
+    <img src=" {{ '../assets/posts/' | append: post.image | append: ''}} " class="list-box">
+  </a>
+  <div>
+    <span class="list-post-title"> {{ post.title | escape }} </span>
+    <span class="list-post-date"> {{ post.date | date: date_format }} </span>
+    <span class="list-post-lang"> {{ post.lang }} </span>
+    <!--<img src=" {{ '../assets/' | append: post.lang | append: '.svg'}} " style="height: 15px">-->
+   <!-- <blockquote class="list-post-excerpt"> {{ post.excerpt }} </blockquote>-->
+  </div>
+
+  {%- endfor -%}
+</div>
+

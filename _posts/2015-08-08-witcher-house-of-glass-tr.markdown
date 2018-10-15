@@ -8,6 +8,7 @@ categories: tr game
 slug: witcher-house-of-glass
 permalink: /:categories/:title
 image: "witcher-house-of-glass-1.jpg"
+excerpt: "Tek düşünebildiğim bu dünyanın canavarları olmuştu. Kahrolası sayıda çok canavarın nasıl da gizlice pusuda yattığı. Marta’nın asla güvende olmadığı."
 ---
 > “Tek düşünebildiğim bu dünyanın canavarları olmuştu. Kahrolası sayıda çok canavarın nasıl da gizlice pusuda yattığı. Marta’nın asla güvende olmadığı.”
 

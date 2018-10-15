@@ -8,6 +8,7 @@ categories: tr film
 slug: interstellar
 permalink: /:categories/:title
 image: "interstellar-1.jpg"
+excerpt: "Nolan'dan bağımsız bir film samimiyetinde, insan odaklı bir bilimkurgu."
 ---
 > Nolan'dan bağımsız bir film samimiyetinde, insan odaklı bir bilimkurgu.
 
