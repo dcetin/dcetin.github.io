@@ -8,5 +8,6 @@ categories: en game
 slug: name
 permalink: /:categories/:title
 image: "name.jpg"
+excerpt: ""
 ---
 ![name]({{ "/assets/posts/name.jpg" | absolute_url }})

@@ -31,6 +31,7 @@ letterboxd_username: Mirakodus
 spotify_username: "11145656283"
 instagram_username: "drkcetin"
 gscholar_username: "xbYfOpAAAAAJ"
+# https://dblp.uni-trier.de/pers/hd/c/Cetin:Doruk
 
 social:
   name: Doruk Çetin
@@ -46,8 +47,10 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+# - jekyll-email-protect
 
 header_pages:
+  - "contact.md"
   - "cv.md"
   - "publications.md"
   - "personal.md"

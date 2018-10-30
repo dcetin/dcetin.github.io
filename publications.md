@@ -11,6 +11,7 @@ Alternatively, my Google Scholar page is [this way](https://scholar.google.com/c
 **D. Cetin**, B. Aydemir, E. Aldemir, U. Akunal, C. Seylan and S. Temizer  
 _International Conference & Exhibition on Digital Transformation & Smart Systems, October 2018_
 
-* **[ICASSP '18]** [**Visual-Only Recognition of Normal, Whispered And Silent Speech** ](https://ibug.doc.ic.ac.uk/media/uploads/documents/normalwhispersilentdb.pdf)  
+* **[ICASSP '18]** [**Visual-Only Recognition of Normal, Whispered And Silent Speech** ](https://arxiv.org/abs/1802.06399)  
 S. Petridis, J. Shen, **D. Cetin**, and M. Pantic  
 _IEEE International Conference on Acoustics, Speech and Signal Processing, April 2018_
+<!--https://ibug.doc.ic.ac.uk/media/uploads/documents/normalwhispersilentdb.pdf-->
