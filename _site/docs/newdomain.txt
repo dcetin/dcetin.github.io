@@ -1,0 +1,8 @@
+Github help on topic: https://help.github.com/en/articles/using-a-custom-domain-with-github-pages
+Change the DNS records: four A entries and one www entry
+Register the site in Google Search Console
+Register the site in Google Analytics
+Link Analytics and Search Console properties
+Change config.yml, CNAME and Analytics snippet in head.html
+Redirect to custom domain in github repo
+Request indexing in Google Search Console
