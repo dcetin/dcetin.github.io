@@ -13,13 +13,15 @@ title="Direct Doctorate in Computer Science" loc="Zurich, CH" %}
 title="Bachelor of Science in Computer Engineering" loc="Ankara, TR" %}
 
 ## Experience
+{% include cv-entry.html name="ETH Zurich" dates="Summer 2019"
+title="Student Research Assistant at Data Analytics Lab" loc="Zurich, CH" %}
 {% include cv-entry.html name="Imperial College London" dates="Summer 2017" 
 title="Research Intern at Intelligent Behaviour Understanding Group" loc="London, UK" %}
 {% include cv-entry.html name="École polytechnique fédérale de Lausanne" dates="Summer 2016" 
 title="Research Intern at Data Intensive Applications and Systems Laboratory" loc="Lausanne, CH" %}
 
 ## Teaching
-* Student Teaching Assistant at CENG 242, Programming Language Concepts  
-_Spring 2018, Middle East Technical University_
-* Student Teaching Assistant at CENG 230, Introduction to C Programming  
-_Fall 2016, Middle East Technical University_
+* Student Teaching Assistant at Middle East Technical University  
+_Programming Language Concepts (CENG 242), Spring 2018_
+* Student Teaching Assistant at Middle East Technical University  
+_Introduction to C Programming (CENG 230), Fall 2016_

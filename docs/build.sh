@@ -18,5 +18,6 @@ rbenv local 2.5.1
 gem install bundler
 cd ~/Desktop/dcetin.github.io/
 gem install bundler
+gem update --system
 bundle install
 bundle exec jekyll serve
