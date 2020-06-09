@@ -7,9 +7,9 @@ Alternatively, my Google Scholar page is [this way](https://scholar.google.com/c
 
 ---&nbsp;
 
-* **[DTSS '18]** **AlgoTrade: A web-based algorithmic trading and backtesting framework**  
+<!-- * **[DTSS '18]** **AlgoTrade: A web-based algorithmic trading and backtesting framework**  
 **D. Cetin**, B. Aydemir, E. Aldemir, U. Akunal, C. Seylan and S. Temizer  
-_International Conference & Exhibition on Digital Transformation & Smart Systems, October 2018_
+_International Conference & Exhibition on Digital Transformation & Smart Systems, October 2018_ -->
 
 * **[ICASSP '18]** [**Visual-Only Recognition of Normal, Whispered And Silent Speech** ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461596)  
 S. Petridis, J. Shen, **D. Cetin**, and M. Pantic  

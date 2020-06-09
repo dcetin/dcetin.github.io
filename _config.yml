@@ -53,7 +53,7 @@ plugins:
 header_pages:
   - "contact.md"
   - "cv.md"
-  - "publications.md"
+  # - "publications.md"
   - "personal.md"
 
 # Exclude from processing.

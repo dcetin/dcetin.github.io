@@ -195,10 +195,24 @@ blockquote.list-post-excerpt {
 }
 
 .fullscreen-content {
-  width: 95vw;/* <-- children as wide as the browser window (viewport) */
+  width: 90vw;/* <-- children as wide as the browser window (viewport) */
   margin-left: calc(-1 * ((100vw - 100%) / 2));/* align left edge to the left edge of the viewport */
   margin-right: calc(-1 * ((100vw - 100%) / 2));/* align left edge to the left edge of the viewport */
   /* The above is basically saying to set the left margin to minus the width of the viewport MINUS the width of the parent, divided by two, so the left edge of the viewport */
   display: inline-block;
 }
 
+.wide-content {
+  width: 70vw;/* <-- children as wide as the browser window (viewport) */
+  margin-left: calc(-1 * ((100vw - 100%) / 2));/* align left edge to the left edge of the viewport */
+  margin-right: calc(-1 * ((100vw - 100%) / 2));/* align left edge to the left edge of the viewport */
+  /* The above is basically saying to set the left margin to minus the width of the viewport MINUS the width of the parent, divided by two, so the left edge of the viewport */
+  display: inline-block;
+}
+
+iframe {
+  max-width: 85vw;
+  min-width: 40vw;
+  max-height: 85vw;
+  min-height: 40vw;
+}
