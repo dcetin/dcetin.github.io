@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-This is a short summary. If you'd rather read the longer one, it's <a href="/docs/Doruk_Cetin_Public_CV.pdf" target="_blank">here</a> in pdf format.
+This is a short summary. If you'd rather read the longer one, it's <a href="/docs/doruk_cetin_cv.pdf" target="_blank">here</a> in pdf format.
 
 ---&nbsp;
 ## Education
@@ -14,11 +14,11 @@ title="B.S. in Computer Engineering" loc="Ankara, TR" %}
 
 ## Experience
 {% include cv-entry.html name="ETH Zurich" dates="Summer 2019"
-title="Student Research Assistant at Data Analytics Lab" loc="Zurich, CH" %}
+title="Student Research Assistant" loc="Zurich, CH" subtitle="at Data Analytics Lab" %}
 {% include cv-entry.html name="Imperial College London" dates="Summer 2017" 
-title="Research Intern at Intelligent Behaviour Understanding Group" loc="London, UK" %}
+title="Research Intern" loc="London, UK" subtitle="at iBUG group" %}
 {% include cv-entry.html name="École polytechnique fédérale de Lausanne" dates="Summer 2016" 
-title="Research Intern at Data Intensive Applications and Systems Laboratory" loc="Lausanne, CH" %}
+title="Research Intern" loc="Lausanne, CH" subtitle="at DIAS lab" %}
 
 <!-- ## Teaching
 * Student Teaching Assistant at Middle East Technical University  
