@@ -48,13 +48,15 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jemoji
 # - jekyll-email-protect
 
 header_pages:
   - "contact.md"
   - "cv.md"
-  - "publications.md"
+  - "projects.md"
   - "personal.md"
+  - "publications.md"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
