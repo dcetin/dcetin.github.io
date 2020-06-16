@@ -14,10 +14,13 @@ I have been curious to see if there is any correlation between the ages of award
 
 <div class="fullscreen-wrapper">
     <div class="fullscreen-content">
-        <!-- {% include academy-awards.html %} -->
         <iframe class="iframe-responsive" src="/../assets/posts/academy-awards/academy-awards.html" width="2000" height="550" frameborder="0"></iframe>
     </div>
 </div>
+
+{% comment %}
+{% include academy-awards.html %}
+{% endcomment %}
 
 Dataset and code to generate the plots can be found [here](https://github.com/dcetin/academy-awards). Plot is best viewed (and interacted with) in desktop. If the browser somehow does not display it correctly, you can run the notebook in the repository instead.
 
