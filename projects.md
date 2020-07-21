@@ -14,7 +14,7 @@ permalink: /projects/
 
 ## Personal
 
-&ensp; :clipboard: [resume](https://github.com/dcetin/resume): A simple resume template in Latex.  
+&ensp; :clipboard: [Simple-CV](https://github.com/dcetin/Simple-CV): A minimalistic, multi-page CV template with BibLaTeX support.  
 
 &ensp; :books: [eth-cs-notes](https://github.com/dcetin/eth-cs-notes): Lecture notes and cheatsheets for Master's in Computer Science at ETH Zurich.  
 
