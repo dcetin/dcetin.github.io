@@ -3,16 +3,16 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-This is a short summary. If you'd rather read the longer one, it's <a href="/docs/doruk_cetin_cv.pdf" target="_blank">here</a> in pdf format.
+This is a short summary. If you'd rather read the longer one, it's <a href="/docs/DorukCetinCV.pdf" target="_blank">here</a> in pdf format.
 
 ---&nbsp;
 ## Education
-{% include cv-entry.html name="ETH Zurich" dates="2018-2020" 
+{% include cv-entry.html name="ETH Zurich" dates="2018-Current" 
 title="M.S. in Computer Science" loc="Zurich, CH" %}
 {% include cv-entry.html name="Middle East Technical University" dates="2013-2018" 
 title="B.S. in Computer Engineering" loc="Ankara, TR" %}
 
-## Experience
+## Research Experience
 {% include cv-entry.html name="ETH Zurich" dates="Summer 2019"
 title="Student Research Assistant" loc="Zurich, CH" subtitle="at Data Analytics Lab" %}
 {% include cv-entry.html name="Imperial College London" dates="Summer 2017" 
