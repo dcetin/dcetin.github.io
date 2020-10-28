@@ -1,5 +1,6 @@
 <div class="wrapper cv-entry">
-    <div class="clearfix">
+
+    <!-- <div class="clearfix">
         <span style="float: left; font-weight: 600;">{{ include.name }}</span> 
         <span style="float: right;">{{ include.dates }}</span>
     </div>
@@ -9,5 +10,23 @@
     </div>
     <div class="clearfix">
         <span style="float: left; font-style: italic">{{ include.subtitle }}</span>
+    </div> -->
+
+    <div class="cv-col-wrapper">
+        <div style="margin: auto 0;">
+            <img src="{{ include.logo }}" style="max-width: 100%; height: auto;"> 
+        </div> 
+        <div style="margin: auto 0;">
+        </div> 
+        <div style="margin: auto 0;">
+            <span style="font-weight: 600;">{{ include.name }}</span> 
+            <br>
+            <span>{{ include.subtitle }}</span> 
+        </div> 
+        <div style="margin: auto 0;">
+            <span>{{ include.dates }}</span>
+            <br>
+            <span>{{ include.loc }}</span>
+        </div> 
     </div>
 </div>

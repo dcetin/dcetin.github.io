@@ -216,3 +216,9 @@ iframe {
   max-height: 85vw;
   min-height: 40vw;
 }
+
+.cv-col-wrapper {
+  display: grid;
+  grid-template-columns: 20% 2% 58% 20%;
+  grid-gap: 10px;
+}
