@@ -12,7 +12,7 @@ excerpt: "*if you think mine looks aight"
 ---
 > *if you think mine looks aight
 
-Although these are arguably just simple suggestions, it goes without saying that what I wrote here is my personal opinion. These are not definitive rules and you should use these suggestions as a general guideline to explore what suits your situation best.
+Although these are arguably just simple suggestions, it goes without saying that what I wrote here is my personal opinion. These are not definitive rules and you should use these suggestions as a general guideline to explore what suits your situation best. You can also find the CV template I use on both [github](https://github.com/dcetin/Simple-CV) and [overleaf](https://www.overleaf.com/latex/templates/simple-cv/wmsyrgqwwqnc).
 
 - **Try out ideas:** Iterate over different designs, experiment with different wordings. Don't hesitate to scrap things.
 - **Help the reader:** Remember that person reading your CV might not know every scientific term in your field. Use simple words where you can.
