@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## Research
 
-&ensp; :running: [poser](https://www.research-collection.ethz.ch/handle/20.500.11850/449664): Learning in-the-wild Temporal 3D Pose Estimation from MoCap Data, MSc Thesis.
+&ensp; :running: [poser](https://www.research-collection.ethz.ch/handle/20.500.11850/449664): Learning in-the-wild Temporal 3D Pose Estimation from MoCap Data, Master's thesis.
 
 &ensp; :smiling_imp: [bert-adv-embed](https://github.com/dcetin/bert-adv-embed): Adversarial perturbations on word embeddings of BERT.  
 
