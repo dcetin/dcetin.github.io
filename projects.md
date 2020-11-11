@@ -6,11 +6,13 @@ permalink: /projects/
 
 ## Research
 
+&ensp; :running: [poser](https://www.research-collection.ethz.ch/handle/20.500.11850/449664): Learning in-the-wild Temporal 3D Pose Estimation from MoCap Data, MSc Thesis.
+
 &ensp; :smiling_imp: [bert-adv-embed](https://github.com/dcetin/bert-adv-embed): Adversarial perturbations on word embeddings of BERT.  
 
 &ensp; :lips: [AV Digits Database](https://ibug-avs.eu/): Audiovisual dataset for normal, whispered and silent speech.  
 
-&ensp; :chart: [AlgoTrade](https://senior.ceng.metu.edu.tr/2018/algotrading/): Web-based algorithmic trading framework.  
+&ensp; :chart: [AlgoTrade](https://senior.ceng.metu.edu.tr/2018/algotrading/): Web-based algorithmic trading framework, BSc final year project.  
 
 ## Personal
 
