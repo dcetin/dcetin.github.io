@@ -1,50 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2020-12-13T14:26:19+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Doruk Çetin</title><subtitle>Tis but a personal website.</subtitle><author><name>Doruk Çetin</name></author><entry xml:lang="en"><title type="html">Academy Awards</title><link href="http://localhost:4000/en/blog/academy-awards" rel="alternate" type="text/html" title="Academy Awards" /><published>2019-11-14T22:00:00+01:00</published><updated>2019-11-14T22:00:00+01:00</updated><id>http://localhost:4000/en/blog/academy-awards</id><content type="html" xml:base="http://localhost:4000/en/blog/academy-awards">&lt;p&gt;I have been curious to see if there is any correlation between the ages of award winners in comparison to their respective nominees in well-known award ceremonies. I wanted to initially try my chance with Academy Awards as there is plenty of easily accessible data, but this same idea could be easily applied to many other competitions. The interactive plot below compares the ages of nominees and winners of the Academy Awards for three categories.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2020-12-22T04:15:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Doruk Çetin</title><subtitle>Tis but a personal website.</subtitle><author><name>Doruk Çetin</name></author><entry xml:lang="en"><title type="html">Y Tu Mamá También</title><link href="http://localhost:4000/en/film/y-tu-mama-tambien" rel="alternate" type="text/html" title="Y Tu Mamá También" /><published>2020-12-22T01:00:00+01:00</published><updated>2020-12-22T01:00:00+01:00</updated><id>http://localhost:4000/en/film/y-tu-mama-tambien</id><content type="html" xml:base="http://localhost:4000/en/film/y-tu-mama-tambien">&lt;p&gt;I don’t know why it took me just over a year to run through my ramblings, but here I go. I was quite overwhelmed when the film has ended and wanted to talk to someone about it. The easiest way was just reading the reviews on Letterboxd, so I may or may not be reiterating what has been said before more eloquently.&lt;/p&gt;
 
-&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
-    &lt;div class=&quot;fullscreen-content&quot;&gt;
-        &lt;iframe class=&quot;iframe-responsive&quot; src=&quot;/../assets/posts/academy-awards/academy-awards.html&quot; width=&quot;2000&quot; height=&quot;550&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/y-tu-mama-tambien-1.jpg&quot; alt=&quot;y-tu-mama-tambien-1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Dataset and code to generate the plots can be found &lt;a href=&quot;https://github.com/dcetin/academy-awards&quot;&gt;here&lt;/a&gt;. Plot is best viewed (and interacted with) in desktop. If the browser somehow does not display it correctly, you can run the notebook in the repository instead.&lt;/p&gt;
+&lt;p&gt;The first act of the film felt slow for me with an abundance of side characters and I found it hard to pay attention to the narration over people I barely knew. Scenes gained so much energy after the phone call with Jano, as the scenes began to focus on the trio. It is easy to see that the actors have a special chemistry which might not have been there without their relationship off-screen. Maribel Verdú notably carries so much weight in her role — you get to know both past and current Luisa easily, just by listening to her on the road.&lt;/p&gt;
 
-&lt;p&gt;I used &lt;a href=&quot;https://plot.ly/python/&quot;&gt;Plotly Python&lt;/a&gt; to generate the plot. You can select the dataset via the buttons on the left side and toggle shown data by clicking on the legend entries on the right side. Hovering over the scatter plot will show the details of the data entries.&lt;/p&gt;
+&lt;p&gt;The acting and the dialogue is so sincere that you cannot tell if you are watching a film or not; every scene plays like it is real. Each swearing, sex, or tantrum feels like it has already happened somewhere in that part of the world. I should add that I may be a tad biased towards the acting as we learn the director’s intentions on-the-fly through the narrator, though I believe it does not make the acting less precious. In fact, this is the film that made me re-evaluate my prejudices against voice-over narration and celebrate its purposefulness.&lt;/p&gt;
 
-&lt;h1 id=&quot;more-plots&quot;&gt;More Plots!&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/y-tu-mama-tambien-2.jpg&quot; alt=&quot;y-tu-mama-tambien-2&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;You can also &lt;a href=&quot;https://colab.research.google.com/github/dcetin/academy-awards/blob/master/academy_awards.ipynb&quot;&gt;run the notebook on Colab&lt;/a&gt; to draw trajectories for specific people. I have added a few examples below to illustrate.&lt;/p&gt;
+&lt;p&gt;Characters aside, the most influential effect on such immersion belongs to the setting that was so masterfully put together. The camera is hand-held, lighting is mostly natural and there is no non-diegetic music if my memory does not fail me. In addition to all these, the historical backdrop creates an impression that sets a more realistic atmosphere than most documentaries. I believe this movie could have been easily ruined in the wrong hands over slightly different artistic choices. I found the authenticity here similar to Linklater’s style. I was able to see this film as a mixture of “Before Sunrise” and “Dazed and Confused”, at least in terms of what I felt while watching them and what stayed with me afterward.&lt;/p&gt;
 
-&lt;h2 id=&quot;academy-just-doesnt-recognize-female-directors&quot;&gt;Academy just doesn’t recognize female directors&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/y-tu-mama-tambien-3.jpg&quot; alt=&quot;y-tu-mama-tambien-3&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
-    &lt;div class=&quot;wide-content&quot;&gt;
-        &lt;img src=&quot;/../assets/posts/academy-awards/female_dirs.png&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;I won’t be spoiling it, but I at least have to say that the film hits you hard. It’s already difficult to say goodbye to a story in which you invested so much, but the Cuarón brothers have made it sure that you can’t take their story out of your mind after the credits roll. Remembering the film still makes me feel powerless, although it was such a freeing experience.&lt;/p&gt;
 
-&lt;h2 id=&quot;each-year-a-nomination-for-meryl-streep&quot;&gt;Each year a nomination for Meryl Streep&lt;/h2&gt;
-
-&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
-    &lt;div class=&quot;wide-content&quot;&gt;
-        &lt;img src=&quot;/../assets/posts/academy-awards/streep.png&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;clint-eastwood-89-years-and-still-going-strong&quot;&gt;Clint Eastwood: 89 years and still going strong&lt;/h2&gt;
-
-&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
-    &lt;div class=&quot;wide-content&quot;&gt;
-        &lt;img src=&quot;/../assets/posts/academy-awards/eastwood.png&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;i-still-cant-believe-day-lewis-is-retired&quot;&gt;I still can’t believe Day-Lewis is retired&lt;/h2&gt;
-
-&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
-    &lt;div class=&quot;wide-content&quot;&gt;
-        &lt;img src=&quot;/../assets/posts/academy-awards/day-lewis.png&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Doruk Çetin</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/academy-awards-1.jpg" /></entry><entry xml:lang="en"><title type="html">How to write a good CV</title><link href="http://localhost:4000/en/blog/how-to-write-a-good-cv" rel="alternate" type="text/html" title="How to write a good CV" /><published>2018-12-09T22:00:00+01:00</published><updated>2018-12-09T22:00:00+01:00</updated><id>http://localhost:4000/en/blog/how-to-write-a-good-cv</id><content type="html" xml:base="http://localhost:4000/en/blog/how-to-write-a-good-cv">&lt;blockquote&gt;
+&lt;p&gt;Y Tu Mamá También is an exceptional story on the human condition and is a delight to watch. It is a perfect mix of a road movie, a coming-of-age story, and an erotica — nothing is out of place. Personally, I cannot help but consider it as a 106 minute-long Manu Chao song that I am unable to get out of my head. It is the same fuzzy feeling in my stomach and all the Spanish just makes things harder.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">A perfect mix of a road movie, a coming-of-age story, and an erotica — nothing is out of place.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/y-tu-mama-tambien-3.jpg" /></entry><entry xml:lang="en"><title type="html">How to write a good CV</title><link href="http://localhost:4000/en/blog/how-to-write-a-good-cv" rel="alternate" type="text/html" title="How to write a good CV" /><published>2018-12-09T22:00:00+01:00</published><updated>2018-12-09T22:00:00+01:00</updated><id>http://localhost:4000/en/blog/how-to-write-a-good-cv</id><content type="html" xml:base="http://localhost:4000/en/blog/how-to-write-a-good-cv">&lt;blockquote&gt;
   &lt;p&gt;*if you think mine looks aight&lt;/p&gt;
 &lt;/blockquote&gt;
 
