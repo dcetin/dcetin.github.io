@@ -1,32 +1,33 @@
 <div class="wrapper cv-entry">
 
-    <!-- <div class="clearfix">
-        <span style="float: left; font-weight: 600;">{{ include.name }}</span> 
-        <span style="float: right;">{{ include.dates }}</span>
-    </div>
-    <div class="clearfix">
-        <span style="float: left;">{{ include.title }}</span> 
-        <span style="float: right;">{{ include.loc }}</span>
-    </div>
-    <div class="clearfix">
-        <span style="float: left; font-style: italic">{{ include.subtitle }}</span>
-    </div> -->
-
     <div class="cv-col-wrapper">
         <div style="margin: auto 0;">
-            <img src="{{ include.logo }}" style="max-width: 100%; height: auto;"> 
+            {% if include.logo_url %}
+               <a href="{{ include.logo_url }}"><img src="{{ include.logo }}" style="max-width: 100%; height: auto;"></a>
+            {% else %}
+                <img src="{{ include.logo }}" style="max-width: 100%; height: auto;">
+            {% endif %}
         </div> 
         <div style="margin: auto 0;">
         </div> 
         <div style="margin: auto 0;">
-            <span style="font-weight: 600;">{{ include.name }}</span> 
+
+            {% if include.name_url %}
+                <span style="font-weight: 600;"><a style="color:inherit;" href="{{ include.name_url }}">{{ include.name }}</a></span>
+            {% else %}
+                <span style="font-weight: 600;">{{ include.name }}</span> 
+            {% endif %}
             <br>
-            <span>{{ include.subtitle }}</span> 
+            {% if include.loc_url %}
+                <span>{{ include.title }} <a style="color:inherit;" href="{{ include.loc_url }}">{{ include.loc }}</a></span>
+            {% else %}
+                <span>{{ include.title }} {{ include.loc }}</span> 
+            {% endif %}
         </div> 
         <div style="margin: auto 0;">
             <span>{{ include.dates }}</span>
             <br>
-            <span>{{ include.loc }}</span>
+            <span>{{ include.city }}</span>
         </div> 
     </div>
 </div>

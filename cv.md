@@ -7,20 +7,20 @@ This is a short summary. If you'd rather read the longer one, it's <a href="/doc
 
 ---&nbsp;
 ## Education
-{% include cv-entry.html name="ETH Zurich" dates="2018-Current" logo="/assets/logo/eth.png"
-title="M.S. in Computer Science" subtitle="M.S. in Computer Science" loc="Zurich, CH" %}
+{% include cv-entry.html name="ETH Zurich" dates="2018-2021" logo="/assets/logo/eth.png"
+title="M.S. in Computer Science" city="Zurich, CH" name_url="https://www.ethz.ch/en.html" %}
 {% include cv-entry.html name="Middle East Technical University" dates="2013-2018" logo="/assets/logo/metu.png"
-title="B.S. in Computer Engineering" subtitle="B.S. in Computer Engineering" loc="Ankara, TR" %}
+title="B.S. in Computer Engineering" city="Ankara, TR" name_url="https://www.metu.edu.tr" %}
 
-## Research Experience
+## Experience
 {% include cv-entry.html name="DisneyResearch|Studios" dates="Winter 2020" logo="/assets/logo/disney.png"
-title="Research Intern" loc="Zurich, CH" subtitle="at Animation Group" %}
+title="Intern at" loc="Animation Group" city="Zurich, CH" name_url="https://studios.disneyresearch.com/" %}
 {% include cv-entry.html name="ETH Zurich" dates="Summer 2019" logo="/assets/logo/eth.png"
-title="Student Research Assistant" loc="Zurich, CH" subtitle="at Data Analytics Lab" %}
+title="Intern at" loc="Data Analytics Lab" city="Zurich, CH" loc_url="http://www.da.inf.ethz.ch" name_url="https://www.ethz.ch/en.html" %}
 {% include cv-entry.html name="Imperial College London" dates="Summer 2017" logo="/assets/logo/imperial.png"
-title="Research Intern" loc="London, UK" subtitle="at iBUG group" %}
+title="Intern at" loc="iBUG group" city="London, UK" loc_url="https://ibug.doc.ic.ac.uk/" name_url="https://www.imperial.ac.uk/" %}
 {% include cv-entry.html name="École polytechnique fédérale de Lausanne" dates="Summer 2016" logo="/assets/logo/epfl.png"
-title="Research Intern" loc="Lausanne, CH" subtitle="at DIAS lab" %}
+title="Intern at" loc="DIAS lab" city="Lausanne, CH" loc_url="https://dias.epfl.ch/" name_url="https://www.epfl.ch/en/" %}
 
 <!-- ## Teaching
 * Student Teaching Assistant at Middle East Technical University  
