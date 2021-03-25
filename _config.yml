@@ -16,7 +16,7 @@
 title: Doruk Çetin
 author: Doruk Çetin
 email: doruk.cetin.dc@gmail.com
-inst_email: dcetin@student.ethz.ch
+inst_email: dcetin@ethz.ch
 # prev_email: doruk.cetin@metu.edu.tr
 description: >-
   Tis but a personal website.
@@ -56,7 +56,7 @@ header_pages:
   - "cv.md"
   - "projects.md"
   - "personal.md"
-  - "publications.md"
+  # - "publications.md"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

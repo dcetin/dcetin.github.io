@@ -7,12 +7,14 @@ This is a short summary. If you'd rather read the longer one, it's <a href="/doc
 
 ---&nbsp;
 ## Education
-{% include cv-entry.html name="ETH Zurich" dates="2018-2021" logo="/assets/logo/eth.png"
+{% include cv-entry.html name="ETH Zurich" dates="2018 - 2021" logo="/assets/logo/eth.png"
 title="M.S. in Computer Science" city="Zurich, CH" name_url="https://www.ethz.ch/en.html" %}
-{% include cv-entry.html name="Middle East Technical University" dates="2013-2018" logo="/assets/logo/metu.png"
+{% include cv-entry.html name="Middle East Technical University" dates="2013 - 2018" logo="/assets/logo/metu.png"
 title="B.S. in Computer Engineering" city="Ankara, TR" name_url="https://www.metu.edu.tr" %}
 
 ## Experience
+{% include cv-entry.html name="Arbrea Labs" dates="April 2021 - " logo="/assets/logo/arbrea.png"
+title="Deep Learning Engineer" loc="" city="Zurich, CH" name_url="https://arbrea-labs.com/" %}
 {% include cv-entry.html name="DisneyResearch|Studios" dates="Winter 2020" logo="/assets/logo/disney.png"
 title="Intern at" loc="Animation Group" city="Zurich, CH" name_url="https://studios.disneyresearch.com/" %}
 {% include cv-entry.html name="ETH Zurich" dates="Summer 2019" logo="/assets/logo/eth.png"
