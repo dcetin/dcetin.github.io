@@ -13,7 +13,9 @@ title="M.S. in Computer Science" city="Zurich, CH" name_url="https://www.ethz.ch
 title="B.S. in Computer Engineering" city="Ankara, TR" name_url="https://www.metu.edu.tr" %}
 
 ## Experience
-{% include cv-entry.html name="Arbrea Labs" dates="April 2021 - " logo="/assets/logo/arbrea.png"
+{% include cv-entry.html name="Align Technology" dates="July 2021 - Present" logo="/assets/logo/align.png"
+title="Research Engineer" loc="" city="Zurich, CH" name_url="https://www.aligntech.com/" %}
+{% include cv-entry.html name="Arbrea Labs" dates="April - July 2021" logo="/assets/logo/arbrea.png"
 title="Deep Learning Engineer" loc="" city="Zurich, CH" name_url="https://arbrea-labs.com/" %}
 {% include cv-entry.html name="DisneyResearch|Studios" dates="Winter 2020" logo="/assets/logo/disney.png"
 title="Intern at" loc="Animation Group" city="Zurich, CH" name_url="https://studios.disneyresearch.com/" %}
@@ -23,9 +25,3 @@ title="Intern at" loc="Data Analytics Lab" city="Zurich, CH" loc_url="http://www
 title="Intern at" loc="iBUG group" city="London, UK" loc_url="https://ibug.doc.ic.ac.uk/" name_url="https://www.imperial.ac.uk/" %}
 {% include cv-entry.html name="École polytechnique fédérale de Lausanne" dates="Summer 2016" logo="/assets/logo/epfl.png"
 title="Intern at" loc="DIAS lab" city="Lausanne, CH" loc_url="https://dias.epfl.ch/" name_url="https://www.epfl.ch/en/" %}
-
-<!-- ## Teaching
-* Student Teaching Assistant at Middle East Technical University  
-_Programming Language Concepts (CENG 242), Spring 2018_
-* Student Teaching Assistant at Middle East Technical University  
-_Introduction to C Programming (CENG 230), Fall 2016_ -->

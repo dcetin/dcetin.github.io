@@ -6,11 +6,13 @@
   <span class="username">via Letterboxd</span></a></li>
   {%- endif -%}
 
+  {% comment %}
   {%- if site.spotify_username -%}
   <li><a href="https://open.spotify.com/user/{{ site.spotify_username| cgi_escape | escape }}">
   <img src="/assets/icons/icons-64/icon-spotify.png" height="20" width="20" style="margin: 6px 6px 6px 0px">
   <span class="username">via Spotify</span></a></li>
   {%- endif -%}
+  {% endcomment %}
 
   {%- if site.instagram_username -%}
   <li><a href="https://www.instagram.com/{{ site.instagram_username| cgi_escape | escape }}">

@@ -12,10 +12,12 @@
   <span class="username">via GitHub</span></a></li>
   {%- endif -%}
 
+  {% comment %}
   {%- if site.gscholar_username -%}
   <li><a href="https://scholar.google.com/citations?user={{ site.gscholar_username| cgi_escape | escape }}">
   <img src="/assets/icons/icons-64/icon-gscholar.png" height="20" width="20" style="margin: 6px 6px 6px 0px">
   <span class="username">via Google Scholar</span></a></li>
   {%- endif -%}
+  {% endcomment %}
 
 </ul>
