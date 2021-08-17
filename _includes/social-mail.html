@@ -1,16 +1,16 @@
 <ul class="social-media-list">
 
   {%- if site.email -%}
-  <p>{{ site.email }}</p>
+  <p>{{ site.email | replace: "@", " [at] " }}</p>
   {%- endif -%}
 
   {%- if site.inst_email -%}
-  <p>{{ site.inst_email }}</p>
+  <p>{{ site.inst_email | replace: "@", " [at] " }}</p>
   {%- endif -%}
 
   {% comment %}
   {%- if site.prev_email -%}
-  <p>{{ site.prev_email }}</p>
+  <p>{{ site.prev_email | replace: "@", " [at] " }}</p>
   {%- endif -%}
   {% endcomment %}
 
