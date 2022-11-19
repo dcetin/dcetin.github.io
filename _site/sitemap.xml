@@ -37,6 +37,10 @@
 <lastmod>2015-08-08T02:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/tr/game/the-witcher</loc>
+<lastmod>2015-09-08T02:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/tr/tv/bojack-horseman</loc>
 <lastmod>2015-09-27T02:00:00+02:00</lastmod>
 </url>
@@ -57,8 +61,16 @@
 <lastmod>2015-11-04T01:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/en/tv/fargo</loc>
+<lastmod>2015-11-08T01:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/en/film/lovecraftian-films</loc>
 <lastmod>2017-02-10T01:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/en/history/achaemenids</loc>
+<lastmod>2018-02-19T22:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/en/blog/how-to-write-a-good-cv</loc>

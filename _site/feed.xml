@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2022-11-19T15:43:22+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Doruk Çetin</title><subtitle>Tis but a personal website.</subtitle><author><name>Doruk Çetin</name></author><entry xml:lang="en"><title type="html">Y Tu Mamá También</title><link href="http://localhost:4000/en/film/y-tu-mama-tambien" rel="alternate" type="text/html" title="Y Tu Mamá También" /><published>2020-12-22T01:00:00+01:00</published><updated>2020-12-22T01:00:00+01:00</updated><id>http://localhost:4000/en/film/y-tu-mama-tambien</id><content type="html" xml:base="http://localhost:4000/en/film/y-tu-mama-tambien">&lt;p&gt;I don’t know why it took me just over a year to run through my ramblings, but here I go. I was quite overwhelmed when the film has ended and wanted to talk to someone about it. The easiest way was just reading the reviews on Letterboxd, so I may or may not be reiterating what has been said before more eloquently.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2022-11-20T00:16:11+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Doruk Çetin</title><subtitle>Tis but a personal website.</subtitle><author><name>Doruk Çetin</name></author><entry xml:lang="en"><title type="html">Y Tu Mamá También</title><link href="http://localhost:4000/en/film/y-tu-mama-tambien" rel="alternate" type="text/html" title="Y Tu Mamá También" /><published>2020-12-22T01:00:00+01:00</published><updated>2020-12-22T01:00:00+01:00</updated><id>http://localhost:4000/en/film/y-tu-mama-tambien</id><content type="html" xml:base="http://localhost:4000/en/film/y-tu-mama-tambien">&lt;p&gt;I don’t know why it took me just over a year to run through my ramblings, but here I go. I was quite overwhelmed when the film has ended and wanted to talk to someone about it. The easiest way was just reading the reviews on Letterboxd, so I may or may not be reiterating what has been said before more eloquently.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/y-tu-mama-tambien-1.jpg&quot; alt=&quot;y-tu-mama-tambien-1&quot; /&gt;&lt;/p&gt;
 
@@ -129,7 +129,311 @@
   &lt;li&gt;&lt;strong&gt;Hobbies:&lt;/strong&gt; Put them, as long as it is more than just “reading books, traveling and sports”. It is a nice idea to underline soft skills with your hobbies, if it applies.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;If you think anything is missing or misleading, please do tell.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">*if you think mine looks aight</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/how-to-write-a-good-cv.png" /></entry><entry xml:lang="en"><title type="html">Lovecraftian Films</title><link href="http://localhost:4000/en/film/lovecraftian-films" rel="alternate" type="text/html" title="Lovecraftian Films" /><published>2017-02-10T01:00:00+01:00</published><updated>2017-02-10T01:00:00+01:00</updated><id>http://localhost:4000/en/film/lovecraftian-films</id><content type="html" xml:base="http://localhost:4000/en/film/lovecraftian-films">&lt;p&gt;Unrecognized at his time and lived much of his life in poverty, Howard Phillips Lovecraft shaped the horror fiction of a century and had a lasting legacy that still influences the horror genre through various mediums.&lt;/p&gt;
+&lt;p&gt;If you think anything is missing or misleading, please do tell.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">*if you think mine looks aight</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/how-to-write-a-good-cv.png" /></entry><entry xml:lang="en"><title type="html">A Brief Timeline of the Achaemenid Empire</title><link href="http://localhost:4000/en/history/achaemenids" rel="alternate" type="text/html" title="A Brief Timeline of the Achaemenid Empire" /><published>2018-02-19T22:00:00+01:00</published><updated>2018-02-19T22:00:00+01:00</updated><id>http://localhost:4000/en/history/achaemenids</id><content type="html" xml:base="http://localhost:4000/en/history/achaemenids">&lt;p&gt;This was actually a term paper of mine for the Anatolian Civilizations in Antiquity I course (HIST 241) but enjoyed working on it a lot, so why not have it here?&lt;/p&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#table-of-contents&quot;&gt;Table of Contents&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#origin&quot;&gt;Origin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cyrus-the-great&quot;&gt;Cyrus the Great&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cambyses-and-dariuss-accession-to-the-throne&quot;&gt;Cambyses and Darius’s Accession to the Throne&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#darius-the-great&quot;&gt;Darius the Great&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#greco-persian-wars-and-xerxes&quot;&gt;Greco-Persian Wars and Xerxes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#artaxerxes-i-and-darius-ii&quot;&gt;Artaxerxes I and Darius II&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#artaxerxes-ii-and-artaxerxes-iii&quot;&gt;Artaxerxes II and Artaxerxes III&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fall-of-the-persian-empire&quot;&gt;Fall of the Persian Empire&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#bibliography&quot;&gt;Bibliography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classical-sources&quot;&gt;Classical Sources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#footnotes&quot;&gt;Footnotes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;We mostly know about the Achaemenid Empire from the perspective of Western History. They were the barbarians&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; that waged war on the Greek city states and they were the ones who were defeated and subsequently conquered by the Alexander the Great of Macedon. The Achaemenid Empire was also cherished as they emancipated the Jewish people when they were exiled from Babylon. This is a natural outcome of the fact that we mostly know about the Achaemenids from the secondary sources, most notably Greeks, as Persians left no literary record of their own history&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. However, they have a lengthy and illustrious history that deserves being studied from their own perspective.&lt;/p&gt;
+
+&lt;h2 id=&quot;origin&quot;&gt;Origin&lt;/h2&gt;
+
+&lt;p&gt;The Achaemenid homeland was Persis (Pārsa in Old Persian), hence the Latin naming of the nomadic tribes as Persians&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. It is located in the southwest Iran where the former Elam city of Anshan (Anšan in Old Persian) stood and it now corresponds to the modern province of Fars. The Achaemenid Empire was established around 550 BC by the Cyrus II (Cyrus the Great), but Persians and their kings can be traced back in time to the beginnings of the 7th century BC. First rulers of the Persian kingdom —namely Teispes, Cyrus I and Cambyses I— acted as satraps until the Cyrus the Great’s revolt against the Median Empire.&lt;/p&gt;
+
+&lt;p&gt;Achaemenid Empire was the first Persian Empire but they were not the first Iranian Empire. At the time of the Achaemenid Empire’s inception, central Iran belonged to the Medes. Outside the Iranian plateau, the Neo-Babylonian Empire ruled the Mesopotamia in the east, Lydians ruled the Western Anatolia. At the far north there were Scythians and at the southwest, pharaoh Psamtik regained the control of Egypt. Therefore, it can be said political landscape surrounding Persia at the 6th century BC was shaped around the aftermath of the Neo-Assyrian Empire’s collapse and the rise of the Achaemenid Empire could be more easily understood in such historical context, concluding a longue durée&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;cyrus-the-great&quot;&gt;Cyrus the Great&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/achaemenids-cyrus-relief.jpg&quot; alt=&quot;achaemenids-cyrus-relief&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Figure 1: Bas-relief of Cyrus the Great in Pasargadae, Iran Chamber Society. http://www.iranchamber.com&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;To understand the Persians better, we shall look at their leader, and indeed its founder is fairly a good example of how this new empire was viewed both by themselves and from a foreigner’s eye. It could be said with ease that Cyrus the Great earned his epithet by building the largest empire ever existed until his time, merely in his thirty years of reign that began with the very foundations of the same empire. His religious tolerance and humane acts are described in many sources, from Babylonian texts to Biblical ones.&lt;/p&gt;
+
+&lt;p&gt;The Achaemenids have been powerful as the kings of Anshan, but they were still under the Median rule. Therefore, Cyrus’s reign starts with the revolt against Astyages, the Median Emperor and coincidentally, his grandfather. Nabonidus Chronicle&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; tells us that it was actually Astyages himself, who initially marched against Persians with conquest in mind&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. Persians put up a lengthy fight and the tides have turned for them with their last battle near Pasargadae, the Achaemenid capital. Polyaenus describes it as “a victory so complete that Cyrus had no need to fight again”&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. This battle was followed with victories against Medes and the war ends as Ecbatana, the Median capital, was captured and Astyages was taken hostage by Cyrus. Cyrus spared Astyages’s life —and even married his daughter Amytis— and he presented himself as the successor of Median Empire&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;. He then marched on to west and after a series of successive victories in Asia Minor and conquered the Lydian capital Sardis. Cyrus once more acted as merciful to the defeated and spared the Croesus’s life and even received a former Median city. He also appointed a Lydian named Pactyes as the satrap, i.e. local governor, of the Sardis.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/achaemenids-cyrus-clinder.jpg&quot; alt=&quot;achaemenids-cyrus-clinder&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Figure 2: Cyrus Cylinder, British Museum. www.britishmuseum.org&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These aforementioned deeds are very good examples of the characteristics of Cyrus’s reign, as well as they illustrate the Persian authority in the subsequent periods. As it has been noted before, Cyrus was revered for his respect and tolerance to local customs, autonomy and religions of the lands conquered. Though these policies have been proved to be successful for the Achaemenids the majority of the time, there were exceptional occasions.&lt;/p&gt;
+
+&lt;p&gt;Following the conquest of Sardis, Cyrus changed his direction to the east, only to learn the news of a Lydian revolt led by Pactyes. Meanwhile, Ionians and Aeolians were refusing to submit to Achaemenid rule and even seeking help from Sparta against them. Cyrus continued his journey to east but sent back Mazares —the Median general who defected to Cyrus— to Lydia to capture Pactyes and punish the revolting cities, both of which he accomplished successfully. Cyrus directly replaced Pactyes with a Persian named Oroetes, in an effort to balance autonomy and authority&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;. We don’t know much about Cyrus’s expeditions at that time, but we know that Cyrus captured Babylon in 539.&lt;/p&gt;
+
+&lt;p&gt;Both the Nabonidus Chronicle and the Cyrus Cylinder&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; present us commentary on the Persian conquest of Babylon. The Cylinder tells us how the last king Nabonidus opposed the Babylonian people and their beliefs, as well as it details how the patron deity Marduk favored Cyrus and aided him with his victory. Both sources also take note of how the conquest progressed as peaceful and without a battle. Briant argues that this war in year 539 was probably the last stage of more lengthy hostilities and the Cylinder displays a powerful example in terms of the propaganda and an accompanying political agenda the Persians employ.&lt;sup id=&quot;fnref:11&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt; It seems that the Egyptian campaign Cambyses led was in planning stages in the last years of Cyrus’s reign and various sources agree on the point that the Egyptian Pharaoh Amasis deliberately tricked either Cyrus or Cambyses, which can be argued to reflect later Persian propaganda rather than the truth&lt;sup id=&quot;fnref:12&quot;&gt;&lt;a href=&quot;#fn:12&quot; class=&quot;footnote&quot;&gt;12&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;We know that Cyrus died in 530, but accounts of his death vary. His remains were transferred to his capital city of Pasargadae and his tomb is still intact today. In fact, Tomb of Cyrus is a great testimony to the Persian synthesis that happened throughout the Persian rule over two centuries. It exemplifies artistic choices and elements from various cultures, from ones preceded the Persians to ones that came under their rule. Indeed, long before Alexander’s conquests, Achaemenid Empire built a bridge that connected west and the east, ranging from Macedonia in the West to the Indus Valley in the East. Such cultural synthesis is visible in other Persian (as well as Greek) pieces of art. Another example to illustrate the subject could be the painted wooden beams found in a Tatarlı wooden tomb chamber. Summerer details how the painting brings together a multifigured battle composition, common in Eastern Greek art, with traditional Persian iconography.&lt;sup id=&quot;fnref:13&quot;&gt;&lt;a href=&quot;#fn:13&quot; class=&quot;footnote&quot;&gt;13&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cambyses-and-dariuss-accession-to-the-throne&quot;&gt;Cambyses and Darius’s Accession to the Throne&lt;/h2&gt;
+
+&lt;p&gt;Cyrus was immediately succeeded by his son Cambyses, as he was appointed as heir by his father. Greek authors Xenophon, Plato and Herodotus compared Cambyses to his father and criticized him as being a decadent and a tyrant, though it would be hard to ascertain such claims with the knowledge of his death and aftermath at hand.&lt;sup id=&quot;fnref:14&quot;&gt;&lt;a href=&quot;#fn:14&quot; class=&quot;footnote&quot;&gt;14&lt;/a&gt;&lt;/sup&gt; Cambyses’s successfully followed the path before him and subjugated Egypt after Polycrates of Samos and Phanes of Halicarnassus defected to him. He expanded the Persian borders to the Kushite (modern-day Sudan) territory but had to withdraw his forces after failing in his attempt to invade Nubia. Contrary to the horrendous image of him presented by Classical historians, especially by Herodotus&lt;sup id=&quot;fnref:15&quot;&gt;&lt;a href=&quot;#fn:15&quot; class=&quot;footnote&quot;&gt;15&lt;/a&gt;&lt;/sup&gt;, Egyptian inscriptions&lt;sup id=&quot;fnref:16&quot;&gt;&lt;a href=&quot;#fn:16&quot; class=&quot;footnote&quot;&gt;16&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:17&quot;&gt;&lt;a href=&quot;#fn:17&quot; class=&quot;footnote&quot;&gt;17&lt;/a&gt;&lt;/sup&gt; draw a completely different image of him, portraying Cambyses as a traditional Egyptian ruler.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/achaemenids-behistun-inscription.jpg&quot; alt=&quot;achaemenids-behistun-inscription&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Figure 3: Behistun Inscription, Wikimedia Commons, www.wikimedia.org&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Cambyses had to leave Egypt and return to his homeland as there was a revolt led by a usurper, in the name of his brother Smerdis&lt;sup id=&quot;fnref:18&quot;&gt;&lt;a href=&quot;#fn:18&quot; class=&quot;footnote&quot;&gt;18&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:19&quot;&gt;&lt;a href=&quot;#fn:19&quot; class=&quot;footnote&quot;&gt;19&lt;/a&gt;&lt;/sup&gt;, and he died on his way back to Persia after receiving a wound. His death and the events that followed it remain to be one of the most disputed periods of Achaemenid history.&lt;/p&gt;
+
+&lt;p&gt;Classical sources —Herodotus in Histories, Ctesias in Persica and Darius I in Behistun Inscription&lt;sup id=&quot;fnref:20&quot;&gt;&lt;a href=&quot;#fn:20&quot; class=&quot;footnote&quot;&gt;20&lt;/a&gt;&lt;/sup&gt;— detail how Cambyses slew his brother from another mother and kept it as a secret, and that the usurper is a man using his brother’s name to claim right to rule. Modern revisions disagree on this topic with the Classical authors; telling of the story of Bardiya (Smerdis) as presented above and genealogy on Behistun Inscription connecting Darius to Teispes (without mentioning Cyrus, interestingly) can be seen as efforts to legitimate his accession to the Persian throne.&lt;sup id=&quot;fnref:21&quot;&gt;&lt;a href=&quot;#fn:21&quot; class=&quot;footnote&quot;&gt;21&lt;/a&gt;&lt;/sup&gt; That way or another, Darius captures and kills Bardiya with the help of six noble Persian families and becomes the third king of the Achaemenid Empire.&lt;/p&gt;
+
+&lt;h2 id=&quot;darius-the-great&quot;&gt;Darius the Great&lt;/h2&gt;
+
+&lt;p&gt;Darius also earned through the test of time the same epithet as his predecessor Cyrus and it is suitable to his exceptional character that is reflected in his works, beginning by his aforementioned accomplishment. During Darius’s reign the Persian Empire lived its golden age. He reorganized the satrapial tribute system, introduced a new currency, standard weights and an official language to the Persian Empire. He expanded the borders, suppressed revolts. He built roads and monuments throughout the empire, palaces in Susa and Persepolis. He even compiled the Egyptian laws and reconstructed temples of Egyptians.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/achaemenids-greatest-territorial-extent.jpg&quot; alt=&quot;achaemenids-greatest-territorial-extent&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Figure 4: Achaemenid Empire at its greatest territorial extent, Wikimedia Commons, www.wikimediacommons.org&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Behistun Inscription boasts about how Darius put down the numerous rebellions that broke out after he became the king.&lt;sup id=&quot;fnref:22&quot;&gt;&lt;a href=&quot;#fn:22&quot; class=&quot;footnote&quot;&gt;22&lt;/a&gt;&lt;/sup&gt; We see the measures he has taken to consolidate his power; he executed the rebellious “liar-kings” by first cutting their noses and ears —as it was customary both in Assyrian and Achaemenid period— and then impaling and displaying them publicly.&lt;sup id=&quot;fnref:23&quot;&gt;&lt;a href=&quot;#fn:23&quot; class=&quot;footnote&quot;&gt;23&lt;/a&gt;&lt;/sup&gt; We learn from Herodotus that he married Cyrus’s two daughters and his granddaughter through Smerdis.&lt;sup id=&quot;fnref:24&quot;&gt;&lt;a href=&quot;#fn:24&quot; class=&quot;footnote&quot;&gt;24&lt;/a&gt;&lt;/sup&gt; On top of this knowledge, how Darius redefined the word Achaemenid and how he proclaimed his authority was from Ahura-Mazda&lt;sup id=&quot;fnref:25&quot;&gt;&lt;a href=&quot;#fn:25&quot; class=&quot;footnote&quot;&gt;25&lt;/a&gt;&lt;/sup&gt; marks a new dynastic and imperial order for the Persian Empire.&lt;sup id=&quot;fnref:26&quot;&gt;&lt;a href=&quot;#fn:26&quot; class=&quot;footnote&quot;&gt;26&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Chronological account of Darius’s expeditions after the revolts is disorganized. Herodotus talks about the king’s expeditions to Samos, Egypt, Indus Valley as well as the revolt in Babylon and the campaign against Scythians.&lt;sup id=&quot;fnref:27&quot;&gt;&lt;a href=&quot;#fn:27&quot; class=&quot;footnote&quot;&gt;27&lt;/a&gt;&lt;/sup&gt; As Persian borders now run across Thracia, it is of no surprise that there would be encounters with Greeks.&lt;/p&gt;
+
+&lt;h2 id=&quot;greco-persian-wars-and-xerxes&quot;&gt;Greco-Persian Wars and Xerxes&lt;/h2&gt;
+
+&lt;p&gt;One of the most intense periods of Ancient History that still echoes through the Western Culture was kindled by the flame called Ionian Revolt. As it has been discussed before, Ionians were not fond of being under Persian rule, since the conquest of Lydia by Cyrus. Aristagoras was the tyrant of Miletus at that time, preceding his uncle Histiaeus. He wanted to extend his power by conquering Naxos in the name of Persian Empire. Artaphernes, satrap of Sardis and brother of Darius, agreed to lend his forces and Darius has given consent on the plan.&lt;/p&gt;
+
+&lt;p&gt;The siege failed as Naxians have managed to fend their island. Artamenes did not see any other option than to rebel and immediately asked Greek city states for help. Sparta refused but Athenians and Eretrians agreed and provided support for the rebellion. They marched on Sardis but Artaphernes effectively defended the citadel and the attackers instead sacked and burned the town. Persian response was swift. Persians under Artaphernes put down the revolt after capturing revolting city states including Miletus. Darius has come to terms with Ionians as he replaced the unpopular tyrants by installing democracy.&lt;sup id=&quot;fnref:28&quot;&gt;&lt;a href=&quot;#fn:28&quot; class=&quot;footnote&quot;&gt;28&lt;/a&gt;&lt;/sup&gt; However, he had to punish Athens and Eretria for helping the revolt.&lt;/p&gt;
+
+&lt;p&gt;At first, Darius sent his son-in-law Mardonius, who was the son to one of the nobles that helped Darius claim the throne. Though he subjugated Macedonia and Thrace he lost his fleet and had to retreat. Then, Artaphernes —son of the Artaphernes and nephew of Darius— and Datis were appointed for the invasion. The plan was to install a deposed tyrant named Hippias as the ruler of Athens, effectively making it a puppet state. Persians have burned down the Eretria and landed on the Marathon. Though they were considerably outnumbered, Athenians drove out both the land and naval forces of Persians, with the help of the Plataeans. Greeks were not a threat to Persians, per se, but this loss had a significant symbolic importance for Darius as it was a direct insult to his prestige.&lt;sup id=&quot;fnref:29&quot;&gt;&lt;a href=&quot;#fn:29&quot; class=&quot;footnote&quot;&gt;29&lt;/a&gt;&lt;/sup&gt; Darius did not live to march against the Greeks once more, but he named an heir before he died and his son led the second invasion of Greece.&lt;/p&gt;
+
+&lt;p&gt;After suppressing a revolt in Egypt, Xerxes began the preparations for the invasion. Herodotus writes that the primary action Darius intended and Xerxes executed was not merely punishing Athens but rather conquering the Greeks.&lt;sup id=&quot;fnref:30&quot;&gt;&lt;a href=&quot;#fn:30&quot; class=&quot;footnote&quot;&gt;30&lt;/a&gt;&lt;/sup&gt; After several years of preparations at substantial scale&lt;sup id=&quot;fnref:31&quot;&gt;&lt;a href=&quot;#fn:31&quot; class=&quot;footnote&quot;&gt;31&lt;/a&gt;&lt;/sup&gt;, Xerxes crossed the Hellespont —modern day name for the Dardanelles— and marched against Greeks. Spartans led by their king Leonidas managed to hold and delay the Persian army at the pass at Thermopylae. Persians forces eventually took the pass continued inwards, but an unexpected storm hit the Persian navy. As their defenses fell, Attica and Boeotia were captured and Athens was sacked by the Persians. Meanwhile, Spartans and Athenians put aside their differences and gathered their troops together at the Isthmus of Corinth. Greeks intended to take the advantage of the geography and heavily fortified the narrow straits. Persian navy was lured by Themistocles to Salamis, where Persians suffered a decisive defeat.&lt;/p&gt;
+
+&lt;p&gt;Following the Battle of Salamis, Xerxes retreated back to Sardis and ordered his commander Mardonius to continue the offence in Greece. Xerxes then offered Athens peace by declaring that they will leave the state free without installing any tyrant, rebuild the temples destroyed and give them additional land to rule if they come to terms with Persians.&lt;sup id=&quot;fnref:32&quot;&gt;&lt;a href=&quot;#fn:32&quot; class=&quot;footnote&quot;&gt;32&lt;/a&gt;&lt;/sup&gt; Contrary to what Spartans genuinely feared, Athenian forces declined the offer twice. After Mardonius marched through Attica, the rivaling forces met at Plataea. Mardonius was killed in battle and it further disheartened the Persian troops which were already suffering a heavy loss. At the same day —or at least soon enough— Persian navy, caught unprepared by the Greek fleet, lost a battle at Mycale.&lt;/p&gt;
+
+&lt;p&gt;Later began the Greek offensive and Persians had to fight against the Delian League, a coalition of Greek city-states which also called the Athenian Empire as Athens led them. Greeks defeated the Persian army later at Eurymedon River —modern day Köprüçay, at Antalya— consolidating the Greek defense in the Aegean region. We could say that Greco-Persian Wars resulted in a territorial loss as Persians lost numerous Aegean islands and their grasp on Thrace. It would be also fair to argue that the Babylonian Revolt and the Second Ionian Revolt were influenced by the recent Persian defeats, Persian army was still strong and we would not say the Persian king lost his influence or his prestige.&lt;sup id=&quot;fnref:33&quot;&gt;&lt;a href=&quot;#fn:33&quot; class=&quot;footnote&quot;&gt;33&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;artaxerxes-i-and-darius-ii&quot;&gt;Artaxerxes I and Darius II&lt;/h2&gt;
+
+&lt;p&gt;Xerxes was then assassinated and the Greek sources on this plot —Ctesias, Justin and Diodorus— agree on a broad picture, though they contradict on many points.&lt;sup id=&quot;fnref:34&quot;&gt;&lt;a href=&quot;#fn:34&quot; class=&quot;footnote&quot;&gt;34&lt;/a&gt;&lt;/sup&gt; Artabanus, a high ranked official and commander of the royal bodyguard according to Diodorus, assassinates the king in his bedroom. He gets help from his sons (Justin), a eunuch named Aspamithres (Ctesias) or Xerxes’s chamberman Mithradates (Diodorus). Conspirators convince the youngest son Artaxerxes that his oldest brother killed his father. Artaxerxes then kills Darius and becomes the new king.&lt;/p&gt;
+
+&lt;p&gt;Artaxerxes I faced the Egyptian revolt led by a Libyan prince named Inarus, which was supported by the Athenian navy. The revolt was crushed and Inarus was executed, but Persians kept his son in power. Combined with more attentiveness in Egypt’s militaristic affairs, this strategy of keeping a dynasty in power proved useful, at least in Artaxerxes’s reign in which Egypt remained peaceful. As their attempt to conquer Cyprus, Athenians began talking peace with Persians, which resulted in so-called Peace of Callias. Although the state of war has been ceased, Persians saw opportunities in the western front. Tension was rising between Sparta and Athens —which will eventually present itself in Peloponnesian Wars— and Persians interfered through ambassadors and bribery in the Greek affairs. It is also an interesting turn of events that Themistocles, the Greek general of Salamis, was exiled and seeking refuge. Artaxerxes welcomed him and granted him the revenues of some small Asian towns.&lt;/p&gt;
+
+&lt;p&gt;Artaxerxes died after enjoying a long reign lasted from 465 to 424 and his only legitimate son was crowned king as Xerxes II. Ctesias writes in Persica his reign only lasted for 45 days as he was assassinated and replaced by Sogdianus, his illegitimate brother born to Alogyne. Likewise, Sogdianus did not enjoy the title for too long either. His brother Ochus, born to Cosmarditene, claimed the throne under the regnal name of Darius II. His brother Arsites from same mother and Artyphius, son of Megabyzus, both rebelled against the new king with no avail; they were captured and put to death.&lt;sup id=&quot;fnref:35&quot;&gt;&lt;a href=&quot;#fn:35&quot; class=&quot;footnote&quot;&gt;35&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/achaemenids-family-tree.jpg&quot; alt=&quot;achaemenids-family-tree&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Figure 5: Achaemenid Family Tree, Wikimedia Commons, www.wikimedia.org&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;After suppressing a Median revolt, Darius II renewed the truce between Persia and Athens, although Athenians supported a revolt in Sardis only a few years effectively violating the truce. At that time, Greek city-states led by Sparta and Athens were in war. As Athenians failed at conquering Peloponnesian controlled Sicily, Darius saw the advantage and formed an alliance with Spartans. Darius bestowed upon his younger son Cyrus power and money and sent him to western front to control the Greek situation.&lt;sup id=&quot;fnref:36&quot;&gt;&lt;a href=&quot;#fn:36&quot; class=&quot;footnote&quot;&gt;36&lt;/a&gt;&lt;/sup&gt; He solved the inter-satrapal rivalry in Asian Minor and formed personal relations with the Spartan general Lysander, even leaving him large sums of money as Cyrus was sent for his father in deathbed.&lt;sup id=&quot;fnref:37&quot;&gt;&lt;a href=&quot;#fn:37&quot; class=&quot;footnote&quot;&gt;37&lt;/a&gt;&lt;/sup&gt; As sources on him were scarce, we do not know about his reign on other parts of the empire.&lt;/p&gt;
+
+&lt;h2 id=&quot;artaxerxes-ii-and-artaxerxes-iii&quot;&gt;Artaxerxes II and Artaxerxes III&lt;/h2&gt;
+
+&lt;p&gt;After Darius’s death, his oldest son Arses was crowned king as Artaxerxes in Pasargadae. Parysatis was the mother of both Cyrus and Artaxerxes and it is told that she favored her younger, Cyrus, over Arses.&lt;sup id=&quot;fnref:38&quot;&gt;&lt;a href=&quot;#fn:38&quot; class=&quot;footnote&quot;&gt;38&lt;/a&gt;&lt;/sup&gt; (She also went on to poison Artaxerxes’s wife Stateira&lt;sup id=&quot;fnref:39&quot;&gt;&lt;a href=&quot;#fn:39&quot; class=&quot;footnote&quot;&gt;39&lt;/a&gt;&lt;/sup&gt;) Sources tell us&lt;sup id=&quot;fnref:40&quot;&gt;&lt;a href=&quot;#fn:40&quot; class=&quot;footnote&quot;&gt;40&lt;/a&gt;&lt;/sup&gt; ambitious Cyrus returned to Sardis and began preparations. It is likely that Artaxerxes was suspicious, if not informed, of these events but he was both occupied with Egyptians and rather unworried as his influence in Asia Minor acted as deterrent against Cyrus. Cyrus amassed troops in west, most notably Greek mercenaries titled later as The Ten Thousand —oi Myrioi— and began marching on Babylonia.&lt;sup id=&quot;fnref:41&quot;&gt;&lt;a href=&quot;#fn:41&quot; class=&quot;footnote&quot;&gt;41&lt;/a&gt;&lt;/sup&gt; At the Battle of Cunaxa, however, Cyrus was killed and Artaxerxes was proven victor.&lt;sup id=&quot;fnref:42&quot;&gt;&lt;a href=&quot;#fn:42&quot; class=&quot;footnote&quot;&gt;42&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Artaxerxes then fought against Spartans led by Agesilaus II. He supported and bribed other Greek city-states —Athens, Argos, Corinth and Thebes— against Spartans, effectively igniting the flame for Corinthian War. Subsequently, he also crushed the Great Satraps’ Revolt. He enjoyed a reign of 46 years, longest in the history of the Achaemenids. After his death, Ochus was crowned king as Artaxerxes III, as his brothers preceding him in the line of succession were executed, killed or committed suicide.&lt;/p&gt;
+
+&lt;p&gt;Immediately following the accession, Artaxerxes dealt with the rebellion of Artabazus, the satrap of Phrygia —initially supported by Athens and after the treaty with them, by Thebes. He suppressed the revolt and Artabazus took up exile in Macedonia. He then wanted to reclaim Egypt for the empire, which was ruled at that time by Pharaoh Nectanebo II. He failed to do so in his attempt in year 351, but after contingents from Greek city-states and Mentor of Rhodes joined his army, he conquered Egypt in 342-342. Because of the actions he took, he is oftentimes compared to Cambyses in both Ancient and Classical texts —even accused of killing the sacred bull of Apis just like Cambyses.&lt;sup id=&quot;fnref:43&quot;&gt;&lt;a href=&quot;#fn:43&quot; class=&quot;footnote&quot;&gt;43&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;fall-of-the-persian-empire&quot;&gt;Fall of the Persian Empire&lt;/h2&gt;
+
+&lt;p&gt;Artaxerxes III was poisoned in his court by the Bagoas, who was the vizier at that time and he was holding immense power by the end of the Artaxerxes’s reign.&lt;sup id=&quot;fnref:44&quot;&gt;&lt;a href=&quot;#fn:44&quot; class=&quot;footnote&quot;&gt;44&lt;/a&gt;&lt;/sup&gt; Diodorus continues with telling us that Bagoas also had all of the deceased king’s sons murdered except Arses, who ruled two years as Artaxerxes IV. Arses finally began contemplating eliminating Bagoas and therefore killed by him, likewise his father. Bagoas then selected Darius, a cousin of Arses, for the throne. Story goes on with Bagoas trying to poison Darius III as he was getting out of his grasp, but Darius making him to drink the poison, which can be viewed as a later propaganda.&lt;sup id=&quot;fnref:45&quot;&gt;&lt;a href=&quot;#fn:45&quot; class=&quot;footnote&quot;&gt;45&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:46&quot;&gt;&lt;a href=&quot;#fn:46&quot; class=&quot;footnote&quot;&gt;46&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Macedonian offensive began with the Battle of Chaeronea. Philip II of Macedon defeated the Greek city-states —not including Sparta— and formed the League of Corinth under his leadership. A twenty years old Alexander succeded the throne after his father was assassinated. He subdued the neigboring states, reassembled the League (most notably destroying Thebes as punishment) and began marching towards Anatolia to fulfill his father’s dream of invading Persia.&lt;sup id=&quot;fnref:47&quot;&gt;&lt;a href=&quot;#fn:47&quot; class=&quot;footnote&quot;&gt;47&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;He crossed the Hellespont and won his first victory against the Persians at the Battle of Granicus. One and a half year later, Darius faced the Macedonian army at Issus. Despite outnumbering Alexander’s forces, Persian army was outflanked and defeated. Darius fled, leaving behind his family and his headquarters. Alexander continued his campaign by capturing Tyre after they refused to surrender, then subsequently taking over Gaza and Egypt. Even after the battle at Issus, Darius had the upper hand in numbers —although equipped poorly— and Alexander was nervous about the siege of Babylon.&lt;sup id=&quot;fnref:48&quot;&gt;&lt;a href=&quot;#fn:48&quot; class=&quot;footnote&quot;&gt;48&lt;/a&gt;&lt;/sup&gt; Two armies faced each after two years at Gaugamela. Defeated once more, Darius retracted to Ecbatana to raise an army again, knowing that the Alexander’s army would head towards Babylon. Alexander continued his advancements towards east. Through successful maneuvers and defections of Mazaeus, Abulites and Tiridates, Alexander captured Susa, Babylon, Persepolis and Pasargadae. He was still chasing Darius in Median territory when Bessus, the Bactrian satrap at that time, betrayed and assassinated him —he had lost his authority after recent political and military failures.&lt;sup id=&quot;fnref:49&quot;&gt;&lt;a href=&quot;#fn:49&quot; class=&quot;footnote&quot;&gt;49&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Darius III was gone, but until Alexander’s demise, the Great Empire lived. Briant gives an overall conclusion of the Empire’s fate.&lt;sup id=&quot;fnref:50&quot;&gt;&lt;a href=&quot;#fn:50&quot; class=&quot;footnote&quot;&gt;50&lt;/a&gt;&lt;/sup&gt; Alexander the Great was a foreigner to East, nevertheless, and he mostly kept the already working satrapal systems along with local rulers. His intention could be seen as creating a homogeneous state, but even in his lifetime there were cracks in his newly build empire; same problems existed before continued to exist in similar nature. Alexander’s reign can be seen as a continuation of the Achaemenid rule, as not much changed from a local’s perspective except a shift in the power of the ruling class. “The last of the Achaemenids” died in 323 BC and his great empire divided among his generals —Diadochi—, marking the beginning of the Hellenistic period.&lt;/p&gt;
+
+&lt;h2 id=&quot;bibliography&quot;&gt;Bibliography&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Briant, Pierre. From Cyrus to Alexander: A History of the Persian Empire, trans. Peter T. Daniels, Winona Lake, IN, Eisenbraun, 2002&lt;/li&gt;
+  &lt;li&gt;Dusinberre, Elspeth R. M. Empire, authority, and autonomy in Achaemenid Anatolia, Cambridge, NY, Cambridge University Press, 2013&lt;/li&gt;
+  &lt;li&gt;Lloyd, Alan B. “The Inscription of Udjaḥorresnet a Collaborator’s Testament”, The Journal of Egyptian Archaeology 68, Sage, 1982&lt;/li&gt;
+  &lt;li&gt;Martin, Thomas R. Ancient Greece: From Prehistoric to Hellenistic Times, Second Edition, Yale University Press, 2013&lt;/li&gt;
+  &lt;li&gt;Posener Georgus. “Les douanes de la Méditerraneé dans l’ Égypte saïte.”, Revue de philologie 21, 1947&lt;/li&gt;
+  &lt;li&gt;Summerer, Latife. “Picturing Persian Victory: The Painted Battle Scene on the Munich Wood”, Achaemenid Culture and Local traditions in Anatolia, Southern Caucasus and Iran: New Discoveries, Leiden, Brill, 2007&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classical-sources&quot;&gt;Classical Sources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Diodorus, Bibliotheca historica, XVI.50.8, XVII.5.4-6&lt;/li&gt;
+  &lt;li&gt;Herodotus, Histories, III.25-38, III.62-65, III.88, VII.138, VII.20-37&lt;/li&gt;
+  &lt;li&gt;Plutarchos, Artaxerxes, 2.3-4, 5-6&lt;/li&gt;
+  &lt;li&gt;Polyaenus, Stratagems of War VII.6.9&lt;/li&gt;
+  &lt;li&gt;Xenophon, Hellenica, 1.4.3&lt;/li&gt;
+  &lt;li&gt;Xenophon, Anabasis, I.2-4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Although in ancient Greek the term βάρβαρος is commonly used for all the non-Greek peoples, it is mostly used for referring to Persians in the years of Greco-Persian wars. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Pierre Briant, From Cyrus to Alexander: A History of the Persian Empire, trans. Peter T. Daniels (Winona Lake, IN, Eisenbraun, 2002), 16 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;These same people will be referred to as both Persians and Achaemenids through the rest of the paper. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: A History of the Persian Empire, 13 &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;An ancient Babylonian text that narrates the time period from the reign of last Babylonian king to the reign of Cambyses II, Cyrus’s son and successor. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;Nabonidus Chronicle II. 1-4 &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;Polyaenus, Stratagems of War, VII.6.9 &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: A History of the Persian Empire, 33 &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;Elspeth R. M. Dusinberre, Empire, authority, and autonomy in Achaemenid Anatolia, (Cambridge, NY, Cambridge University Press, 2013), 43 &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:10&quot;&gt;
+      &lt;p&gt;A foundation deposit from the conquest of Babylon, written in Akkadian cuneiform &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:11&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 43 &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:12&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 49 &lt;a href=&quot;#fnref:12&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:13&quot;&gt;
+      &lt;p&gt;Latife Summerer, “Picturing Persian Victory: The Painted Battle Scene on the Munich Wood”, Achaemenid Culture and Local traditions in Anatolia, Southern Caucasus and Iran: New Discoveries, (Leiden, Brill, 2007): 6-7 &lt;a href=&quot;#fnref:13&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:14&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 50 &lt;a href=&quot;#fnref:14&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:15&quot;&gt;
+      &lt;p&gt;Herodotus, Histories III 25-38 &lt;a href=&quot;#fnref:15&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:16&quot;&gt;
+      &lt;p&gt;Georgus Posener, “Les douanes de la Méditerraneé dans l’ Égypte saïte.”, Revue de philologie 21, (1947): 117-31 &lt;a href=&quot;#fnref:16&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:17&quot;&gt;
+      &lt;p&gt;Alan B. Lloyd, “The Inscription of Udjaḥorresnet a Collaborator’s Testament”, The Journal of Egyptian Archaeology 68, (Sage, 1982): 166-180 &lt;a href=&quot;#fnref:17&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:18&quot;&gt;
+      &lt;p&gt;Herodotus, Histories III 62-65 &lt;a href=&quot;#fnref:18&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:19&quot;&gt;
+      &lt;p&gt;This same person is called as Smerdis (Smerdies), Sphendadates, Bardiya (Pirtiya, Barziya), Gaumāta, Tonyoxarces (Tanooxares) and Mardos (Mergis) through various sources. &lt;a href=&quot;#fnref:19&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:20&quot;&gt;
+      &lt;p&gt;A rock relief authored by Darius I that took named after its location at Mount Behistun. It contains the translations of the same text in three languages (Old Persian, Elamite and Babylonian, all in cuneiform script) and it has been the key to deciphering cuneiform. &lt;a href=&quot;#fnref:20&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:21&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 97-111 &lt;a href=&quot;#fnref:21&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:22&quot;&gt;
+      &lt;p&gt;Behistun Inscription, throughout all the five columns. Translation is presented as follows: Leonard William King, Thompson Reginald Campbell, The sculptures and inscription of Darius the Great on the Rock of Behistûn in Persia : a new collation of the Persian, Susian and Babylonian texts, (London, Longmans, 1907) &lt;a href=&quot;#fnref:22&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:23&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 123 &lt;a href=&quot;#fnref:23&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:24&quot;&gt;
+      &lt;p&gt;Herodotus, Histories, III.88 &lt;a href=&quot;#fnref:24&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:25&quot;&gt;
+      &lt;p&gt;Name given to the God of the Zoroastrianist faith. Darius can be seen through his inscriptions as a devout follower of Zoroastrianism. &lt;a href=&quot;#fnref:25&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:26&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 138 &lt;a href=&quot;#fnref:26&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:27&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 140-146 &lt;a href=&quot;#fnref:27&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:28&quot;&gt;
+      &lt;p&gt;Thomas R. Martin, Ancient Greece: From Prehistoric to Hellenistic Times, Second Edition, (Yale University Press, 2013), 127-128 &lt;a href=&quot;#fnref:28&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:29&quot;&gt;
+      &lt;p&gt;Thomas R. Martin, Ancient Greece: From Prehistoric to Hellenistic Times, Second Edition, 129 &lt;a href=&quot;#fnref:29&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:30&quot;&gt;
+      &lt;p&gt;Herodotus, Histories, VII.138 &lt;a href=&quot;#fnref:30&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:31&quot;&gt;
+      &lt;p&gt;Herodotus, Histories, VII.20-37 &lt;a href=&quot;#fnref:31&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:32&quot;&gt;
+      &lt;p&gt;Thomas R. Martin, Ancient Greece: From Prehistoric to Hellenistic Times, Second Edition, 134-135 &lt;a href=&quot;#fnref:32&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:33&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 540-542 &lt;a href=&quot;#fnref:33&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:34&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 563-564 &lt;a href=&quot;#fnref:34&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:35&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 589 &lt;a href=&quot;#fnref:35&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:36&quot;&gt;
+      &lt;p&gt;Xenophon, Hellenica, 1.4.3 &lt;a href=&quot;#fnref:36&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:37&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 600 &lt;a href=&quot;#fnref:37&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:38&quot;&gt;
+      &lt;p&gt;Plutarchos, Artaxerxes, 2.3-4 &lt;a href=&quot;#fnref:38&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:39&quot;&gt;
+      &lt;p&gt;Plutarchos, Artaxerxes, 5-6 &lt;a href=&quot;#fnref:39&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:40&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 616-620 &lt;a href=&quot;#fnref:40&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:41&quot;&gt;
+      &lt;p&gt;Xenophon, Anabasis, I.2-4 &lt;a href=&quot;#fnref:41&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:42&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 621-630 &lt;a href=&quot;#fnref:42&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:43&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 687-688 &lt;a href=&quot;#fnref:43&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:44&quot;&gt;
+      &lt;p&gt;Diodorus, Bibliotheca historica, XVI.50.8 &lt;a href=&quot;#fnref:44&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:45&quot;&gt;
+      &lt;p&gt;Diodorus, Bibliotheca historica, XVII.5.4-6 &lt;a href=&quot;#fnref:45&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:46&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 777 &lt;a href=&quot;#fnref:46&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:47&quot;&gt;
+      &lt;p&gt;Thomas R. Martin, Ancient Greece: From Prehistoric to Hellenistic Times, Second Edition, 243-245 &lt;a href=&quot;#fnref:47&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:48&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 842 &lt;a href=&quot;#fnref:48&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:49&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 865 &lt;a href=&quot;#fnref:49&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:50&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 873-876 &lt;a href=&quot;#fnref:50&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">This was actually a term paper of mine for the Anatolian Civilizations in Antiquity I course (HIST 241) but enjoyed working on it a lot, so why not have it here?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/achaemenids-persepolis.jpg" /></entry><entry xml:lang="en"><title type="html">Lovecraftian Films</title><link href="http://localhost:4000/en/film/lovecraftian-films" rel="alternate" type="text/html" title="Lovecraftian Films" /><published>2017-02-10T01:00:00+01:00</published><updated>2017-02-10T01:00:00+01:00</updated><id>http://localhost:4000/en/film/lovecraftian-films</id><content type="html" xml:base="http://localhost:4000/en/film/lovecraftian-films">&lt;p&gt;Unrecognized at his time and lived much of his life in poverty, Howard Phillips Lovecraft shaped the horror fiction of a century and had a lasting legacy that still influences the horror genre through various mediums.&lt;/p&gt;
 
 &lt;p&gt;Among many other recurring themes, he mostly wrote about the humanity’s insignificance in the universe, sanity’s fragility, fear of the unknown, limitations and dangers of knowledge and its pursuit. He developed and used a philosophy of “Cosmicism” in his work, and his ideas, writings and further influence grew into a subgenre called after him, namely “Lovecraftian horror”.&lt;/p&gt;
 
@@ -259,7 +563,30 @@
 
 &lt;p&gt;— &lt;/p&gt;
 
-&lt;p&gt;Honorable Mentions: Hellboy, Hellraiser, The Mist, Under the Skin, Event Horizon, Prince of Darkness. True Detective’s first season is also sadly excluded, as only feature films were considered.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">Unrecognized at his time and lived much of his life in poverty, Howard Phillips Lovecraft shaped the horror fiction of a century and had a lasting legacy that still influences the horror genre through various mediums.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/in-the-mouth-of-madness-4.jpg" /></entry><entry xml:lang="tr"><title type="html">Fargo</title><link href="http://localhost:4000/tr/tv/fargo" rel="alternate" type="text/html" title="Fargo" /><published>2015-11-04T01:00:00+01:00</published><updated>2015-11-04T01:00:00+01:00</updated><id>http://localhost:4000/tr/tv/fargo</id><content type="html" xml:base="http://localhost:4000/tr/tv/fargo">&lt;p&gt;FX’in kara mizah yüklü suç dizisi Fargo ikinci sezonuna başladı ve hatta dört bölümü arkasında bıraktı. Dizi hakkında bir şeyler karalamak için bir bölüm daha bekleyecektim ama olmadı, bekleyemedim, başlıkta da yalan söyledim. Belki bir şeyler konuşmak için yine erkendir, ilerleyen bölümleri izleyip resmin bütününe tekrardan bakarız ama şimdilik kuzeyde işlerin yolunda gittiğini gönül rahatlığıyla söyleyebilirim. Yazı spoilersız olmalı, ama n’olur n’olmaz, dördüncü bölümü de izleyip öyle gelin siz.&lt;/p&gt;
+&lt;p&gt;Honorable Mentions: Hellboy, Hellraiser, The Mist, Under the Skin, Event Horizon, Prince of Darkness. True Detective’s first season is also sadly excluded, as only feature films were considered.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">Unrecognized at his time and lived much of his life in poverty, Howard Phillips Lovecraft shaped the horror fiction of a century and had a lasting legacy that still influences the horror genre through various mediums.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/in-the-mouth-of-madness-4.jpg" /></entry><entry xml:lang="en"><title type="html">Fargo</title><link href="http://localhost:4000/en/tv/fargo" rel="alternate" type="text/html" title="Fargo" /><published>2015-11-08T01:00:00+01:00</published><updated>2015-11-08T01:00:00+01:00</updated><id>http://localhost:4000/en/tv/fargo</id><content type="html" xml:base="http://localhost:4000/en/tv/fargo">&lt;p&gt;Here is an article I wrote about the second season. It is a little bit long, and it was more colorful with the pictures (Kept the screenshots linked to the titles though :). I try to read most of the posts here, but I will really appreciate your comments about this season (and the article itself). Probably there will be a bunch of “Ok then”s below, but… Ok then! And thank you for your time!&lt;/p&gt;
+
+&lt;p&gt;Our dark-humoured crime anthology has finally begun its second season and even left four episodes behind. My plan was to wait a little while to write something down but I couldn’t wait for the actual mid-season. Maybe it’s still early to talk, we didn’t get to see the big picture yet, but it is comfortable to say that all is going well in the north (Haha, the irony) for now. There shouldn’t be any spoilers in the article, but I don’t think you’ve missed the last episode either.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-happens-out-there-in-the-north&quot;&gt;What happens out there in the North?&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/fargo-1.jpg&quot; alt=&quot;fargo-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Firstly we’re not waiting for another Lorne Malve, there is no character as important as either him or Martin Freeman’s Lester Nygaard, but still the series manages to be on track with its highly interesting characters. I don’t know if it is casting preferences or actings but everyone looks so appropriate in their places. You can even see it worths that Jesse Plemons and Kirsten Dunst have gained weight. As in the first season, Fargo is truly generous with its characters and more importantly, the series handles that abundance of both characters and their stories very well.&lt;/p&gt;
+
+&lt;p&gt;You can actually see that the series grants opportunities to the actors and actresses to show themselves; one episode for Dodd, another for Lou, Hanzee… and then you feel that every character is the protagonist of his or hers own story. Even when a character is out of focus, you can see that his story still advances, and this surely keeps Fargo’s feet on the ground. Even the characters with limited screen time looks authentic, if not detailed; Judge Mundt is a perfect example of this. It is not easy to say who stays and who dies a week later, but my favourite for at least these four episodes is definitely Mike Milligan. And The Kitchen Brothers. Or Bathroom Brothers. Whatever, I just want to see my favourite prog rock band for a longer time.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-it-worthy-of-the-season-one&quot;&gt;Is it worthy of the season one?&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/fargo-2.jpg&quot; alt=&quot;fargo-2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aside from Billy Bob Thornton’s acting, the main force which made me almost binge the first season was its tempo. From the very first episode, Fargo places you seated in a rollercoaster and tells its tales with a tempo that sometimes speeds up, sometimes slows down, but never stops. Whenever you looked at the screen, there was always some interesting stuff going on and all this dynamism never looked fake for even one moment; the series has sold a character like Malvo to the audience with ease. It rightfully earned its legacy from the movie, telling the stories of the ordinary men with a perfect blend of drama, tension and humour. I would find it enough if I’d watched the same quality with a brand new content, and for now, I can tell that I’m quite satisfied.&lt;/p&gt;
+
+&lt;p&gt;Of course there are things that I’m not fully satisfied, but I honestly believe that everything will be settled in the long run. For example low tempo of the storyline of Peggy and Ed kinda bores me as a result of it being distant to the other stories, but I’m sure that when all hell breaks loose, they will be in the center of it, and the time for this draws near. What an episode we have last week! Every plot is at the verge of safety, and I don’t know what we will have tomorrow. My only concern for now is that alien subplot going on. I don’t want to comment anything about it because we have no other hint than Noah Hawley saying “wait for it”. Let’s wait and see how thing will work out.&lt;/p&gt;
+
+&lt;h2 id=&quot;tl-and-the-dr&quot;&gt;TL and the DR&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/fargo-3.jpg&quot; alt=&quot;fargo-3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Long story short, Fargo takes steps in the right direction. As an anthology, it succesfully overcame the changes in the both cast and plot, and even the thirty-year leap at the timeline. I don’t want to compare it with True Detective but Fargo plays it safe; it stays true to its own style, with necesarry and clever changes to a well working formula. They are making a great new season of Fargo, and we are watching it with admiration.&lt;/p&gt;
+
+&lt;p&gt;P.S.: If you’re looking for something where the second season gets ahead of its predecessor, it is probably the soundtrack. Tunes from different cultures and genres suit really well to the rapidly changing atmosphere of the series.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">A mid-season review for Fargo – Is it worthy of the season one?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/fargo-1.jpg" /></entry><entry xml:lang="tr"><title type="html">Fargo</title><link href="http://localhost:4000/tr/tv/fargo" rel="alternate" type="text/html" title="Fargo" /><published>2015-11-04T01:00:00+01:00</published><updated>2015-11-04T01:00:00+01:00</updated><id>http://localhost:4000/tr/tv/fargo</id><content type="html" xml:base="http://localhost:4000/tr/tv/fargo">&lt;p&gt;FX’in kara mizah yüklü suç dizisi Fargo ikinci sezonuna başladı ve hatta dört bölümü arkasında bıraktı. Dizi hakkında bir şeyler karalamak için bir bölüm daha bekleyecektim ama olmadı, bekleyemedim, başlıkta da yalan söyledim. Belki bir şeyler konuşmak için yine erkendir, ilerleyen bölümleri izleyip resmin bütününe tekrardan bakarız ama şimdilik kuzeyde işlerin yolunda gittiğini gönül rahatlığıyla söyleyebilirim. Yazı spoilersız olmalı, ama n’olur n’olmaz, dördüncü bölümü de izleyip öyle gelin siz.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/fargo-1.jpg&quot; alt=&quot;fargo-1&quot; /&gt;&lt;/p&gt;
 
@@ -277,7 +604,7 @@
 
 &lt;p&gt;Uzun lafın kısası Fargo sağlam adımlar atıyor. Bir antoloji olarak karakter ve hikaye değişikliklerini, hatta otuz sene geriye sıçramayı güzel atlatmış.True Detective’le kıyas yapmak istemiyorum ama Fargo temkinli oynamış; elindekileri sıfırlamadan, işleyen formülünü tekrar uygulamaktan çekinmeden yine buram buram Fargo kokan bir sezon çekiyorlar, biz de hayranlıkla izliyoruz.&lt;/p&gt;
 
-&lt;p&gt;P.S.: Yeni sezonun ilkinden ilerde götürdüğü bir şey arıyorsanız, o da galiba müzikleri. Farklı kültürler ve türlerden melodiler çok uyumlu oturmuş dizinin değişken havasına. Merak edenlere dizinin müziklerinde sorumlu ismi Jeff Russo’nun daha iki gün önce yaptığı soru cevap etkinliğinin linkini de &lt;a href=&quot;https://www.reddit.com/r/IAmA/comments/3r8zsy/i_am_jeff_russo_emmynominated_composer_of_fargo/&quot;&gt;şöyle&lt;/a&gt; bırakayım.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">Sezon ortası Fargo incelemesi – o müthiş ilk sezona Llayık mı?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/fargo-1.jpg" /></entry><entry xml:lang="tr"><title type="html">Human Resource Machine</title><link href="http://localhost:4000/tr/game/human-resource-machine" rel="alternate" type="text/html" title="Human Resource Machine" /><published>2015-10-25T02:00:00+02:00</published><updated>2015-10-25T02:00:00+02:00</updated><id>http://localhost:4000/tr/game/human-resource-machine</id><content type="html" xml:base="http://localhost:4000/tr/game/human-resource-machine">&lt;p&gt;İtiraf edeyim ki puzzle oyunlarıyla aram hiç iyi olmadı. Bir bölümü geçmek için kafamı yoruyorsam bu bana genelde kısa bir süre için haz verir. Zira karşıma bir zeka sorusu çıktığında refleks olarak cevabına bakan bir adamım ben. Ama işte bütün bunların haricinde, tarzlarına bayıldığım küçük bir ekip var ve stüdyo bu sefer de son oyunlarının yaratıcı konseptiyle cezbetti beni: küçük ofisimizde bir bilgisayarın çalışmasını taklit ediyoruz bu oyunda çünkü.&lt;/p&gt;
+&lt;p&gt;P.S.: Yeni sezonun ilkinden ilerde götürdüğü bir şey arıyorsanız, o da galiba müzikleri. Farklı kültürler ve türlerden melodiler çok uyumlu oturmuş dizinin değişken havasına. Merak edenlere dizinin müziklerinde sorumlu ismi Jeff Russo’nun daha iki gün önce yaptığı soru cevap etkinliğinin linkini de &lt;a href=&quot;https://www.reddit.com/r/IAmA/comments/3r8zsy/i_am_jeff_russo_emmynominated_composer_of_fargo/&quot;&gt;şöyle&lt;/a&gt; bırakayım.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">Sezon ortası Fargo incelemesi – o müthiş ilk sezona layık mı?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/fargo-1.jpg" /></entry><entry xml:lang="tr"><title type="html">Human Resource Machine</title><link href="http://localhost:4000/tr/game/human-resource-machine" rel="alternate" type="text/html" title="Human Resource Machine" /><published>2015-10-25T02:00:00+02:00</published><updated>2015-10-25T02:00:00+02:00</updated><id>http://localhost:4000/tr/game/human-resource-machine</id><content type="html" xml:base="http://localhost:4000/tr/game/human-resource-machine">&lt;p&gt;İtiraf edeyim ki puzzle oyunlarıyla aram hiç iyi olmadı. Bir bölümü geçmek için kafamı yoruyorsam bu bana genelde kısa bir süre için haz verir. Zira karşıma bir zeka sorusu çıktığında refleks olarak cevabına bakan bir adamım ben. Ama işte bütün bunların haricinde, tarzlarına bayıldığım küçük bir ekip var ve stüdyo bu sefer de son oyunlarının yaratıcı konseptiyle cezbetti beni: küçük ofisimizde bir bilgisayarın çalışmasını taklit ediyoruz bu oyunda çünkü.&lt;/p&gt;
 
 &lt;p&gt;Bize üzerinde sayı veya harf olan kutular veriliyor ve bir işlemci gibi çalışıp bu kutuları her bölüm patronumuzun belirttiği kurallara uygun şekilde karşı tarafa iletiyoruz. İşlemci dedim diye korkmayın, daha önce hiç programlamayla yollarınızın kesişmemiş olması gayet doğal ve oyun da sizden dört işlem bilmenizden fazlasını talep etmiyor, aslında üzerinde çalıştığımız şey en basit haliyle mantıktan ötesi değil.&lt;/p&gt;
 
@@ -337,42 +664,4 @@
 
 &lt;p&gt;İlk sezonun azılı bir hayranı olarak ikinci sezonu çok da yüksek bir yere koymak istemem ama topu topu on bölümlük bir sezonda her bölümü hayranlıkla izledim. İlk sezon yaptığı sağlam çıkışın, aldığı olumlu eleştirilerin ve iki sezon arasındaki hatırı sayılır zamanın diziye yaradığını rahatlıkla görebiliyorsunuz. Göze batan ilk farklılık diğer aile üyelerinin de ara sıra maceralara katılması olmuş ki bu detay da başta Summer olmak üzere tüm aileye yaramış. Dizi daha önceden de yaptığı gibi duygusal olarak çarpıcı anlar yaratıyor, belki ilk sezona kıyasla bu daha sık ve daha derin bir duygusallık halini alıyor, tabii dizinin kendi tarzında. İlk sezondaki o birkaç sahne var ya, müzikler yine nokta atışı oturmuş bazı sahnelere. Özetle Rick and Morty ilk sezondaki gücünden hiçbir şey kaybetmemiş, iyi yaptıkları işi daha da iyi yapmaya devam etmişler. Alışık olduğumuz Rick and Morty yerli yerinde; tempo yine çok hızlı, ne izlediğinizin takibi kaçıracak acayiplikler dönüyor ve Rick hala geğiriyor.&lt;/p&gt;
 
-&lt;p&gt;Açın bir iki bölüm izleyin, dizinin bir bölümünü bile izleyip sevdiyseniz açın gerisini de izleyin. Üçüncü sezona daha var gibi dursa da siz geriden takip etmeyin.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">İkinci sezonun ardından Rick and Morty: iyi ki var!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ricknmorty-1.jpg" /></entry><entry xml:lang="tr"><title type="html">BoJack Horseman</title><link href="http://localhost:4000/tr/tv/bojack-horseman" rel="alternate" type="text/html" title="BoJack Horseman" /><published>2015-09-27T02:00:00+02:00</published><updated>2015-09-27T02:00:00+02:00</updated><id>http://localhost:4000/tr/tv/bojack-horseman</id><content type="html" xml:base="http://localhost:4000/tr/tv/bojack-horseman">&lt;p&gt;Sosyal medyanın ve reklamın bir ton farklı çeşidi sağ olsun, çoğu eser daha elimize geçmeden onlar hakkında fazlasıyla bilgiye sahip oluyoruz. Yeni yapımların sayısının her mecrada katlanarak büyüdüğü bu zamanlarda reklam artık neredeyse bir zorunluluk, ama takdir edersiniz ki reklamın da fazlası bazen ters tepiyor; bazı yapımlar kozlarını çok erken yere düşüyor. Örneğin Suicide Squad filmi beni hala korkunç derecede heyecanlandırıyor, fakat Batman’in filmde yer alacağını bu kadar önceden öğrenmeseydik de sinema salonunda bir sürpriz yaşasaydık diye de iç geçirmiyor değilim.&lt;/p&gt;
-
-&lt;p&gt;Hatta bu yüzden sahip olduğu tüm oyuncu kadrosunu önümüze sermeyip bizi ekran başında şaşırtan Se7en veya Interstellar gibi filmlerin de bende ayrı bir yeri var. Tabii ki “Şimdi ne izlesem?” diye düşünürken kafanızda bir iki fikir olmasının çok da zararı yok, ama ben bazen içgüdülerime güveniyorum ve izlemeden bile iyi kötü bildiğim klasikleri, hasılat rekortmenlerini falan bir kenara bırakıp yeni bir şey deniyorum. Kendisini internetteki yorumlardan, incelemelerden, fragmanlardan önce kendisinin anlatmasına izin veriyorum eserin. İsterseniz buyrun, ben konuşmadan önce siz de böyle bir deneyin diziyi. Bugün risk alacak havanızda değilseniz de yaslanın arkanıza, size biraz BoJack Horseman’den bahsedeyim.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/bojack-1.jpg&quot; alt=&quot;bojack-1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Hikaye bir Hollywood öyküsü, anlatacaklarını kameraların, habercilerin ve partilerin hareketli dünyasıyla anlatıyor, başrolünde ise BoJack var. Kendisi 90’larda yaptığı aile sitcom’undan beri bir başarı yaşayamamış, karamsar, suratsız ve artık ellinci yaşını doldurmuş bir at. Evet at, çünkü BoJack’in dünyasında hayvanlar tıpkı insanlar gibi yaşıyorlar. “Haa, bu dizinin de olayı buymuş” diye düşünmeyin sakın, yaratıcı ekip zorlama noktalardan genelde kaçınmış, hayvanların basabayağı hayvan olduğu durumlar nadiren rolü çalıyor. Zaten hikaye sağ olsun, bu durumu yadırgamayı kısa sürede bırakıyorsunuz. Çizimler de karakter tasarımları da tabiri caizse gayet sevimli duruyor.&lt;/p&gt;
-
-&lt;p&gt;Klişe bir deyim ama kendime engel olmayacağım: Seslendirme tam bir yıldızlar geçidi. Arrested Development’ın yıldızı Will Arnett sağ olsun başrolde birçok dizide göremeyeceğiniz gerçeklikte bir karaktere sahibiz. Karakteri sempatik bulduğunuz anlarda da, ona sinirlendiğiniz zamanlarda da Arnett’in sesi bunda büyük bir paya sahip oluyor. BoJack’in biyografisini kitaplaştıracak yazar Diane rolünde Community’den tanıyacağınız güzeller güzeli Alison Brie var. Kiraya ortak olmadan BoJack’in kanepesinde yaşayan Todd’u ise Breaking Bad severlerin muhtemelen çok sevdiği Aaron Paul seslendiriyor. Komedyen Paul F. Tompkins BoJack’in içten içe rakip saydığı arkadaşı, Amy Sedaris ise onun menajeri rolünde. Benim gibi konuk oyuncu görünce (veya duyunca) heyecanlanan biriyseniz Ricky Gervais, Daniel Radcliffe, Paul McCartney ve daha birçok sürpriz ismin de dizide yer aldığını not düşeyim.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/bojack-2.jpg&quot; alt=&quot;bojack-2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ben ilk bölümün başına oturduğumda tüm bunlardan bihaber bir halde, sığ olmayan bir komedi arayışındaydım sadece. Şanslıymışım, çünkü dizi komediyi bir araç olarak kullanıyor. Güldürmeyi elbette amaçlıyor ve başarıyor ama hikayenin ve karakterlerin önüne mizah hiçbir zaman geçmiyor. Komediyi bilen ama komedi yerine dram yapan yazarların eseri bu; dizi ciddi sahnelerde bile kendini izletmeyi eğlenceli kılıyor. BoJack Horseman The Simpsons ve South Park gibi çağdaşlarının aksine doğrusal bir olay örgüsü kullanıyor; her bölüm bir öncekine bağlı, her bölüm BoJack’in yaptıkları er ya da geç başına bir iş açıyor. Bunun üstüne Netflix’in yayın politikası da gelince ortaya ayakları üzerinde duran bir hikaye çıkıyor. Seri yayın hayatına kaç sezon daha devam eder bilmiyorum ama geçmiş olayların anlamını kaybettiği veya asıl karakterlerin odaktan çıktığı bir noktaya gelmek istemediklerini serinin fikir babası Waksberg açıkça belirtiyor.&lt;/p&gt;
-
-&lt;p&gt;Çok ilginç bir kurgusu falan yok dizinin, yanlış anlaşılmasın. Beni her bölümünde gayet güzel güldürdüyse de komedi arayan birine ilk tavsiyem de bu dizi olmaz. Eh, Alison Brie’nin gül yüzünü bile göremiyorsak ben niye bu dizinin hayranı oldum peki? Henüz izlemeyenler için belki iddialı duracak olsa da BoJack Horseman sadece animasyonlara kıyasla değil, televizyondaki birçok yapımdan daha ciddi bir tutumla ve karamsar denebilecek bir gerçekçilikle eğiliyor insan ilişkilerinin üzerine.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/bojack-3.jpg&quot; alt=&quot;bojack-3&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Serinin yaratıcısı televizyondaki birçok şovun mutsuzluk konusunda dürüst davranmadığını düşünüyor ve içten bir hikaye anlatmaya çalışıyor, izleyicilere açık sözlü bir kesit sunuyor hayattan. Tüm curcunanın içinde oturaklı ve empati kurulabilir tablolar çiziyor. Boğazımı düğümleyen diyaloglar hatta sessizlikler izlettirdi bana BoJack Horseman. İlginç bir şekilde milleti güldürsün diye konulmuştur dediğim karakterler bana birçok şey düşündürdüler, kendimi dizideki karakterlerin yerine koyarken buldum pek çok sefer.&lt;/p&gt;
-
-&lt;p&gt;“Bir izleyelim bakalım nasıl bir şeymiş” diyorsanız dizinin kendini göstermesi için birkaç bölümlük şans tanıyın, bakarsınız üçüncü sezonu bekliyor olursunuz benim gibi. Tüm bu anlattıklarımdan sonra hala kararsızlık içindeyseniz de oturun dizinin jeneriğini izleyin, The Black Keys’den Patrick Carney’in bestesiyle açılış sekansı adeta dizinin atmosferinin bir dakikaya sıkıştırılmış hali.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">Sosyal medyanın ve reklamın bir ton farklı çeşidi sağ olsun, çoğu eser daha elimize geçmeden onlar hakkında fazlasıyla bilgiye sahip oluyoruz. Yeni yapımların sayısının her mecrada katlanarak büyüdüğü bu zamanlarda reklam artık neredeyse bir zorunluluk, ama takdir edersiniz ki reklamın da fazlası bazen ters tepiyor; bazı yapımlar kozlarını çok erken yere düşüyor. Örneğin Suicide Squad filmi beni hala korkunç derecede heyecanlandırıyor, fakat Batman’in filmde yer alacağını bu kadar önceden öğrenmeseydik de sinema salonunda bir sürpriz yaşasaydık diye de iç geçirmiyor değilim.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bojack-1.jpg" /></entry><entry xml:lang="tr"><title type="html">Witcher: Camlar Konağı</title><link href="http://localhost:4000/tr/game/witcher-house-of-glass" rel="alternate" type="text/html" title="Witcher: Camlar Konağı" /><published>2015-08-08T02:00:00+02:00</published><updated>2015-08-08T02:00:00+02:00</updated><id>http://localhost:4000/tr/game/witcher-house-of-glass</id><content type="html" xml:base="http://localhost:4000/tr/game/witcher-house-of-glass">&lt;blockquote&gt;
-  &lt;p&gt;“Tek düşünebildiğim bu dünyanın canavarları olmuştu. Kahrolası sayıda çok canavarın nasıl da gizlice pusuda yattığı. Marta’nın asla güvende olmadığı.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Witcher evreni benim için kesinlikle diğer fantastik dünyalardan ayrı bir yerde duruyor. Fantastik eserlerin ve karakterlerin popülerlik kazanmasıyla beraber elf, cüce, ejderha, zombi ve büyücü gibi karakterlerin medyanın birçok alanında ve özensizce kullanılması ister istemez türe olan ilgimi azalttı, fakat Witcher gerek karanlık ve gerçekçi atmosferiyle, gerek başkarakteriyle, gerekse de alıştıklarımızdan farklı bir kültürün ürünü olan yaratıcı dünyasıyla benim için hala fazlasıyla çekici. Bir de bu altyapının üzerine CDProjekt’in oyunları da oturunca kaçırılması zor bir şekilde gözünüzü alıyor Witcher evreni.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/witcher-house-of-glass-1.jpg&quot; alt=&quot;witcher-house-of-glass-1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Witcher: Camlar Konağı ana olay örgülerinden ve Geralt harici ana karakterlerden bağımsız bir öykü. Kısa hikayelerden ve oyunlardaki yan görevlerden de aşina olduğumuz türde bir macera sunuyor bizlere. Angren topraklarında, Karanlık Orman’ın kenarlarında gezinen Witcher Jakob adında bir avcıyla karşılaşıyor ve bu ikili ormanın içindeki yolculuklarında birbirlerine eşlik etmeye karar veriyorlar. Aksiyonla korkunun iç içe geçtiği senaryo, tıpkı oyundaki gibi gecenin bir yarısı böyle bir ormanda bulunmanın yarattığı rahatsızlığı hissettiriyor okuyucuya.&lt;/p&gt;
-
-&lt;p&gt;Ödüllü yazar Paul Tobin ise başlattığı macerayı sürükleyici bir şekilde devam ettiriyor ve beş sayının sonunda şaşırtıcı olduğu kadar doyurucu da bir sonla noktalıyor. Diyaloglar kesinlikle başarılı, özellikle de yazar Withcerları veya Geralt’ı okuyucuya tanıtırken. Sayfaların tamamına yedirilmiş bir kara mizah var ve bazen okuyucuya biraz fazla gelse de hem Geralt’ın hem de karşısındakilerin iğneleyici hazırcevaplığı kendini resmen seyrettiriyor. Her cümle okunmaya değer bir sebebe sahip.&lt;/p&gt;
-
-&lt;p&gt;Emre Taşkıran’ın çevirisi de yayınevinin (JBC) diğer çevirilerindeki gibi gayet oturaklı, tartışmaya açık tek nokta “Witcher” kelimesinin çevirisi. Daha önce de “Efsunger” şeklinde çevirilen kelime bu sefer de karşımıza “Cadıeril” olarak çıkıyor. Tıpkı önceki çeviri gibi mistik bir hava taşıdığı kesin ama yeni bir çeviriye ihtiyaç var mıydı veya kelime alışık olduğumuz orijinal haliyle mi kullanılmalıydı hiç bilmiyorum. Yine de şimdiki çeviri geçerli bir isim olarak geliyor kulağa.&lt;/p&gt;
-
-&lt;p&gt;Kısacası uyarlamaların veya tür değiştirmelerin bana yaşattırdığı tedirginliği birkaç sayfada atlattı Camlar Konağı. Şimdi heyecanla aynı yazar-çizerin yeni Witcher çizgi romanı “Fox Children”ı bekliyorum. Kitaplara uzak olmayı bırakın, seriyi daha önce duymamış olanların bile okuyabileceği bir başlangıç noktası Camlar Konağı. Sadece korku-fantezi türüne ilginiz olması kitabı okumanız için geçerli bir bahane. Pek hacimli bir hikaye sunmasa da başından sonuna kadar tutarlı ve merak uyandıran yapısıyla Geralt’ı tanıyan tanımayan herkesin göz atabileceği bir hikaye olmuş. Darısı yeni kitabın ve “Beyaz Kurt”un çizgi romanlardaki geleceğinin başına!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“O hiç güvende olmamıştı.”&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">Tek düşünebildiğim bu dünyanın canavarları olmuştu. Kahrolası sayıda çok canavarın nasıl da gizlice pusuda yattığı. Marta’nın asla güvende olmadığı.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/witcher-house-of-glass-1.jpg" /></entry></feed>
+&lt;p&gt;Açın bir iki bölüm izleyin, dizinin bir bölümünü bile izleyip sevdiyseniz açın gerisini de izleyin. Üçüncü sezona daha var gibi dursa da siz geriden takip etmeyin.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">İkinci sezonun ardından Rick and Morty: iyi ki var!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/ricknmorty-1.jpg" /></entry></feed>

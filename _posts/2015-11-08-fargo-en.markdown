@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Fargo"
+date: 2015-11-08 00:00:00 +0000
+lang: en
+author: "Doruk Çetin"
+categories: en tv
+slug: fargo
+permalink: /:categories/:title
+image: "fargo-1.jpg"
+excerpt: "A mid-season review for Fargo – Is it worthy of the season one?"
+---
+Here is an article I wrote about the second season. It is a little bit long, and it was more colorful with the pictures (Kept the screenshots linked to the titles though :). I try to read most of the posts here, but I will really appreciate your comments about this season (and the article itself). Probably there will be a bunch of "Ok then"s below, but... Ok then! And thank you for your time!
+
+
+Our dark-humoured crime anthology has finally begun its second season and even left four episodes behind. My plan was to wait a little while to write something down but I couldn’t wait for the actual mid-season. Maybe it’s still early to talk, we didn’t get to see the big picture yet, but it is comfortable to say that all is going well in the north (Haha, the irony) for now. There shouldn’t be any spoilers in the article, but I don’t think you’ve missed the last episode either.
+
+## What happens out there in the North?
+![fargo-1]({{ "/assets/posts/fargo-1.jpg" | absolute_url }})
+
+Firstly we’re not waiting for another Lorne Malve, there is no character as important as either him or Martin Freeman’s Lester Nygaard, but still the series manages to be on track with its highly interesting characters. I don’t know if it is casting preferences or actings but everyone looks so appropriate in their places. You can even see it worths that Jesse Plemons and Kirsten Dunst have gained weight. As in the first season, Fargo is truly generous with its characters and more importantly, the series handles that abundance of both characters and their stories very well.
+
+
+You can actually see that the series grants opportunities to the actors and actresses to show themselves; one episode for Dodd, another for Lou, Hanzee... and then you feel that every character is the protagonist of his or hers own story. Even when a character is out of focus, you can see that his story still advances, and this surely keeps Fargo’s feet on the ground. Even the characters with limited screen time looks authentic, if not detailed; Judge Mundt is a perfect example of this. It is not easy to say who stays and who dies a week later, but my favourite for at least these four episodes is definitely Mike Milligan. And The Kitchen Brothers. Or Bathroom Brothers. Whatever, I just want to see my favourite prog rock band for a longer time.
+
+## Is it worthy of the season one?
+![fargo-2]({{ "/assets/posts/fargo-2.jpg" | absolute_url }})
+
+Aside from Billy Bob Thornton’s acting, the main force which made me almost binge the first season was its tempo. From the very first episode, Fargo places you seated in a rollercoaster and tells its tales with a tempo that sometimes speeds up, sometimes slows down, but never stops. Whenever you looked at the screen, there was always some interesting stuff going on and all this dynamism never looked fake for even one moment; the series has sold a character like Malvo to the audience with ease. It rightfully earned its legacy from the movie, telling the stories of the ordinary men with a perfect blend of drama, tension and humour. I would find it enough if I’d watched the same quality with a brand new content, and for now, I can tell that I’m quite satisfied.
+
+
+Of course there are things that I’m not fully satisfied, but I honestly believe that everything will be settled in the long run. For example low tempo of the storyline of Peggy and Ed kinda bores me as a result of it being distant to the other stories, but I’m sure that when all hell breaks loose, they will be in the center of it, and the time for this draws near. What an episode we have last week! Every plot is at the verge of safety, and I don’t know what we will have tomorrow. My only concern for now is that alien subplot going on. I don’t want to comment anything about it because we have no other hint than Noah Hawley saying “wait for it”. Let’s wait and see how thing will work out.
+
+## TL and the DR
+![fargo-3]({{ "/assets/posts/fargo-3.jpg" | absolute_url }})
+
+Long story short, Fargo takes steps in the right direction. As an anthology, it succesfully overcame the changes in the both cast and plot, and even the thirty-year leap at the timeline. I don’t want to compare it with True Detective but Fargo plays it safe; it stays true to its own style, with necesarry and clever changes to a well working formula. They are making a great new season of Fargo, and we are watching it with admiration.
+
+
+P.S.: If you’re looking for something where the second season gets ahead of its predecessor, it is probably the soundtrack. Tunes from different cultures and genres suit really well to the rapidly changing atmosphere of the series.
