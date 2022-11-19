@@ -11,7 +11,7 @@ image: "achaemenids-persepolis.jpg"
 excerpt: "This was actually a term paper of mine for the Anatolian Civilizations in Antiquity I course (HIST 241) but enjoyed working on it a lot, so why not have it here?"
 ---
 
-This was actually a term paper of mine for the Anatolian Civilizations in Antiquity I course (HIST 241) but enjoyed working on it a lot, so why not have it here?
+This was actually a term paper of mine for the Anatolian Civilizations in Antiquity I course (HIST 241) but enjoyed working on it a lot, so why not have it here? For the curious, I have here also the original <a href="/docs/achaemenids-slides.pptx" target="_blank">paper</a> and <a href="/docs/achaemenids-paper.pdf" target="_blank">slides</a>.
 
 ## Table of Contents
 
