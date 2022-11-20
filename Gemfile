@@ -26,5 +26,11 @@ group :jekyll_plugins do
   gem "jekyll-figure"
 end
 
+# gem "kramdown", ">= 2.3.1"
+# gem "addressable", ">= 2.8.0"
+# gem "tzinfo", ">= 1.2.10"
+# gem "nokogiri", ">= 1.13.9"
+# gem "kramdown-parser-gfm"
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
