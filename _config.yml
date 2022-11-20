@@ -51,8 +51,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
-  - jekyll-figure
-# - jekyll-email-protect
+  # - jekyll-figure
+  # - jekyll-email-protect
 
 header_pages:
   - "contact.md"

@@ -41,17 +41,13 @@ Achaemenid Empire was the first Persian Empire but they were not the first Irani
 
 ## Cyrus the Great
 
-{% figure caption:"Figure 1: Bas-relief of Cyrus the Great in Pasargadae, Iran Chamber Society. http://www.iranchamber.com" %}
-![achaemenids-cyrus-relief]({{ "/assets/posts/achaemenids-cyrus-relief.jpg" | absolute_url }})
-{% endfigure %}
+{% include image.html caption="Figure 1: Bas-relief of Cyrus the Great in Pasargadae, Iran Chamber Society. http://www.iranchamber.com" alt="achaemenids-cyrus-relief" src="/assets/posts/achaemenids-cyrus-relief.jpg" %}
 
 To understand the Persians better, we shall look at their leader, and indeed its founder is fairly a good example of how this new empire was viewed both by themselves and from a foreigner’s eye. It could be said with ease that Cyrus the Great earned his epithet by building the largest empire ever existed until his time, merely in his thirty years of reign that began with the very foundations of the same empire. His religious tolerance and humane acts are described in many sources, from Babylonian texts to Biblical ones.
 
 The Achaemenids have been powerful as the kings of Anshan, but they were still under the Median rule. Therefore, Cyrus’s reign starts with the revolt against Astyages, the Median Emperor and coincidentally, his grandfather. Nabonidus Chronicle[^5] tells us that it was actually Astyages himself, who initially marched against Persians with conquest in mind[^6]. Persians put up a lengthy fight and the tides have turned for them with their last battle near Pasargadae, the Achaemenid capital. Polyaenus describes it as “a victory so complete that Cyrus had no need to fight again”[^7]. This battle was followed with victories against Medes and the war ends as Ecbatana, the Median capital, was captured and Astyages was taken hostage by Cyrus. Cyrus spared Astyages’s life —and even married his daughter Amytis— and he presented himself as the successor of Median Empire[^8]. He then marched on to west and after a series of successive victories in Asia Minor and conquered the Lydian capital Sardis. Cyrus once more acted as merciful to the defeated and spared the Croesus’s life and even received a former Median city. He also appointed a Lydian named Pactyes as the satrap, i.e. local governor, of the Sardis.
 
-{% figure caption:"Figure 2: Cyrus Cylinder, British Museum. www.britishmuseum.org" %}
-![achaemenids-cyrus-clinder]({{ "/assets/posts/achaemenids-cyrus-clinder.jpg" | absolute_url }})
-{% endfigure %}
+{% include image.html caption="Figure 2: Cyrus Cylinder, British Museum. www.britishmuseum.org" alt="achaemenids-cyrus-clinder" src="/assets/posts/achaemenids-cyrus-clinder.jpg" %}
 
 These aforementioned deeds are very good examples of the characteristics of Cyrus’s reign, as well as they illustrate the Persian authority in the subsequent periods. As it has been noted before, Cyrus was revered for his respect and tolerance to local customs, autonomy and religions of the lands conquered. Though these policies have been proved to be successful for the Achaemenids the majority of the time, there were exceptional occasions.
 
@@ -65,9 +61,7 @@ We know that Cyrus died in 530, but accounts of his death vary. His remains were
 
 Cyrus was immediately succeeded by his son Cambyses, as he was appointed as heir by his father. Greek authors Xenophon, Plato and Herodotus compared Cambyses to his father and criticized him as being a decadent and a tyrant, though it would be hard to ascertain such claims with the knowledge of his death and aftermath at hand.[^14] Cambyses’s successfully followed the path before him and subjugated Egypt after Polycrates of Samos and Phanes of Halicarnassus defected to him. He expanded the Persian borders to the Kushite (modern-day Sudan) territory but had to withdraw his forces after failing in his attempt to invade Nubia. Contrary to the horrendous image of him presented by Classical historians, especially by Herodotus[^15], Egyptian inscriptions[^16] [^17] draw a completely different image of him, portraying Cambyses as a traditional Egyptian ruler.
 
-{% figure caption:"Figure 3: Behistun Inscription, Wikimedia Commons, www.wikimedia.org" %}
-![achaemenids-behistun-inscription]({{ "/assets/posts/achaemenids-behistun-inscription.jpg" | absolute_url }})
-{% endfigure %}
+{% include image.html caption="Figure 3: Behistun Inscription, Wikimedia Commons, www.wikimedia.org" alt="achaemenids-behistun-inscription" src="/assets/posts/achaemenids-behistun-inscription.jpg" %}
 
 Cambyses had to leave Egypt and return to his homeland as there was a revolt led by a usurper, in the name of his brother Smerdis[^18] [^19], and he died on his way back to Persia after receiving a wound. His death and the events that followed it remain to be one of the most disputed periods of Achaemenid history.
 
@@ -77,9 +71,7 @@ Classical sources —Herodotus in Histories, Ctesias in Persica and Darius I in 
 
 Darius also earned through the test of time the same epithet as his predecessor Cyrus and it is suitable to his exceptional character that is reflected in his works, beginning by his aforementioned accomplishment. During Darius’s reign the Persian Empire lived its golden age. He reorganized the satrapial tribute system, introduced a new currency, standard weights and an official language to the Persian Empire. He expanded the borders, suppressed revolts. He built roads and monuments throughout the empire, palaces in Susa and Persepolis. He even compiled the Egyptian laws and reconstructed temples of Egyptians.
 
-{% figure caption:"Figure 4: Achaemenid Empire at its greatest territorial extent, Wikimedia Commons, www.wikimediacommons.org" %}
-![achaemenids-greatest-territorial-extent]({{ "/assets/posts/achaemenids-greatest-territorial-extent.jpg" | absolute_url }})
-{% endfigure %}
+{% include image.html caption="Figure 4: Achaemenid Empire at its greatest territorial extent, Wikimedia Commons, www.wikimediacommons.org" alt="achaemenids-greatest-territorial-extent" src="/assets/posts/achaemenids-greatest-territorial-extent.jpg" %}
 
 Behistun Inscription boasts about how Darius put down the numerous rebellions that broke out after he became the king.[^22] We see the measures he has taken to consolidate his power; he executed the rebellious “liar-kings” by first cutting their noses and ears —as it was customary both in Assyrian and Achaemenid period— and then impaling and displaying them publicly.[^23] We learn from Herodotus that he married Cyrus’s two daughters and his granddaughter through Smerdis.[^24] On top of this knowledge, how Darius redefined the word Achaemenid and how he proclaimed his authority was from Ahura-Mazda[^25] marks a new dynastic and imperial order for the Persian Empire.[^26]
 
@@ -107,9 +99,7 @@ Artaxerxes I faced the Egyptian revolt led by a Libyan prince named Inarus, whic
 
 Artaxerxes died after enjoying a long reign lasted from 465 to 424 and his only legitimate son was crowned king as Xerxes II. Ctesias writes in Persica his reign only lasted for 45 days as he was assassinated and replaced by Sogdianus, his illegitimate brother born to Alogyne. Likewise, Sogdianus did not enjoy the title for too long either. His brother Ochus, born to Cosmarditene, claimed the throne under the regnal name of Darius II. His brother Arsites from same mother and Artyphius, son of Megabyzus, both rebelled against the new king with no avail; they were captured and put to death.[^35]
 
-{% figure caption:"Figure 5: Achaemenid Family Tree, Wikimedia Commons, www.wikimedia.org" %}
-![achaemenids-family-tree]({{ "/assets/posts/achaemenids-family-tree.jpg" | absolute_url }})
-{% endfigure %}
+{% include image.html caption="Figure 5: Achaemenid Family Tree, Wikimedia Commons, www.wikimedia.org" alt="achaemenids-family-tree" src="/assets/posts/achaemenids-family-tree.jpg" %}
 
 After suppressing a Median revolt, Darius II renewed the truce between Persia and Athens, although Athenians supported a revolt in Sardis only a few years effectively violating the truce. At that time, Greek city-states led by Sparta and Athens were in war. As Athenians failed at conquering Peloponnesian controlled Sicily, Darius saw the advantage and formed an alliance with Spartans. Darius bestowed upon his younger son Cyrus power and money and sent him to western front to control the Greek situation.[^36] He solved the inter-satrapal rivalry in Asian Minor and formed personal relations with the Spartan general Lysander, even leaving him large sums of money as Cyrus was sent for his father in deathbed.[^37] As sources on him were scarce, we do not know about his reign on other parts of the empire.
 

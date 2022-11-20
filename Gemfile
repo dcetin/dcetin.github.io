@@ -23,7 +23,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jemoji"
   gem "jekyll-seo-tag"
-  gem "jekyll-figure"
+  # gem "jekyll-figure"
 end
 
 # gem "kramdown", ">= 2.3.1"
