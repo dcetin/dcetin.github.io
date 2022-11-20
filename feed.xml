@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://dcetin.me//feed.xml" rel="self" type="application/atom+xml" /><link href="http://dcetin.me//" rel="alternate" type="text/html" hreflang="en_US" /><updated>2022-11-20T13:54:51+00:00</updated><id>http://dcetin.me//feed.xml</id><title type="html">Doruk Çetin</title><subtitle>Tis but a personal website.</subtitle><author><name>Doruk Çetin</name></author><entry xml:lang="en"><title type="html">Y Tu Mamá También</title><link href="http://dcetin.me//en/film/y-tu-mama-tambien" rel="alternate" type="text/html" title="Y Tu Mamá También" /><published>2020-12-22T00:00:00+00:00</published><updated>2020-12-22T00:00:00+00:00</updated><id>http://dcetin.me//en/film/y-tu-mama-tambien</id><content type="html" xml:base="http://dcetin.me//en/film/y-tu-mama-tambien">&lt;p&gt;I don’t know why it took me just over a year to run through my ramblings, but here I go. I was quite overwhelmed when the film has ended and wanted to talk to someone about it. The easiest way was just reading the reviews on Letterboxd, so I may or may not be reiterating what has been said before more eloquently.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/y-tu-mama-tambien-1.jpg&quot; alt=&quot;y-tu-mama-tambien-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first act of the film felt slow for me with an abundance of side characters and I found it hard to pay attention to the narration over people I barely knew. Scenes gained so much energy after the phone call with Jano, as the scenes began to focus on the trio. It is easy to see that the actors have a special chemistry which might not have been there without their relationship off-screen. Maribel Verdú notably carries so much weight in her role — you get to know both past and current Luisa easily, just by listening to her on the road.&lt;/p&gt;
+
+&lt;p&gt;The acting and the dialogue is so sincere that you cannot tell if you are watching a film or not; every scene plays like it is real. Each swearing, sex, or tantrum feels like it has already happened somewhere in that part of the world. I should add that I may be a tad biased towards the acting as we learn the director’s intentions on-the-fly through the narrator, though I believe it does not make the acting less precious. In fact, this is the film that made me re-evaluate my prejudices against voice-over narration and celebrate its purposefulness.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/y-tu-mama-tambien-2.jpg&quot; alt=&quot;y-tu-mama-tambien-2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Characters aside, the most influential effect on such immersion belongs to the setting that was so masterfully put together. The camera is hand-held, lighting is mostly natural and there is no non-diegetic music if my memory does not fail me. In addition to all these, the historical backdrop creates an impression that sets a more realistic atmosphere than most documentaries. I believe this movie could have been easily ruined in the wrong hands over slightly different artistic choices. I found the authenticity here similar to Linklater’s style. I was able to see this film as a mixture of “Before Sunrise” and “Dazed and Confused”, at least in terms of what I felt while watching them and what stayed with me afterward.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/y-tu-mama-tambien-3.jpg&quot; alt=&quot;y-tu-mama-tambien-3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I won’t be spoiling it, but I at least have to say that the film hits you hard. It’s already difficult to say goodbye to a story in which you invested so much, but the Cuarón brothers have made it sure that you can’t take their story out of your mind after the credits roll. Remembering the film still makes me feel powerless, although it was such a freeing experience.&lt;/p&gt;
+
+&lt;p&gt;Y Tu Mamá También is an exceptional story on the human condition and is a delight to watch. It is a perfect mix of a road movie, a coming-of-age story, and an erotica — nothing is out of place. Personally, I cannot help but consider it as a 106 minute-long Manu Chao song that I am unable to get out of my head. It is the same fuzzy feeling in my stomach and all the Spanish just makes things harder.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">A perfect mix of a road movie, a coming-of-age story, and an erotica — nothing is out of place.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://dcetin.me//y-tu-mama-tambien-3.jpg" /></entry><entry xml:lang="en"><title type="html">Academy Awards</title><link href="http://dcetin.me//en/blog/academy-awards" rel="alternate" type="text/html" title="Academy Awards" /><published>2019-11-14T21:00:00+00:00</published><updated>2019-11-14T21:00:00+00:00</updated><id>http://dcetin.me//en/blog/academy-awards</id><content type="html" xml:base="http://dcetin.me//en/blog/academy-awards">&lt;p&gt;I have been curious to see if there is any correlation between the ages of award winners in comparison to their respective nominees in well-known award ceremonies. I wanted to initially try my chance with Academy Awards as there is plenty of easily accessible data, but this same idea could be easily applied to many other competitions. The interactive plot below compares the ages of nominees and winners of the Academy Awards for three categories.&lt;/p&gt;
+
+&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
+    &lt;div class=&quot;fullscreen-content&quot;&gt;
+        &lt;iframe class=&quot;iframe-responsive&quot; src=&quot;/../assets/posts/academy-awards/academy-awards.html&quot; width=&quot;2000&quot; height=&quot;550&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Dataset and code to generate the plots can be found &lt;a href=&quot;https://github.com/dcetin/academy-awards&quot;&gt;here&lt;/a&gt;. Plot is best viewed (and interacted with) in desktop. If the browser somehow does not display it correctly, you can run the notebook in the repository instead.&lt;/p&gt;
+
+&lt;p&gt;I used &lt;a href=&quot;https://plot.ly/python/&quot;&gt;Plotly Python&lt;/a&gt; to generate the plot. You can select the dataset via the buttons on the left side and toggle shown data by clicking on the legend entries on the right side. Hovering over the scatter plot will show the details of the data entries.&lt;/p&gt;
+
+&lt;h1 id=&quot;more-plots&quot;&gt;More Plots!&lt;/h1&gt;
+
+&lt;p&gt;You can also &lt;a href=&quot;https://colab.research.google.com/github/dcetin/academy-awards/blob/master/academy_awards.ipynb&quot;&gt;run the notebook on Colab&lt;/a&gt; to draw trajectories for specific people. I have added a few examples below to illustrate.&lt;/p&gt;
+
+&lt;h2 id=&quot;academy-just-doesnt-recognize-female-directors&quot;&gt;Academy just doesn’t recognize female directors&lt;/h2&gt;
+
+&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
+    &lt;div class=&quot;wide-content&quot;&gt;
+        &lt;img src=&quot;/../assets/posts/academy-awards/female_dirs.png&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;each-year-a-nomination-for-meryl-streep&quot;&gt;Each year a nomination for Meryl Streep&lt;/h2&gt;
+
+&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
+    &lt;div class=&quot;wide-content&quot;&gt;
+        &lt;img src=&quot;/../assets/posts/academy-awards/streep.png&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;clint-eastwood-89-years-and-still-going-strong&quot;&gt;Clint Eastwood: 89 years and still going strong&lt;/h2&gt;
+
+&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
+    &lt;div class=&quot;wide-content&quot;&gt;
+        &lt;img src=&quot;/../assets/posts/academy-awards/eastwood.png&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;i-still-cant-believe-day-lewis-is-retired&quot;&gt;I still can’t believe Day-Lewis is retired&lt;/h2&gt;
+
+&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
+    &lt;div class=&quot;wide-content&quot;&gt;
+        &lt;img src=&quot;/../assets/posts/academy-awards/day-lewis.png&quot; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name>Doruk Çetin</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://dcetin.me//academy-awards-1.jpg" /></entry><entry xml:lang="en"><title type="html">How to write a good CV</title><link href="http://dcetin.me//en/blog/how-to-write-a-good-cv" rel="alternate" type="text/html" title="How to write a good CV" /><published>2018-12-09T21:00:00+00:00</published><updated>2018-12-09T21:00:00+00:00</updated><id>http://dcetin.me//en/blog/how-to-write-a-good-cv</id><content type="html" xml:base="http://dcetin.me//en/blog/how-to-write-a-good-cv">&lt;blockquote&gt;
+  &lt;p&gt;*if you think mine looks aight&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although these are arguably just simple suggestions, it goes without saying that what I wrote here is my personal opinion. These are not definitive rules and you should use these suggestions as a general guideline to explore what suits your situation best. You can also find the CV template I use on both &lt;a href=&quot;https://github.com/dcetin/Simple-CV&quot;&gt;github&lt;/a&gt; and &lt;a href=&quot;https://www.overleaf.com/latex/templates/simple-cv/wmsyrgqwwqnc&quot;&gt;overleaf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Try out ideas:&lt;/strong&gt; Iterate over different designs, experiment with different wordings. Don’t hesitate to scrap things.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Help the reader:&lt;/strong&gt; Remember that person reading your CV might not know every scientific term in your field. Use simple words where you can.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Don’t lie:&lt;/strong&gt; It won’t get anyone far. Though it’s alright to shift the focus and talk less about unwanted stuff.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;stylish&quot;&gt;Stylish&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Keep it simple:&lt;/strong&gt; Colors, charts, shapes… It’s mostly a good idea to avoid all of them. Another rule of thumb is to use a serif typeface, which is both readable and professional.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Be consistent:&lt;/strong&gt; Pick a style and just follow it. For example, if you write a company’s name in bold, you should probably make all of them bold. Definitely stick to a typeface or two.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mind the gap:&lt;/strong&gt; All blank parts are important for readability. Try to have some room in between headings, paragraphs and lines. Not having sufficient page margins would go horribly wrong.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;professional&quot;&gt;Professional&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Leave aside personal stuff:&lt;/strong&gt; Like your marital status or your birthdate, unless you think it is really relevant for the position somehow.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;But not all of them:&lt;/strong&gt; Name, address, phone, email must be there. Your name should be more than just visible. Don’t forget to include your professional web presence, if you have any.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;E-mail is a must:&lt;/strong&gt; If you have an institutional one it may be a good idea to use it. For personal adresses, try to use a professional-sounding one — like something with your name in it. If you don’t have one, just set up a new one.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;complete&quot;&gt;Complete&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Keep it up-to-date:&lt;/strong&gt; Your CV should tell what have you been doing until now. Specifically try to avoid any possible confusion on your current status.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Don’t leave gaps:&lt;/strong&gt; Without any explanation, at least. Try to bring out the positive aspects of your gap while also being honest about them.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Explain yourself:&lt;/strong&gt; A cover letter could always be a good addition. If not, a summary or an objective driven introduction in your CV would also do good.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;brief&quot;&gt;Brief&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Keep it short:&lt;/strong&gt; One-pager is always the best option. Do not use more than one page, especially if you’re just going to keep it mostly empty. More than two pages is a no-no. If necessary, you can use a website for your portfolio or other details.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Be succinct:&lt;/strong&gt; Same idea also applies for sentences and paragraphs. Keep them short, break the longer ones into short ones. You can use more detail in your cover letter or such.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Be self-explanatory:&lt;/strong&gt; No need to write a “Curriculum Vitae” on top, no need to write “Email:” before your email. Leave out clutter where you can.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;correct&quot;&gt;Correct&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;No mistakes:&lt;/strong&gt; There is no excuse for any errors, even for a typo or a grammatical error. CVs are all about leaving a good first impression.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Proofread:&lt;/strong&gt; Again and again, just in case. Ask your friends, colleagues. Grammar &amp;amp; spell checkers are handy, but they may have their limitations.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Get help:&lt;/strong&gt; Not only for proofreading, but also for all kinds of suggestions. There are career centers in universities for students and graduates, make use of their help.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;detailed&quot;&gt;Detailed&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Detail your work:&lt;/strong&gt; Don’t just say you worked somewhere for some time. Try to explain what did you do, how did you do it and what did you achieve or what positive effect your work had. One sentence for each should be manageable.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Show, don’t tell:&lt;/strong&gt; A team player and a problem solver? Who says so? Try to show off your skills with your work. Same applies for assessments like “proficient in Java” or “expert in Python”.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fill it:&lt;/strong&gt; When in doubt with a detail and if it’s not really irrelevant, put it. It doesn’t have to explicitly fulfill a requirement for the job.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keep it relevant:&lt;/strong&gt; That does not mean that you should talk about everything you ever did in your CV. Try to tailor the content for the specific position.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;convenient&quot;&gt;Convenient&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Guide the reader:&lt;/strong&gt; Bullet points, horizontal rules, spaced out sections… whatever makes it more readable. Remember, it’s your CV, you decide on the pace.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sort the stuff:&lt;/strong&gt; For example, if you are a student or a fresh grad it is generally quite a good idea to talk about your education first. You decide on what’s important and what’s less.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reverse chronological order:&lt;/strong&gt; Is the way to go. List the most recent positions and achievements first inside every section.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vivid&quot;&gt;Vivid&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Photograph:&lt;/strong&gt; People just do not use them on CVs anymore. LinkedIn, social media or a personal website can provide a professional one.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;References:&lt;/strong&gt; Are available on request, right? If they really are, why not. If you are putting such a claim on your CV, your references must be informed beforehand.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hobbies:&lt;/strong&gt; Put them, as long as it is more than just “reading books, traveling and sports”. It is a nice idea to underline soft skills with your hobbies, if it applies.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you think anything is missing or misleading, please do tell.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">*if you think mine looks aight</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://dcetin.me//how-to-write-a-good-cv.png" /></entry><entry xml:lang="en"><title type="html">A Brief Timeline of the Achaemenid Empire</title><link href="http://dcetin.me//en/history/achaemenids" rel="alternate" type="text/html" title="A Brief Timeline of the Achaemenid Empire" /><published>2018-02-19T21:00:00+00:00</published><updated>2018-02-19T21:00:00+00:00</updated><id>http://dcetin.me//en/history/achaemenids</id><content type="html" xml:base="http://dcetin.me//en/history/achaemenids">&lt;p&gt;This was actually a term paper of mine for the Anatolian Civilizations in Antiquity I course (HIST 241) but enjoyed working on it a lot, so why not have it here? For the curious, I have here also the original &lt;a href=&quot;/docs/achaemenids-slides.pptx&quot; target=&quot;_blank&quot;&gt;paper&lt;/a&gt; and &lt;a href=&quot;/docs/achaemenids-paper.pdf&quot; target=&quot;_blank&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#table-of-contents&quot;&gt;Table of Contents&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#origin&quot;&gt;Origin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cyrus-the-great&quot;&gt;Cyrus the Great&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cambyses-and-dariuss-accession-to-the-throne&quot;&gt;Cambyses and Darius’s Accession to the Throne&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#darius-the-great&quot;&gt;Darius the Great&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#greco-persian-wars-and-xerxes&quot;&gt;Greco-Persian Wars and Xerxes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#artaxerxes-i-and-darius-ii&quot;&gt;Artaxerxes I and Darius II&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#artaxerxes-ii-and-artaxerxes-iii&quot;&gt;Artaxerxes II and Artaxerxes III&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fall-of-the-persian-empire&quot;&gt;Fall of the Persian Empire&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#bibliography&quot;&gt;Bibliography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classical-sources&quot;&gt;Classical Sources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#footnotes&quot;&gt;Footnotes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;We mostly know about the Achaemenid Empire from the perspective of Western History. They were the barbarians&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; that waged war on the Greek city states and they were the ones who were defeated and subsequently conquered by the Alexander the Great of Macedon. The Achaemenid Empire was also cherished as they emancipated the Jewish people when they were exiled from Babylon. This is a natural outcome of the fact that we mostly know about the Achaemenids from the secondary sources, most notably Greeks, as Persians left no literary record of their own history&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. However, they have a lengthy and illustrious history that deserves being studied from their own perspective.&lt;/p&gt;
+
+&lt;h2 id=&quot;origin&quot;&gt;Origin&lt;/h2&gt;
+
+&lt;p&gt;The Achaemenid homeland was Persis (Pārsa in Old Persian), hence the Latin naming of the nomadic tribes as Persians&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. It is located in the southwest Iran where the former Elam city of Anshan (Anšan in Old Persian) stood and it now corresponds to the modern province of Fars. The Achaemenid Empire was established around 550 BC by the Cyrus II (Cyrus the Great), but Persians and their kings can be traced back in time to the beginnings of the 7th century BC. First rulers of the Persian kingdom —namely Teispes, Cyrus I and Cambyses I— acted as satraps until the Cyrus the Great’s revolt against the Median Empire.&lt;/p&gt;
+
+&lt;p&gt;Achaemenid Empire was the first Persian Empire but they were not the first Iranian Empire. At the time of the Achaemenid Empire’s inception, central Iran belonged to the Medes. Outside the Iranian plateau, the Neo-Babylonian Empire ruled the Mesopotamia in the east, Lydians ruled the Western Anatolia. At the far north there were Scythians and at the southwest, pharaoh Psamtik regained the control of Egypt. Therefore, it can be said political landscape surrounding Persia at the 6th century BC was shaped around the aftermath of the Neo-Assyrian Empire’s collapse and the rise of the Achaemenid Empire could be more easily understood in such historical context, concluding a longue durée&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;cyrus-the-great&quot;&gt;Cyrus the Great&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/achaemenids-cyrus-relief.jpg&quot; alt=&quot;achaemenids-cyrus-relief&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Figure 1: Bas-relief of Cyrus the Great in Pasargadae, Iran Chamber Society. http://www.iranchamber.com&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;To understand the Persians better, we shall look at their leader, and indeed its founder is fairly a good example of how this new empire was viewed both by themselves and from a foreigner’s eye. It could be said with ease that Cyrus the Great earned his epithet by building the largest empire ever existed until his time, merely in his thirty years of reign that began with the very foundations of the same empire. His religious tolerance and humane acts are described in many sources, from Babylonian texts to Biblical ones.&lt;/p&gt;
+
+&lt;p&gt;The Achaemenids have been powerful as the kings of Anshan, but they were still under the Median rule. Therefore, Cyrus’s reign starts with the revolt against Astyages, the Median Emperor and coincidentally, his grandfather. Nabonidus Chronicle&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; tells us that it was actually Astyages himself, who initially marched against Persians with conquest in mind&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. Persians put up a lengthy fight and the tides have turned for them with their last battle near Pasargadae, the Achaemenid capital. Polyaenus describes it as “a victory so complete that Cyrus had no need to fight again”&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. This battle was followed with victories against Medes and the war ends as Ecbatana, the Median capital, was captured and Astyages was taken hostage by Cyrus. Cyrus spared Astyages’s life —and even married his daughter Amytis— and he presented himself as the successor of Median Empire&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;. He then marched on to west and after a series of successive victories in Asia Minor and conquered the Lydian capital Sardis. Cyrus once more acted as merciful to the defeated and spared the Croesus’s life and even received a former Median city. He also appointed a Lydian named Pactyes as the satrap, i.e. local governor, of the Sardis.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/achaemenids-cyrus-clinder.jpg&quot; alt=&quot;achaemenids-cyrus-clinder&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Figure 2: Cyrus Cylinder, British Museum. www.britishmuseum.org&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These aforementioned deeds are very good examples of the characteristics of Cyrus’s reign, as well as they illustrate the Persian authority in the subsequent periods. As it has been noted before, Cyrus was revered for his respect and tolerance to local customs, autonomy and religions of the lands conquered. Though these policies have been proved to be successful for the Achaemenids the majority of the time, there were exceptional occasions.&lt;/p&gt;
+
+&lt;p&gt;Following the conquest of Sardis, Cyrus changed his direction to the east, only to learn the news of a Lydian revolt led by Pactyes. Meanwhile, Ionians and Aeolians were refusing to submit to Achaemenid rule and even seeking help from Sparta against them. Cyrus continued his journey to east but sent back Mazares —the Median general who defected to Cyrus— to Lydia to capture Pactyes and punish the revolting cities, both of which he accomplished successfully. Cyrus directly replaced Pactyes with a Persian named Oroetes, in an effort to balance autonomy and authority&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;. We don’t know much about Cyrus’s expeditions at that time, but we know that Cyrus captured Babylon in 539.&lt;/p&gt;
+
+&lt;p&gt;Both the Nabonidus Chronicle and the Cyrus Cylinder&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; present us commentary on the Persian conquest of Babylon. The Cylinder tells us how the last king Nabonidus opposed the Babylonian people and their beliefs, as well as it details how the patron deity Marduk favored Cyrus and aided him with his victory. Both sources also take note of how the conquest progressed as peaceful and without a battle. Briant argues that this war in year 539 was probably the last stage of more lengthy hostilities and the Cylinder displays a powerful example in terms of the propaganda and an accompanying political agenda the Persians employ.&lt;sup id=&quot;fnref:11&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt; It seems that the Egyptian campaign Cambyses led was in planning stages in the last years of Cyrus’s reign and various sources agree on the point that the Egyptian Pharaoh Amasis deliberately tricked either Cyrus or Cambyses, which can be argued to reflect later Persian propaganda rather than the truth&lt;sup id=&quot;fnref:12&quot;&gt;&lt;a href=&quot;#fn:12&quot; class=&quot;footnote&quot;&gt;12&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;We know that Cyrus died in 530, but accounts of his death vary. His remains were transferred to his capital city of Pasargadae and his tomb is still intact today. In fact, Tomb of Cyrus is a great testimony to the Persian synthesis that happened throughout the Persian rule over two centuries. It exemplifies artistic choices and elements from various cultures, from ones preceded the Persians to ones that came under their rule. Indeed, long before Alexander’s conquests, Achaemenid Empire built a bridge that connected west and the east, ranging from Macedonia in the West to the Indus Valley in the East. Such cultural synthesis is visible in other Persian (as well as Greek) pieces of art. Another example to illustrate the subject could be the painted wooden beams found in a Tatarlı wooden tomb chamber. Summerer details how the painting brings together a multifigured battle composition, common in Eastern Greek art, with traditional Persian iconography.&lt;sup id=&quot;fnref:13&quot;&gt;&lt;a href=&quot;#fn:13&quot; class=&quot;footnote&quot;&gt;13&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cambyses-and-dariuss-accession-to-the-throne&quot;&gt;Cambyses and Darius’s Accession to the Throne&lt;/h2&gt;
+
+&lt;p&gt;Cyrus was immediately succeeded by his son Cambyses, as he was appointed as heir by his father. Greek authors Xenophon, Plato and Herodotus compared Cambyses to his father and criticized him as being a decadent and a tyrant, though it would be hard to ascertain such claims with the knowledge of his death and aftermath at hand.&lt;sup id=&quot;fnref:14&quot;&gt;&lt;a href=&quot;#fn:14&quot; class=&quot;footnote&quot;&gt;14&lt;/a&gt;&lt;/sup&gt; Cambyses’s successfully followed the path before him and subjugated Egypt after Polycrates of Samos and Phanes of Halicarnassus defected to him. He expanded the Persian borders to the Kushite (modern-day Sudan) territory but had to withdraw his forces after failing in his attempt to invade Nubia. Contrary to the horrendous image of him presented by Classical historians, especially by Herodotus&lt;sup id=&quot;fnref:15&quot;&gt;&lt;a href=&quot;#fn:15&quot; class=&quot;footnote&quot;&gt;15&lt;/a&gt;&lt;/sup&gt;, Egyptian inscriptions&lt;sup id=&quot;fnref:16&quot;&gt;&lt;a href=&quot;#fn:16&quot; class=&quot;footnote&quot;&gt;16&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:17&quot;&gt;&lt;a href=&quot;#fn:17&quot; class=&quot;footnote&quot;&gt;17&lt;/a&gt;&lt;/sup&gt; draw a completely different image of him, portraying Cambyses as a traditional Egyptian ruler.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/achaemenids-behistun-inscription.jpg&quot; alt=&quot;achaemenids-behistun-inscription&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Figure 3: Behistun Inscription, Wikimedia Commons, www.wikimedia.org&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Cambyses had to leave Egypt and return to his homeland as there was a revolt led by a usurper, in the name of his brother Smerdis&lt;sup id=&quot;fnref:18&quot;&gt;&lt;a href=&quot;#fn:18&quot; class=&quot;footnote&quot;&gt;18&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:19&quot;&gt;&lt;a href=&quot;#fn:19&quot; class=&quot;footnote&quot;&gt;19&lt;/a&gt;&lt;/sup&gt;, and he died on his way back to Persia after receiving a wound. His death and the events that followed it remain to be one of the most disputed periods of Achaemenid history.&lt;/p&gt;
+
+&lt;p&gt;Classical sources —Herodotus in Histories, Ctesias in Persica and Darius I in Behistun Inscription&lt;sup id=&quot;fnref:20&quot;&gt;&lt;a href=&quot;#fn:20&quot; class=&quot;footnote&quot;&gt;20&lt;/a&gt;&lt;/sup&gt;— detail how Cambyses slew his brother from another mother and kept it as a secret, and that the usurper is a man using his brother’s name to claim right to rule. Modern revisions disagree on this topic with the Classical authors; telling of the story of Bardiya (Smerdis) as presented above and genealogy on Behistun Inscription connecting Darius to Teispes (without mentioning Cyrus, interestingly) can be seen as efforts to legitimate his accession to the Persian throne.&lt;sup id=&quot;fnref:21&quot;&gt;&lt;a href=&quot;#fn:21&quot; class=&quot;footnote&quot;&gt;21&lt;/a&gt;&lt;/sup&gt; That way or another, Darius captures and kills Bardiya with the help of six noble Persian families and becomes the third king of the Achaemenid Empire.&lt;/p&gt;
+
+&lt;h2 id=&quot;darius-the-great&quot;&gt;Darius the Great&lt;/h2&gt;
+
+&lt;p&gt;Darius also earned through the test of time the same epithet as his predecessor Cyrus and it is suitable to his exceptional character that is reflected in his works, beginning by his aforementioned accomplishment. During Darius’s reign the Persian Empire lived its golden age. He reorganized the satrapial tribute system, introduced a new currency, standard weights and an official language to the Persian Empire. He expanded the borders, suppressed revolts. He built roads and monuments throughout the empire, palaces in Susa and Persepolis. He even compiled the Egyptian laws and reconstructed temples of Egyptians.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/achaemenids-greatest-territorial-extent.jpg&quot; alt=&quot;achaemenids-greatest-territorial-extent&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Figure 4: Achaemenid Empire at its greatest territorial extent, Wikimedia Commons, www.wikimediacommons.org&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Behistun Inscription boasts about how Darius put down the numerous rebellions that broke out after he became the king.&lt;sup id=&quot;fnref:22&quot;&gt;&lt;a href=&quot;#fn:22&quot; class=&quot;footnote&quot;&gt;22&lt;/a&gt;&lt;/sup&gt; We see the measures he has taken to consolidate his power; he executed the rebellious “liar-kings” by first cutting their noses and ears —as it was customary both in Assyrian and Achaemenid period— and then impaling and displaying them publicly.&lt;sup id=&quot;fnref:23&quot;&gt;&lt;a href=&quot;#fn:23&quot; class=&quot;footnote&quot;&gt;23&lt;/a&gt;&lt;/sup&gt; We learn from Herodotus that he married Cyrus’s two daughters and his granddaughter through Smerdis.&lt;sup id=&quot;fnref:24&quot;&gt;&lt;a href=&quot;#fn:24&quot; class=&quot;footnote&quot;&gt;24&lt;/a&gt;&lt;/sup&gt; On top of this knowledge, how Darius redefined the word Achaemenid and how he proclaimed his authority was from Ahura-Mazda&lt;sup id=&quot;fnref:25&quot;&gt;&lt;a href=&quot;#fn:25&quot; class=&quot;footnote&quot;&gt;25&lt;/a&gt;&lt;/sup&gt; marks a new dynastic and imperial order for the Persian Empire.&lt;sup id=&quot;fnref:26&quot;&gt;&lt;a href=&quot;#fn:26&quot; class=&quot;footnote&quot;&gt;26&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Chronological account of Darius’s expeditions after the revolts is disorganized. Herodotus talks about the king’s expeditions to Samos, Egypt, Indus Valley as well as the revolt in Babylon and the campaign against Scythians.&lt;sup id=&quot;fnref:27&quot;&gt;&lt;a href=&quot;#fn:27&quot; class=&quot;footnote&quot;&gt;27&lt;/a&gt;&lt;/sup&gt; As Persian borders now run across Thracia, it is of no surprise that there would be encounters with Greeks.&lt;/p&gt;
+
+&lt;h2 id=&quot;greco-persian-wars-and-xerxes&quot;&gt;Greco-Persian Wars and Xerxes&lt;/h2&gt;
+
+&lt;p&gt;One of the most intense periods of Ancient History that still echoes through the Western Culture was kindled by the flame called Ionian Revolt. As it has been discussed before, Ionians were not fond of being under Persian rule, since the conquest of Lydia by Cyrus. Aristagoras was the tyrant of Miletus at that time, preceding his uncle Histiaeus. He wanted to extend his power by conquering Naxos in the name of Persian Empire. Artaphernes, satrap of Sardis and brother of Darius, agreed to lend his forces and Darius has given consent on the plan.&lt;/p&gt;
+
+&lt;p&gt;The siege failed as Naxians have managed to fend their island. Artamenes did not see any other option than to rebel and immediately asked Greek city states for help. Sparta refused but Athenians and Eretrians agreed and provided support for the rebellion. They marched on Sardis but Artaphernes effectively defended the citadel and the attackers instead sacked and burned the town. Persian response was swift. Persians under Artaphernes put down the revolt after capturing revolting city states including Miletus. Darius has come to terms with Ionians as he replaced the unpopular tyrants by installing democracy.&lt;sup id=&quot;fnref:28&quot;&gt;&lt;a href=&quot;#fn:28&quot; class=&quot;footnote&quot;&gt;28&lt;/a&gt;&lt;/sup&gt; However, he had to punish Athens and Eretria for helping the revolt.&lt;/p&gt;
+
+&lt;p&gt;At first, Darius sent his son-in-law Mardonius, who was the son to one of the nobles that helped Darius claim the throne. Though he subjugated Macedonia and Thrace he lost his fleet and had to retreat. Then, Artaphernes —son of the Artaphernes and nephew of Darius— and Datis were appointed for the invasion. The plan was to install a deposed tyrant named Hippias as the ruler of Athens, effectively making it a puppet state. Persians have burned down the Eretria and landed on the Marathon. Though they were considerably outnumbered, Athenians drove out both the land and naval forces of Persians, with the help of the Plataeans. Greeks were not a threat to Persians, per se, but this loss had a significant symbolic importance for Darius as it was a direct insult to his prestige.&lt;sup id=&quot;fnref:29&quot;&gt;&lt;a href=&quot;#fn:29&quot; class=&quot;footnote&quot;&gt;29&lt;/a&gt;&lt;/sup&gt; Darius did not live to march against the Greeks once more, but he named an heir before he died and his son led the second invasion of Greece.&lt;/p&gt;
+
+&lt;p&gt;After suppressing a revolt in Egypt, Xerxes began the preparations for the invasion. Herodotus writes that the primary action Darius intended and Xerxes executed was not merely punishing Athens but rather conquering the Greeks.&lt;sup id=&quot;fnref:30&quot;&gt;&lt;a href=&quot;#fn:30&quot; class=&quot;footnote&quot;&gt;30&lt;/a&gt;&lt;/sup&gt; After several years of preparations at substantial scale&lt;sup id=&quot;fnref:31&quot;&gt;&lt;a href=&quot;#fn:31&quot; class=&quot;footnote&quot;&gt;31&lt;/a&gt;&lt;/sup&gt;, Xerxes crossed the Hellespont —modern day name for the Dardanelles— and marched against Greeks. Spartans led by their king Leonidas managed to hold and delay the Persian army at the pass at Thermopylae. Persians forces eventually took the pass continued inwards, but an unexpected storm hit the Persian navy. As their defenses fell, Attica and Boeotia were captured and Athens was sacked by the Persians. Meanwhile, Spartans and Athenians put aside their differences and gathered their troops together at the Isthmus of Corinth. Greeks intended to take the advantage of the geography and heavily fortified the narrow straits. Persian navy was lured by Themistocles to Salamis, where Persians suffered a decisive defeat.&lt;/p&gt;
+
+&lt;p&gt;Following the Battle of Salamis, Xerxes retreated back to Sardis and ordered his commander Mardonius to continue the offence in Greece. Xerxes then offered Athens peace by declaring that they will leave the state free without installing any tyrant, rebuild the temples destroyed and give them additional land to rule if they come to terms with Persians.&lt;sup id=&quot;fnref:32&quot;&gt;&lt;a href=&quot;#fn:32&quot; class=&quot;footnote&quot;&gt;32&lt;/a&gt;&lt;/sup&gt; Contrary to what Spartans genuinely feared, Athenian forces declined the offer twice. After Mardonius marched through Attica, the rivaling forces met at Plataea. Mardonius was killed in battle and it further disheartened the Persian troops which were already suffering a heavy loss. At the same day —or at least soon enough— Persian navy, caught unprepared by the Greek fleet, lost a battle at Mycale.&lt;/p&gt;
+
+&lt;p&gt;Later began the Greek offensive and Persians had to fight against the Delian League, a coalition of Greek city-states which also called the Athenian Empire as Athens led them. Greeks defeated the Persian army later at Eurymedon River —modern day Köprüçay, at Antalya— consolidating the Greek defense in the Aegean region. We could say that Greco-Persian Wars resulted in a territorial loss as Persians lost numerous Aegean islands and their grasp on Thrace. It would be also fair to argue that the Babylonian Revolt and the Second Ionian Revolt were influenced by the recent Persian defeats, Persian army was still strong and we would not say the Persian king lost his influence or his prestige.&lt;sup id=&quot;fnref:33&quot;&gt;&lt;a href=&quot;#fn:33&quot; class=&quot;footnote&quot;&gt;33&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;artaxerxes-i-and-darius-ii&quot;&gt;Artaxerxes I and Darius II&lt;/h2&gt;
+
+&lt;p&gt;Xerxes was then assassinated and the Greek sources on this plot —Ctesias, Justin and Diodorus— agree on a broad picture, though they contradict on many points.&lt;sup id=&quot;fnref:34&quot;&gt;&lt;a href=&quot;#fn:34&quot; class=&quot;footnote&quot;&gt;34&lt;/a&gt;&lt;/sup&gt; Artabanus, a high ranked official and commander of the royal bodyguard according to Diodorus, assassinates the king in his bedroom. He gets help from his sons (Justin), a eunuch named Aspamithres (Ctesias) or Xerxes’s chamberman Mithradates (Diodorus). Conspirators convince the youngest son Artaxerxes that his oldest brother killed his father. Artaxerxes then kills Darius and becomes the new king.&lt;/p&gt;
+
+&lt;p&gt;Artaxerxes I faced the Egyptian revolt led by a Libyan prince named Inarus, which was supported by the Athenian navy. The revolt was crushed and Inarus was executed, but Persians kept his son in power. Combined with more attentiveness in Egypt’s militaristic affairs, this strategy of keeping a dynasty in power proved useful, at least in Artaxerxes’s reign in which Egypt remained peaceful. As their attempt to conquer Cyprus, Athenians began talking peace with Persians, which resulted in so-called Peace of Callias. Although the state of war has been ceased, Persians saw opportunities in the western front. Tension was rising between Sparta and Athens —which will eventually present itself in Peloponnesian Wars— and Persians interfered through ambassadors and bribery in the Greek affairs. It is also an interesting turn of events that Themistocles, the Greek general of Salamis, was exiled and seeking refuge. Artaxerxes welcomed him and granted him the revenues of some small Asian towns.&lt;/p&gt;
+
+&lt;p&gt;Artaxerxes died after enjoying a long reign lasted from 465 to 424 and his only legitimate son was crowned king as Xerxes II. Ctesias writes in Persica his reign only lasted for 45 days as he was assassinated and replaced by Sogdianus, his illegitimate brother born to Alogyne. Likewise, Sogdianus did not enjoy the title for too long either. His brother Ochus, born to Cosmarditene, claimed the throne under the regnal name of Darius II. His brother Arsites from same mother and Artyphius, son of Megabyzus, both rebelled against the new king with no avail; they were captured and put to death.&lt;sup id=&quot;fnref:35&quot;&gt;&lt;a href=&quot;#fn:35&quot; class=&quot;footnote&quot;&gt;35&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/achaemenids-family-tree.jpg&quot; alt=&quot;achaemenids-family-tree&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Figure 5: Achaemenid Family Tree, Wikimedia Commons, www.wikimedia.org&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;After suppressing a Median revolt, Darius II renewed the truce between Persia and Athens, although Athenians supported a revolt in Sardis only a few years effectively violating the truce. At that time, Greek city-states led by Sparta and Athens were in war. As Athenians failed at conquering Peloponnesian controlled Sicily, Darius saw the advantage and formed an alliance with Spartans. Darius bestowed upon his younger son Cyrus power and money and sent him to western front to control the Greek situation.&lt;sup id=&quot;fnref:36&quot;&gt;&lt;a href=&quot;#fn:36&quot; class=&quot;footnote&quot;&gt;36&lt;/a&gt;&lt;/sup&gt; He solved the inter-satrapal rivalry in Asian Minor and formed personal relations with the Spartan general Lysander, even leaving him large sums of money as Cyrus was sent for his father in deathbed.&lt;sup id=&quot;fnref:37&quot;&gt;&lt;a href=&quot;#fn:37&quot; class=&quot;footnote&quot;&gt;37&lt;/a&gt;&lt;/sup&gt; As sources on him were scarce, we do not know about his reign on other parts of the empire.&lt;/p&gt;
+
+&lt;h2 id=&quot;artaxerxes-ii-and-artaxerxes-iii&quot;&gt;Artaxerxes II and Artaxerxes III&lt;/h2&gt;
+
+&lt;p&gt;After Darius’s death, his oldest son Arses was crowned king as Artaxerxes in Pasargadae. Parysatis was the mother of both Cyrus and Artaxerxes and it is told that she favored her younger, Cyrus, over Arses.&lt;sup id=&quot;fnref:38&quot;&gt;&lt;a href=&quot;#fn:38&quot; class=&quot;footnote&quot;&gt;38&lt;/a&gt;&lt;/sup&gt; (She also went on to poison Artaxerxes’s wife Stateira&lt;sup id=&quot;fnref:39&quot;&gt;&lt;a href=&quot;#fn:39&quot; class=&quot;footnote&quot;&gt;39&lt;/a&gt;&lt;/sup&gt;) Sources tell us&lt;sup id=&quot;fnref:40&quot;&gt;&lt;a href=&quot;#fn:40&quot; class=&quot;footnote&quot;&gt;40&lt;/a&gt;&lt;/sup&gt; ambitious Cyrus returned to Sardis and began preparations. It is likely that Artaxerxes was suspicious, if not informed, of these events but he was both occupied with Egyptians and rather unworried as his influence in Asia Minor acted as deterrent against Cyrus. Cyrus amassed troops in west, most notably Greek mercenaries titled later as The Ten Thousand —oi Myrioi— and began marching on Babylonia.&lt;sup id=&quot;fnref:41&quot;&gt;&lt;a href=&quot;#fn:41&quot; class=&quot;footnote&quot;&gt;41&lt;/a&gt;&lt;/sup&gt; At the Battle of Cunaxa, however, Cyrus was killed and Artaxerxes was proven victor.&lt;sup id=&quot;fnref:42&quot;&gt;&lt;a href=&quot;#fn:42&quot; class=&quot;footnote&quot;&gt;42&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Artaxerxes then fought against Spartans led by Agesilaus II. He supported and bribed other Greek city-states —Athens, Argos, Corinth and Thebes— against Spartans, effectively igniting the flame for Corinthian War. Subsequently, he also crushed the Great Satraps’ Revolt. He enjoyed a reign of 46 years, longest in the history of the Achaemenids. After his death, Ochus was crowned king as Artaxerxes III, as his brothers preceding him in the line of succession were executed, killed or committed suicide.&lt;/p&gt;
+
+&lt;p&gt;Immediately following the accession, Artaxerxes dealt with the rebellion of Artabazus, the satrap of Phrygia —initially supported by Athens and after the treaty with them, by Thebes. He suppressed the revolt and Artabazus took up exile in Macedonia. He then wanted to reclaim Egypt for the empire, which was ruled at that time by Pharaoh Nectanebo II. He failed to do so in his attempt in year 351, but after contingents from Greek city-states and Mentor of Rhodes joined his army, he conquered Egypt in 342-342. Because of the actions he took, he is oftentimes compared to Cambyses in both Ancient and Classical texts —even accused of killing the sacred bull of Apis just like Cambyses.&lt;sup id=&quot;fnref:43&quot;&gt;&lt;a href=&quot;#fn:43&quot; class=&quot;footnote&quot;&gt;43&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;fall-of-the-persian-empire&quot;&gt;Fall of the Persian Empire&lt;/h2&gt;
+
+&lt;p&gt;Artaxerxes III was poisoned in his court by the Bagoas, who was the vizier at that time and he was holding immense power by the end of the Artaxerxes’s reign.&lt;sup id=&quot;fnref:44&quot;&gt;&lt;a href=&quot;#fn:44&quot; class=&quot;footnote&quot;&gt;44&lt;/a&gt;&lt;/sup&gt; Diodorus continues with telling us that Bagoas also had all of the deceased king’s sons murdered except Arses, who ruled two years as Artaxerxes IV. Arses finally began contemplating eliminating Bagoas and therefore killed by him, likewise his father. Bagoas then selected Darius, a cousin of Arses, for the throne. Story goes on with Bagoas trying to poison Darius III as he was getting out of his grasp, but Darius making him to drink the poison, which can be viewed as a later propaganda.&lt;sup id=&quot;fnref:45&quot;&gt;&lt;a href=&quot;#fn:45&quot; class=&quot;footnote&quot;&gt;45&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:46&quot;&gt;&lt;a href=&quot;#fn:46&quot; class=&quot;footnote&quot;&gt;46&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Macedonian offensive began with the Battle of Chaeronea. Philip II of Macedon defeated the Greek city-states —not including Sparta— and formed the League of Corinth under his leadership. A twenty years old Alexander succeded the throne after his father was assassinated. He subdued the neigboring states, reassembled the League (most notably destroying Thebes as punishment) and began marching towards Anatolia to fulfill his father’s dream of invading Persia.&lt;sup id=&quot;fnref:47&quot;&gt;&lt;a href=&quot;#fn:47&quot; class=&quot;footnote&quot;&gt;47&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;He crossed the Hellespont and won his first victory against the Persians at the Battle of Granicus. One and a half year later, Darius faced the Macedonian army at Issus. Despite outnumbering Alexander’s forces, Persian army was outflanked and defeated. Darius fled, leaving behind his family and his headquarters. Alexander continued his campaign by capturing Tyre after they refused to surrender, then subsequently taking over Gaza and Egypt. Even after the battle at Issus, Darius had the upper hand in numbers —although equipped poorly— and Alexander was nervous about the siege of Babylon.&lt;sup id=&quot;fnref:48&quot;&gt;&lt;a href=&quot;#fn:48&quot; class=&quot;footnote&quot;&gt;48&lt;/a&gt;&lt;/sup&gt; Two armies faced each after two years at Gaugamela. Defeated once more, Darius retracted to Ecbatana to raise an army again, knowing that the Alexander’s army would head towards Babylon. Alexander continued his advancements towards east. Through successful maneuvers and defections of Mazaeus, Abulites and Tiridates, Alexander captured Susa, Babylon, Persepolis and Pasargadae. He was still chasing Darius in Median territory when Bessus, the Bactrian satrap at that time, betrayed and assassinated him —he had lost his authority after recent political and military failures.&lt;sup id=&quot;fnref:49&quot;&gt;&lt;a href=&quot;#fn:49&quot; class=&quot;footnote&quot;&gt;49&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Darius III was gone, but until Alexander’s demise, the Great Empire lived. Briant gives an overall conclusion of the Empire’s fate.&lt;sup id=&quot;fnref:50&quot;&gt;&lt;a href=&quot;#fn:50&quot; class=&quot;footnote&quot;&gt;50&lt;/a&gt;&lt;/sup&gt; Alexander the Great was a foreigner to East, nevertheless, and he mostly kept the already working satrapal systems along with local rulers. His intention could be seen as creating a homogeneous state, but even in his lifetime there were cracks in his newly build empire; same problems existed before continued to exist in similar nature. Alexander’s reign can be seen as a continuation of the Achaemenid rule, as not much changed from a local’s perspective except a shift in the power of the ruling class. “The last of the Achaemenids” died in 323 BC and his great empire divided among his generals —Diadochi—, marking the beginning of the Hellenistic period.&lt;/p&gt;
+
+&lt;h2 id=&quot;bibliography&quot;&gt;Bibliography&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Briant, Pierre. From Cyrus to Alexander: A History of the Persian Empire, trans. Peter T. Daniels, Winona Lake, IN, Eisenbraun, 2002&lt;/li&gt;
+  &lt;li&gt;Dusinberre, Elspeth R. M. Empire, authority, and autonomy in Achaemenid Anatolia, Cambridge, NY, Cambridge University Press, 2013&lt;/li&gt;
+  &lt;li&gt;Lloyd, Alan B. “The Inscription of Udjaḥorresnet a Collaborator’s Testament”, The Journal of Egyptian Archaeology 68, Sage, 1982&lt;/li&gt;
+  &lt;li&gt;Martin, Thomas R. Ancient Greece: From Prehistoric to Hellenistic Times, Second Edition, Yale University Press, 2013&lt;/li&gt;
+  &lt;li&gt;Posener Georgus. “Les douanes de la Méditerraneé dans l’ Égypte saïte.”, Revue de philologie 21, 1947&lt;/li&gt;
+  &lt;li&gt;Summerer, Latife. “Picturing Persian Victory: The Painted Battle Scene on the Munich Wood”, Achaemenid Culture and Local traditions in Anatolia, Southern Caucasus and Iran: New Discoveries, Leiden, Brill, 2007&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classical-sources&quot;&gt;Classical Sources&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Diodorus, Bibliotheca historica, XVI.50.8, XVII.5.4-6&lt;/li&gt;
+  &lt;li&gt;Herodotus, Histories, III.25-38, III.62-65, III.88, VII.138, VII.20-37&lt;/li&gt;
+  &lt;li&gt;Plutarchos, Artaxerxes, 2.3-4, 5-6&lt;/li&gt;
+  &lt;li&gt;Polyaenus, Stratagems of War VII.6.9&lt;/li&gt;
+  &lt;li&gt;Xenophon, Hellenica, 1.4.3&lt;/li&gt;
+  &lt;li&gt;Xenophon, Anabasis, I.2-4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Although in ancient Greek the term βάρβαρος is commonly used for all the non-Greek peoples, it is mostly used for referring to Persians in the years of Greco-Persian wars. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Pierre Briant, From Cyrus to Alexander: A History of the Persian Empire, trans. Peter T. Daniels (Winona Lake, IN, Eisenbraun, 2002), 16 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;These same people will be referred to as both Persians and Achaemenids through the rest of the paper. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: A History of the Persian Empire, 13 &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;An ancient Babylonian text that narrates the time period from the reign of last Babylonian king to the reign of Cambyses II, Cyrus’s son and successor. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;Nabonidus Chronicle II. 1-4 &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;Polyaenus, Stratagems of War, VII.6.9 &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: A History of the Persian Empire, 33 &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;Elspeth R. M. Dusinberre, Empire, authority, and autonomy in Achaemenid Anatolia, (Cambridge, NY, Cambridge University Press, 2013), 43 &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:10&quot;&gt;
+      &lt;p&gt;A foundation deposit from the conquest of Babylon, written in Akkadian cuneiform &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:11&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 43 &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:12&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 49 &lt;a href=&quot;#fnref:12&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:13&quot;&gt;
+      &lt;p&gt;Latife Summerer, “Picturing Persian Victory: The Painted Battle Scene on the Munich Wood”, Achaemenid Culture and Local traditions in Anatolia, Southern Caucasus and Iran: New Discoveries, (Leiden, Brill, 2007): 6-7 &lt;a href=&quot;#fnref:13&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:14&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 50 &lt;a href=&quot;#fnref:14&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:15&quot;&gt;
+      &lt;p&gt;Herodotus, Histories III 25-38 &lt;a href=&quot;#fnref:15&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:16&quot;&gt;
+      &lt;p&gt;Georgus Posener, “Les douanes de la Méditerraneé dans l’ Égypte saïte.”, Revue de philologie 21, (1947): 117-31 &lt;a href=&quot;#fnref:16&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:17&quot;&gt;
+      &lt;p&gt;Alan B. Lloyd, “The Inscription of Udjaḥorresnet a Collaborator’s Testament”, The Journal of Egyptian Archaeology 68, (Sage, 1982): 166-180 &lt;a href=&quot;#fnref:17&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:18&quot;&gt;
+      &lt;p&gt;Herodotus, Histories III 62-65 &lt;a href=&quot;#fnref:18&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:19&quot;&gt;
+      &lt;p&gt;This same person is called as Smerdis (Smerdies), Sphendadates, Bardiya (Pirtiya, Barziya), Gaumāta, Tonyoxarces (Tanooxares) and Mardos (Mergis) through various sources. &lt;a href=&quot;#fnref:19&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:20&quot;&gt;
+      &lt;p&gt;A rock relief authored by Darius I that took named after its location at Mount Behistun. It contains the translations of the same text in three languages (Old Persian, Elamite and Babylonian, all in cuneiform script) and it has been the key to deciphering cuneiform. &lt;a href=&quot;#fnref:20&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:21&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 97-111 &lt;a href=&quot;#fnref:21&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:22&quot;&gt;
+      &lt;p&gt;Behistun Inscription, throughout all the five columns. Translation is presented as follows: Leonard William King, Thompson Reginald Campbell, The sculptures and inscription of Darius the Great on the Rock of Behistûn in Persia : a new collation of the Persian, Susian and Babylonian texts, (London, Longmans, 1907) &lt;a href=&quot;#fnref:22&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:23&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 123 &lt;a href=&quot;#fnref:23&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:24&quot;&gt;
+      &lt;p&gt;Herodotus, Histories, III.88 &lt;a href=&quot;#fnref:24&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:25&quot;&gt;
+      &lt;p&gt;Name given to the God of the Zoroastrianist faith. Darius can be seen through his inscriptions as a devout follower of Zoroastrianism. &lt;a href=&quot;#fnref:25&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:26&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 138 &lt;a href=&quot;#fnref:26&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:27&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 140-146 &lt;a href=&quot;#fnref:27&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:28&quot;&gt;
+      &lt;p&gt;Thomas R. Martin, Ancient Greece: From Prehistoric to Hellenistic Times, Second Edition, (Yale University Press, 2013), 127-128 &lt;a href=&quot;#fnref:28&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:29&quot;&gt;
+      &lt;p&gt;Thomas R. Martin, Ancient Greece: From Prehistoric to Hellenistic Times, Second Edition, 129 &lt;a href=&quot;#fnref:29&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:30&quot;&gt;
+      &lt;p&gt;Herodotus, Histories, VII.138 &lt;a href=&quot;#fnref:30&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:31&quot;&gt;
+      &lt;p&gt;Herodotus, Histories, VII.20-37 &lt;a href=&quot;#fnref:31&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:32&quot;&gt;
+      &lt;p&gt;Thomas R. Martin, Ancient Greece: From Prehistoric to Hellenistic Times, Second Edition, 134-135 &lt;a href=&quot;#fnref:32&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:33&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 540-542 &lt;a href=&quot;#fnref:33&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:34&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 563-564 &lt;a href=&quot;#fnref:34&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:35&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 589 &lt;a href=&quot;#fnref:35&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:36&quot;&gt;
+      &lt;p&gt;Xenophon, Hellenica, 1.4.3 &lt;a href=&quot;#fnref:36&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:37&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 600 &lt;a href=&quot;#fnref:37&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:38&quot;&gt;
+      &lt;p&gt;Plutarchos, Artaxerxes, 2.3-4 &lt;a href=&quot;#fnref:38&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:39&quot;&gt;
+      &lt;p&gt;Plutarchos, Artaxerxes, 5-6 &lt;a href=&quot;#fnref:39&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:40&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 616-620 &lt;a href=&quot;#fnref:40&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:41&quot;&gt;
+      &lt;p&gt;Xenophon, Anabasis, I.2-4 &lt;a href=&quot;#fnref:41&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:42&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 621-630 &lt;a href=&quot;#fnref:42&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:43&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 687-688 &lt;a href=&quot;#fnref:43&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:44&quot;&gt;
+      &lt;p&gt;Diodorus, Bibliotheca historica, XVI.50.8 &lt;a href=&quot;#fnref:44&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:45&quot;&gt;
+      &lt;p&gt;Diodorus, Bibliotheca historica, XVII.5.4-6 &lt;a href=&quot;#fnref:45&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:46&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 777 &lt;a href=&quot;#fnref:46&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:47&quot;&gt;
+      &lt;p&gt;Thomas R. Martin, Ancient Greece: From Prehistoric to Hellenistic Times, Second Edition, 243-245 &lt;a href=&quot;#fnref:47&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:48&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 842 &lt;a href=&quot;#fnref:48&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:49&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 865 &lt;a href=&quot;#fnref:49&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:50&quot;&gt;
+      &lt;p&gt;Briant, From Cyrus to Alexander: Ahistory of the Persian Empire, 873-876 &lt;a href=&quot;#fnref:50&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">This was actually a term paper of mine for the Anatolian Civilizations in Antiquity I course (HIST 241) but enjoyed working on it a lot, so why not have it here?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://dcetin.me//achaemenids-persepolis.jpg" /></entry><entry xml:lang="en"><title type="html">Lovecraftian Films</title><link href="http://dcetin.me//en/film/lovecraftian-films" rel="alternate" type="text/html" title="Lovecraftian Films" /><published>2017-02-10T00:00:00+00:00</published><updated>2017-02-10T00:00:00+00:00</updated><id>http://dcetin.me//en/film/lovecraftian-films</id><content type="html" xml:base="http://dcetin.me//en/film/lovecraftian-films">&lt;p&gt;Unrecognized at his time and lived much of his life in poverty, Howard Phillips Lovecraft shaped the horror fiction of a century and had a lasting legacy that still influences the horror genre through various mediums.&lt;/p&gt;
+
+&lt;p&gt;Among many other recurring themes, he mostly wrote about the humanity’s insignificance in the universe, sanity’s fragility, fear of the unknown, limitations and dangers of knowledge and its pursuit. He developed and used a philosophy of “Cosmicism” in his work, and his ideas, writings and further influence grew into a subgenre called after him, namely “Lovecraftian horror”.&lt;/p&gt;
+
+&lt;p&gt;His influence on literature can be seen particularly on modern horror and fantasy writers such as Stephen King, Neil Gaiman, Alan Moore and Mike Mignola as well as many other authors. Lovecraft’s writing style and themes of his work have been proved to be difficult to adapt on big screen. Many adaptations up to now had a hard time due to various other reasons, but of course there have been some exceptions.&lt;/p&gt;
+
+&lt;p&gt;To further remind the readers, this list was meant for Lovecraft inspired films only. Therefore, it excludes adaptations, the films that are in some way based on a story of Lovecraft. There are not many successful adaptations either, but aforementioned choice is the reason that Call of Cthulhu of 2005 does not appear in the list, for example.&lt;/p&gt;
+
+&lt;p&gt;Also, the list doesn’t comprise of Lovecraftian films only, as the aim was to put together the most impressive films with Lovecraft influence on them. Hence, below exist some relatively unexpected entries. By any means, it is best to see the list as films that Lovecraft fans would enjoy.&lt;/p&gt;
+
+&lt;h2 id=&quot;invasion-of-the-body-snatchers-1978&quot;&gt;Invasion of the Body Snatchers (1978)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/invasion-of-the-body-snatchers-1.jpg&quot; alt=&quot;invasion-of-the-body-snatchers-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jack Finney’s novel “The Body Snatchers” has been adapted to film four times and the Invasion of the Body Snatchers of 1978 is the second iteration. It was a box office success and has been mostly revered by the critics not only for being a strong adaptation, but also for being an exceptional remake.&lt;/p&gt;
+
+&lt;p&gt;It hosts a trio of actors that will come as familiar to sci-fi and horror fans alike: Donald Sutherland, Leonard Nimoy and Jeff Goldblum. Together with the lead actress Brooke Adams they achieve a charming chemistry and every scene becomes delightful to watch.&lt;/p&gt;
+
+&lt;p&gt;In the book The Body Snatchers, we see the Earth under invasion of extraterrestrial seeds. The seeds are parasitic, they duplicate humans in their sleep and replace them, while turning the hosts into dust. Aside from the satirical interpretations of alienation, McCarthyism or that the humans are very much alike the pod people, the story has a terrifying science fiction concept and film serves it nicely.&lt;/p&gt;
+
+&lt;p&gt;While it is not a Lovecraftian film most of the time, Invasion of the Body Snatchers is about mind possessing alien beings and this idea has been featured in many stories of Lovecraft. The film has a continuous sense of hopelessness, even more so than the original source material. Also, the transformation of Sutherland’s Matthew throughout the film makes him a very Lovecraftian protagonist.&lt;/p&gt;
+
+&lt;h2 id=&quot;alien-1979&quot;&gt;Alien (1979)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/alien-1.jpg&quot; alt=&quot;alien-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At first glance Alien may only offer a plot that is reminiscent of “At the Mountains of Madness” and do not show any apparent similarity elsewhere, but most of the Lovecraftian elements in the film are very subtle to catch. That is because Alien is a product of a team that knows and adores the author’s work, so his influence is under the surface, hidden in details.&lt;/p&gt;
+
+&lt;p&gt;Writer Dan O’Bannon is a fan of Lovecraft since he was 12 years old and he would later go on to direct The Resurrected, which is a fairly faithful adaptation of the Lovecraft’s “The Case of Charles Dexter Ward”. He attempted to write the script of the Alien in a Lovecraftian manner and although the mood has changed in Hill and Giller’s rewrites, final film retained some of that earlier Lovecraftian atmosphere.&lt;/p&gt;
+
+&lt;p&gt;O’Bannon wasn’t the only fan in the set. Swiss artist H.R. Giger says that Lovecraftian ideas had a significant impact on many aspects of his work. His works have always had a very distinct and a certain “biomechanical” style, but Lovecraftian influences are easy to see in his art.&lt;/p&gt;
+
+&lt;p&gt;It is especially eminent in his work for Alien, in the complete life cycle of the Xenomorph species. Giger would also go on to show his admiration for Lovecraft by naming his compendium of paintings after Necronomicon, the famous grimoire the author used frequently in his stories.&lt;/p&gt;
+
+&lt;p&gt;One of the most prominent films with Lovecraftian influence, Alien is a timeless classic and deserves to be considered one of the greatest films of all time, surpassing the limitations of its genre.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-evil-dead-1981&quot;&gt;The Evil Dead (1981)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/the-evil-dead-1.jpg&quot; alt=&quot;the-evil-dead-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Though it may be away from the Lovecraftian tone and themes for the most part of it, The Evil Dead features many Lovecraft references and it is mostly revered as a cult horror movie by fans and non-fans alike. Also, the film marks the beginning of the collaboration between Sam Raimi and Bruce Campbell. The Evil Dead features a group of teenagers vacationing in a remote and isolated cabin. Unknowingly, they release a powerful evil force through the audiotape they find in the cabin’s cellar.&lt;/p&gt;
+
+&lt;p&gt;The tape they find belongs to an archeologist. Just like reading a Lovecraft story, we listen to the tape as the archeologist tells about his findings and how they brought destruction to him. He goes on to recite some incantations through the book he had found. The grimoire named “Naturom Demonto” is an homage to Lovecraft’s Necronomicon and possibly one of its most known appearances in popular culture.&lt;/p&gt;
+
+&lt;p&gt;While Sam Raimi was creating his prototype horror film Within the Woods -to attract investors’ interest for his further works- he was studying works of Lovecraft and became fascinated with the concept of Necronomicon. Even the initial name set for the project was “Book of the Dead”.&lt;/p&gt;
+
+&lt;h2 id=&quot;possession-1981&quot;&gt;Possession (1981)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/possession-1.jpg&quot; alt=&quot;possession-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Possession brings some of the strongest characteristics of a Lovecraft story together in a well-done manner. The film hosts only a few characters of hazy nature. It begins like an ordinary tale of unfaithfulness but evolves into a much complicated and disturbing experience, sometimes becoming even too hard to watch. Through the eyes of the husband we find ourselves in a detective story, rather cluelessly searching for the answers while uncovering an intriguing backstory of a greater horror.&lt;/p&gt;
+
+&lt;p&gt;As a perfect mixture of drama, horror and suspense, Possession is truly a demanding film. We strive to learn more about what’s going on behind all the hassle on screen, but the film carefully hands it over, piece by piece.&lt;/p&gt;
+
+&lt;p&gt;At times, this lack of information together with the continuous tension creates a viewpoint that is absolutely paranoid. Most importantly, both the literal and symbolic façades of the story ask you to invest in the relationship of the main characters. We watch their lives very closely and bear witness to every temper tantrum.&lt;/p&gt;
+
+&lt;p&gt;It already gained itself a cult status, but late Andrzej Żuławski’s masterpiece needs more appraise for its exhausting camerawork and editing, stunning performances and storytelling techniques.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-thing-1982&quot;&gt;The Thing (1982)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/the-thing-1.jpg&quot; alt=&quot;the-thing-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a part of the Apocalypse Trilogy, as Carpenter calls them, The Thing surely lives up to its name after three decades. From the iconic opening scene to the very end of the film it is simply a lengthy nightmare. “The Thing” is an extraterrestrial lifeform that assimilates and imitates other organisms and we watch a stranded research team’s struggle for survival. Even though it is a faithful adaptation of John W. Campbell’s novella “Who Goes There?”, there is an unmistakable influence of Lovecraft on the film.&lt;/p&gt;
+
+&lt;p&gt;As a hallmark of horror genre, it serves whatever one can want from a Lovecraftian film. We feel the heightening paranoia as each researcher suspects another. There is a certain sense of impending doom when we dare to think about the further catastrophes and realize their implications. Antarctica establishes an isolation of unimaginable scale and the constant feeling of claustrophobia and xenophobia don’t go anywhere even when the film is over.&lt;/p&gt;
+
+&lt;p&gt;It may be far-fetched to say that the source material “Who Goes There?” is influenced by Lovecraft’s earlier “At the Mountains of Madness”, but it is evident that they bear some similarities. They both detail an ill-fated research expedition to Antarctica. In both novellas, men of science uncover findings that hint to terrifying consequences and they encounter with an archaic alien organism.&lt;/p&gt;
+
+&lt;p&gt;Whatever its influences may be, with its unceasing suspense, splendid use of body-horror and realistic performances of its actors, The Thing still holds its place among the best horror movies of all time.&lt;/p&gt;
+
+&lt;h2 id=&quot;in-the-mouth-of-madness-1994&quot;&gt;In the Mouth of Madness (1994)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/in-the-mouth-of-madness-3.jpg&quot; alt=&quot;in-the-mouth-of-madness-3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the second entry in the list by John Carpenter and it deserves to be so, because In the Mouth of Madness is the ultimate Lovecraftian film. Needless to say, it stands strong by itself as any other Carpenter film, but it is most meaningful as a tribute to Lovecraft. A tribute to both author himself and his many common archetypal motifs.&lt;/p&gt;
+
+&lt;p&gt;The story revolves around a skeptical insurance investigator John Trent, brilliantly played by Sam Neill, inspecting the disappearance of the famous horror writer Sutter Cane, whose works said to have an effect on his readers. Skepticism gives way to existential fears as the sense of reality crumbles.&lt;/p&gt;
+
+&lt;p&gt;From the very opening scene at the psychiatric hospital to the final revelation, the whole feature is weaved as a Lovecraftian novella, sharing the common theme with arguably all the Lovecraftian stories: insanity. The film is full of references to Lovecraft’s bibliography and most of the quotations of Sutter Cane are taken or adapted from Lovecraft’s stories.&lt;/p&gt;
+
+&lt;p&gt;The titular book is also a tribute to many grimoires -such as the famous Necronomicon- that find themselves places in the Lovecraftian mythos. It is definitely a must-watch, not only for Lovecraft enthusiasts, but for every horror fan.&lt;/p&gt;
+
+&lt;h2 id=&quot;cloverfield-2008&quot;&gt;Cloverfield (2008)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/cloverfield-1.jpg&quot; alt=&quot;cloverfield-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We watch how a catastrophe affects the lives of ordinary men and women. We are unaware of who the adversary is, how it ended up in our world and what to do against it, except running away. Although we are drawing a similarity to works of Lovecraft here, all of these can be said -more or less- for the whole Kaiju genre where a giant monster attacks a city. But the fact that Cloverfield is a found-footage film is truly a game changer, we witness the story after it has already happened.&lt;/p&gt;
+
+&lt;p&gt;We don’t know what the government or the whole world knows about the incident. We don’t know how the military responded as we don’t know about the casualties. We are just simply following a group of friends that merely tries to survive.&lt;/p&gt;
+
+&lt;p&gt;The use of found footage technique profoundly creates and strengthens the feeling of unawareness, helplessness and uncertainty that is easy to stumble upon in Lovecraftian horror. In a sense, most of the stories of Lovecraft have used the “found-footage” by exposing the plot throughout some memoir.&lt;/p&gt;
+
+&lt;p&gt;So, it is not Lovecraftian in a general sense but it enjoys a similar narrative technique and an apocalyptic tone. Also, the notion we get that the creature has most probably came out of the deep sea is icing on the cake for the Lovecraft fans.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-cabin-in-the-woods-2012&quot;&gt;The Cabin in the Woods (2012)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/the-cabin-in-the-woods-1.jpg&quot; alt=&quot;the-cabin-in-the-woods-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It won’t be possible to talk about Lovecraft influence on The Cabin in the Woods without giving any spoilers, because Lovecraftian elements do not come into the play until the climax. The film starts as a typical teen-slasher but we later see a facility that supervises and conducts the attack on the teenagers as part of a mysterious ritual. Near the end of the film we get to learn that the killings were in fact offerings to Ancient Ones, to please them and keep them in their sleep.&lt;/p&gt;
+
+&lt;p&gt;While the backstory with the Ancient Ones is a loaded criticism of the horror genre -from the audience to its clichés- it is also Goddard and Whedon’s way of paying homage to H.P. Lovecraft. The author created numerous deities and one them is famous Cthulhu, which is a gigantic octopus-like entity in a state of slumber, worshipped by cultists.&lt;/p&gt;
+
+&lt;p&gt;The Cabin in the Woods is a genuine entertainment that also offers a cleverly satirical viewpoint on the slasher genre. While it does its work, the film pokes fun at many horror movie tropes and makes countless references.&lt;/p&gt;
+
+&lt;h2 id=&quot;prometheus-2012&quot;&gt;Prometheus (2012)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/prometheus-1.jpg&quot; alt=&quot;prometheus-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Most people are acquainted with the ancient astronauts theory thanks to Erich von Däniken’s Chariots of the Gods, but it was Lovecraft who first thought that ancient humans may have encountered with extraterrestrial alien races, the idea that has been explored most terrifyingly in his “At the Mountains of Madness”.&lt;/p&gt;
+
+&lt;p&gt;The theory has found itself a place in fiction numerous times -from 2001: A Space Odyssey to Stargate universe- and Prometheus is the last piece of art to enjoy using this staggering idea.&lt;/p&gt;
+
+&lt;p&gt;The film is meant to share some ties with the Alien universe, but it is only loosely connected to the preceding works and rather explores a different range of themes. It asks a vast amount of questions through android David and rarely answers them itself. Prometheus and its plot did not live up to the hype, but its philosophical aspects plainly became the ace in the hole.&lt;/p&gt;
+
+&lt;p&gt;Prometheus wants you to ask yourself about our place in the universe and our reason of existence as humanity. It envisions a scenario in which we meet our makers and again asks us what should that mean, what is next for us? The tale it tells is of pursuit of knowledge that is not for us to learn and the devastating consequences of that search. This is where Prometheus gets all Lovecraftian and this is where it gets most worthwhile to watch.&lt;/p&gt;
+
+&lt;h2 id=&quot;upstream-color-2013&quot;&gt;Upstream Color (2013)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/upstream-color-1.jpg&quot; alt=&quot;upstream-color-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;“A man and woman are drawn together, entangled in the life cycle of an ageless organism. Identity becomes an illusion as they struggle to assemble the loose fragments of wrecked lives.” says the synopsis, eloquently put.&lt;/p&gt;
+
+&lt;p&gt;This is only his second film, but director and screenwriter Shane Carruth slowly makes it sure that his name is known in science fiction circles. Upstream Color is a strange film that doesn’t give away its intents quickly. Like his debut “Primer”, it will make you scratch your head figuring the plot out.&lt;/p&gt;
+
+&lt;p&gt;It is not a Lovecraftian film in a classical sense, but the presence of some Lovecraftian elements is more than evident in many aspects of the narrative. The storyline’s similarity to “The Colour Out of Space” is plainly visible and even the title furtively hints to that. Loss of identity, more specifically invasion of consciousness by foreign entities, is also a commonly explored theme in numerous writings of Lovecraft, illustrated most notably in his “The Shadow Out of Time”.&lt;/p&gt;
+
+&lt;p&gt;With limited dialogue and even scarcer exposition it presents an narrative of communication. The film is unusual and it deserves a watch at least for the uncanny feel it carries.&lt;/p&gt;
+
+&lt;p&gt;— &lt;/p&gt;
+
+&lt;p&gt;Honorable Mentions: Hellboy, Hellraiser, The Mist, Under the Skin, Event Horizon, Prince of Darkness. True Detective’s first season is also sadly excluded, as only feature films were considered.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">Unrecognized at his time and lived much of his life in poverty, Howard Phillips Lovecraft shaped the horror fiction of a century and had a lasting legacy that still influences the horror genre through various mediums.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://dcetin.me//in-the-mouth-of-madness-4.jpg" /></entry><entry xml:lang="en"><title type="html">Fargo</title><link href="http://dcetin.me//en/tv/fargo" rel="alternate" type="text/html" title="Fargo" /><published>2015-11-08T00:00:00+00:00</published><updated>2015-11-08T00:00:00+00:00</updated><id>http://dcetin.me//en/tv/fargo</id><content type="html" xml:base="http://dcetin.me//en/tv/fargo">&lt;p&gt;Here is an article I wrote about the second season. It is a little bit long, and it was more colorful with the pictures (Kept the screenshots linked to the titles though :). I try to read most of the posts here, but I will really appreciate your comments about this season (and the article itself). Probably there will be a bunch of “Ok then”s below, but… Ok then! And thank you for your time!&lt;/p&gt;
+
+&lt;p&gt;Our dark-humoured crime anthology has finally begun its second season and even left four episodes behind. My plan was to wait a little while to write something down but I couldn’t wait for the actual mid-season. Maybe it’s still early to talk, we didn’t get to see the big picture yet, but it is comfortable to say that all is going well in the north (Haha, the irony) for now. There shouldn’t be any spoilers in the article, but I don’t think you’ve missed the last episode either.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-happens-out-there-in-the-north&quot;&gt;What happens out there in the North?&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/fargo-1.jpg&quot; alt=&quot;fargo-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Firstly we’re not waiting for another Lorne Malve, there is no character as important as either him or Martin Freeman’s Lester Nygaard, but still the series manages to be on track with its highly interesting characters. I don’t know if it is casting preferences or actings but everyone looks so appropriate in their places. You can even see it worths that Jesse Plemons and Kirsten Dunst have gained weight. As in the first season, Fargo is truly generous with its characters and more importantly, the series handles that abundance of both characters and their stories very well.&lt;/p&gt;
+
+&lt;p&gt;You can actually see that the series grants opportunities to the actors and actresses to show themselves; one episode for Dodd, another for Lou, Hanzee… and then you feel that every character is the protagonist of his or hers own story. Even when a character is out of focus, you can see that his story still advances, and this surely keeps Fargo’s feet on the ground. Even the characters with limited screen time looks authentic, if not detailed; Judge Mundt is a perfect example of this. It is not easy to say who stays and who dies a week later, but my favourite for at least these four episodes is definitely Mike Milligan. And The Kitchen Brothers. Or Bathroom Brothers. Whatever, I just want to see my favourite prog rock band for a longer time.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-it-worthy-of-the-season-one&quot;&gt;Is it worthy of the season one?&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/fargo-2.jpg&quot; alt=&quot;fargo-2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aside from Billy Bob Thornton’s acting, the main force which made me almost binge the first season was its tempo. From the very first episode, Fargo places you seated in a rollercoaster and tells its tales with a tempo that sometimes speeds up, sometimes slows down, but never stops. Whenever you looked at the screen, there was always some interesting stuff going on and all this dynamism never looked fake for even one moment; the series has sold a character like Malvo to the audience with ease. It rightfully earned its legacy from the movie, telling the stories of the ordinary men with a perfect blend of drama, tension and humour. I would find it enough if I’d watched the same quality with a brand new content, and for now, I can tell that I’m quite satisfied.&lt;/p&gt;
+
+&lt;p&gt;Of course there are things that I’m not fully satisfied, but I honestly believe that everything will be settled in the long run. For example low tempo of the storyline of Peggy and Ed kinda bores me as a result of it being distant to the other stories, but I’m sure that when all hell breaks loose, they will be in the center of it, and the time for this draws near. What an episode we have last week! Every plot is at the verge of safety, and I don’t know what we will have tomorrow. My only concern for now is that alien subplot going on. I don’t want to comment anything about it because we have no other hint than Noah Hawley saying “wait for it”. Let’s wait and see how thing will work out.&lt;/p&gt;
+
+&lt;h2 id=&quot;tl-and-the-dr&quot;&gt;TL and the DR&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/fargo-3.jpg&quot; alt=&quot;fargo-3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Long story short, Fargo takes steps in the right direction. As an anthology, it succesfully overcame the changes in the both cast and plot, and even the thirty-year leap at the timeline. I don’t want to compare it with True Detective but Fargo plays it safe; it stays true to its own style, with necesarry and clever changes to a well working formula. They are making a great new season of Fargo, and we are watching it with admiration.&lt;/p&gt;
+
+&lt;p&gt;P.S.: If you’re looking for something where the second season gets ahead of its predecessor, it is probably the soundtrack. Tunes from different cultures and genres suit really well to the rapidly changing atmosphere of the series.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">A mid-season review for Fargo – Is it worthy of the season one?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://dcetin.me//fargo-1.jpg" /></entry><entry xml:lang="tr"><title type="html">Fargo</title><link href="http://dcetin.me//tr/tv/fargo" rel="alternate" type="text/html" title="Fargo" /><published>2015-11-04T00:00:00+00:00</published><updated>2015-11-04T00:00:00+00:00</updated><id>http://dcetin.me//tr/tv/fargo</id><content type="html" xml:base="http://dcetin.me//tr/tv/fargo">&lt;p&gt;FX’in kara mizah yüklü suç dizisi Fargo ikinci sezonuna başladı ve hatta dört bölümü arkasında bıraktı. Dizi hakkında bir şeyler karalamak için bir bölüm daha bekleyecektim ama olmadı, bekleyemedim, başlıkta da yalan söyledim. Belki bir şeyler konuşmak için yine erkendir, ilerleyen bölümleri izleyip resmin bütününe tekrardan bakarız ama şimdilik kuzeyde işlerin yolunda gittiğini gönül rahatlığıyla söyleyebilirim. Yazı spoilersız olmalı, ama n’olur n’olmaz, dördüncü bölümü de izleyip öyle gelin siz.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/fargo-1.jpg&quot; alt=&quot;fargo-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Öncelikle yeni bir Lorne Malvo beklemiyoruz, ne onun ne de Martin Freeman’ın Lester’ının önemine sahip bir karakter artık dizide yok ama dizi başrol eksikliği yaşamadan birbirinden ilgi çekici karakterleriyle gayet yürüyor. Casting tercihleri mi, kadronun performansı mı öne çıkmış bilemedim ama herkes rolüne oturmuş duruyor, yerini yadırgadığınız birisi olmuyor. Kirsten Dunst’ın, Jesse Plemons’un aldığı kilolar yaramış hep. Geçen sezon olduğu gibi Fargo yine karakterler bakımından eli sıkı davranmıyor, daha önemlisi ise hikayelere de yansıyan bu bolluğu idare etmede bir hayli de becerikli davranıyor.&lt;/p&gt;
+
+&lt;p&gt;Dizinin kendilerini göstermeleri için oyunculara irili ufaklı fırsatlar tanıdığını görebiliyorsunuz; bir bölüm Dodd, bir bölüm Lou, sonra Hanzee derken her karakterin bir nevi kendi hikayesinin baş rolü olduğunu hissediyorsunuz; arka plandayken bile çoğu karakterin boş bırakılmaması dizinin ayaklarının yere sağlam basmasını sağlıyor. Ekran süresi kısıtlı olan karakterler bile detaylı olmasa da özgün, orijinal duruyor; Yargıç Mundt bunun en güzel örneği. Sonraki bölüme bile kim ölür kim kalır bilinmez ama bu dört bölümün yıldızı Mike Milligan bana göre. Umarım favori prog rock grubumu daha uzun süre ekranda görürüz.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/fargo-2.jpg&quot; alt=&quot;fargo-2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Billy Bob Thornton’ın oyunculuğunu bir kenara koyarsak bana Fargo’nun ilk sezonunu tek solukta izleten yegane sebep dizinin temposuydu. Fargo sizi ilk bölümden bir hız trenine oturtuyor; hızlanan, yavaşlayan fakat asla durmayan bir akıcılıkla anlatıyordu kendisini. Ekrana ne zaman baksanız ilginç bir şeyler oluyordu ve tüm bu hareketliliğin hiçbir anı yapay durmuyordu, dizi Malvo gibi bir karakteri bile rahatlıkla satıyordu izleyiciye. İsmini aldığı filmin mirasını hakkıyla kazanmış, sıradan insanların hayatlarını anlatırken dramı da kara mizahı da aksiyonu da dört dörtlük sunmuştu. İkinci sezonda yeni bir içerikle bu saydığım özelliklerin tekrarını izlesem bana yeterdi, ve şimdilik Fargo benim beklentilerimi bir bir karşılıyor.&lt;/p&gt;
+
+&lt;p&gt;Dizide memnun olmadığım noktalar da var, var ama kısa zamanda onların da ortadan kalkacağına inanıyorum. Mesela Peggy ve Ed’in sahneleri tempoyu düşürdüğü, tüm olan bitenlerden biraz uzakta kaldığı için beni biraz sıkıyor, ama tüm kargaşanın içine sürüklenecekleri anın hemen kapıda olduğunu bildiğimden (Bakın tahmin ediyorum demedim, burası Fargo!) durumdan çok şikayetçi değilim. Hele dördüncü bölümü izlerken yaşadığım gerilimin haddi hesabı yok; her bir olay örgüsü artık güvenli olarak anlatacaklarını anlattı, tahminimce haftaya görürüz bizi nasıl bir kargaşa beklediğini. Şimdilik kafamı kurcalayan tek nokta yazar Noah Hawley’in ilk bölümden kurmaya başladığı uzaylı senaryosu. Bu yan hikaye dizinin her yönünden çok bağımsız dursa da adam ser verip sır vermiyor, bekleyin diyor, ben de yorumlarımı bu sefer sonraya saklıyorum.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/fargo-3.jpg&quot; alt=&quot;fargo-3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Uzun lafın kısası Fargo sağlam adımlar atıyor. Bir antoloji olarak karakter ve hikaye değişikliklerini, hatta otuz sene geriye sıçramayı güzel atlatmış.True Detective’le kıyas yapmak istemiyorum ama Fargo temkinli oynamış; elindekileri sıfırlamadan, işleyen formülünü tekrar uygulamaktan çekinmeden yine buram buram Fargo kokan bir sezon çekiyorlar, biz de hayranlıkla izliyoruz.&lt;/p&gt;
+
+&lt;p&gt;P.S.: Yeni sezonun ilkinden ilerde götürdüğü bir şey arıyorsanız, o da galiba müzikleri. Farklı kültürler ve türlerden melodiler çok uyumlu oturmuş dizinin değişken havasına. Merak edenlere dizinin müziklerinde sorumlu ismi Jeff Russo’nun daha iki gün önce yaptığı soru cevap etkinliğinin linkini de &lt;a href=&quot;https://www.reddit.com/r/IAmA/comments/3r8zsy/i_am_jeff_russo_emmynominated_composer_of_fargo/&quot;&gt;şöyle&lt;/a&gt; bırakayım.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">Sezon ortası Fargo incelemesi – o müthiş ilk sezona layık mı?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://dcetin.me//fargo-1.jpg" /></entry><entry xml:lang="tr"><title type="html">Human Resource Machine</title><link href="http://dcetin.me//tr/game/human-resource-machine" rel="alternate" type="text/html" title="Human Resource Machine" /><published>2015-10-25T00:00:00+00:00</published><updated>2015-10-25T00:00:00+00:00</updated><id>http://dcetin.me//tr/game/human-resource-machine</id><content type="html" xml:base="http://dcetin.me//tr/game/human-resource-machine">&lt;p&gt;İtiraf edeyim ki puzzle oyunlarıyla aram hiç iyi olmadı. Bir bölümü geçmek için kafamı yoruyorsam bu bana genelde kısa bir süre için haz verir. Zira karşıma bir zeka sorusu çıktığında refleks olarak cevabına bakan bir adamım ben. Ama işte bütün bunların haricinde, tarzlarına bayıldığım küçük bir ekip var ve stüdyo bu sefer de son oyunlarının yaratıcı konseptiyle cezbetti beni: küçük ofisimizde bir bilgisayarın çalışmasını taklit ediyoruz bu oyunda çünkü.&lt;/p&gt;
+
+&lt;p&gt;Bize üzerinde sayı veya harf olan kutular veriliyor ve bir işlemci gibi çalışıp bu kutuları her bölüm patronumuzun belirttiği kurallara uygun şekilde karşı tarafa iletiyoruz. İşlemci dedim diye korkmayın, daha önce hiç programlamayla yollarınızın kesişmemiş olması gayet doğal ve oyun da sizden dört işlem bilmenizden fazlasını talep etmiyor, aslında üzerinde çalıştığımız şey en basit haliyle mantıktan ötesi değil.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/human-resource-machine-3.jpg&quot; alt=&quot;human-resource-machine-3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bilgisayarla haşır neşir olanlar için durumu biraz açmak istiyorum. Bir girdi bir de çıktı bölümümüz var, hafızayı teşkil eden zemindeki karelerimiz ve işlemci gibi çalıştırdığımız çok sevimli bir beyaz yakalı çalışanımız var. İşlemlerimizi sayısı toplamda on bire ulaşan komutlarla gerçekleştiriyoruz, karşılaştığımız problemleri aşarken de for döngüleri ve if operatörü gibi çok temel yapıları kullanıyoruz.&lt;/p&gt;
+
+&lt;p&gt;Bilgisayar bilimi konseptlerini işleyen tüm oyunların anlatımında da bunu gözümüze hackerlarla, virüslerle vesaire sokmasından bıktıysanız Human Resource Machine güzel bir farklılık yaratmış. Ayrıca kodlama pratiğiniz varsa bile oynanışın sıkıcı olacağını sanmayın, her bölüm size verimlilik açısından kendinizi sınayabileceğiniz opsiyonel kısıtlamalar getiriyor. Bunlar da  içinizdeki coder‘ı durdurmaya yetmezse ana görevlerden ayrı ve daha zorlayıcı yan bölümler var, onlar sizi oyalayacaktır.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/human-resource-machine-1.jpg&quot; alt=&quot;human-resource-machine-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Konsepti iç açıcı bulmayanlar! Sayfayı hemen kapatmayın, iyi haberlerim var; oyunun tasarımı harika! Yapımcı Tomorrow Company görece yeni bir stüdyo gibi dursa da arkasında birbirinden deneyimli üç oyun geliştiricisi var. Bu üçlüden Kyle Gabler’ın eski stüdyosu 2D Boy, hedeflerini “herkesin oynayabileceği ve kimsenin görmediği oynanışa sahip oyunlar yapmak” olarak belirtiyordu. Eski stüdyo meşhur World of Goo’yu geliştirmişti, arkasından Little Inferno ve şimdi de Human Resource Machine derken yukarıdaki prensiplerin kelimesi kelimesine gerçekleştiğine tanıklık ediyoruz.&lt;/p&gt;
+
+&lt;p&gt;Altında Kyle’ın imzası olan bu üç yapım da bahsettiğim yenilikçi, temelde basit ama sonuna kadar eğlenceli yapıda. Oyunların sadece kendi içlerinde değil sanki bir seri olarak sahip oldukları bir bütünlük hissi var. Müziklerden çizimlere kadar oyunlar öylesine şirin ama aynı zamanda iç burkucu derecede karanlık olmayı nasıl başarıyor bilemiyorum. Satır aralarındaki hikayelerle inceden yansıttıkları kapana kısılmışlık, önemsenmeme hali ve küçüklük hissi her oyunda kendini belli eden minimalist ve distopik bir atmosfer yaratıyor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/human-resource-machine-2.jpg&quot; alt=&quot;human-resource-machine-2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Diyeceğim o ki Tomorrow Company’i bundan sonra da göz önünde tutun. Bilgisayar mühendisliği okuyan biri olarak tam da bölümümü çok sevmiyor olabileceği düşüncesi kafamı kurcalıyordu bu oyun karşıma çıktığında. Human Resource Machine mantıkla uğraşmanın, bir problem çözmenin keyifli yanlarını muhteşem sunumuyla tekrar gösterdi bana. Puzzle oyunlarıyla aranız yoksa bile göz atmanızı öneriyorum zaten, eğer bilgisayar konseptleriyle önceden tanışıklığınız varsa bu oyun kaçmaması gereken bir yapım.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">İtiraf edeyim ki puzzle oyunlarıyla aram hiç iyi olmadı. Bir bölümü geçmek için kafamı yoruyorsam bu bana genelde kısa bir süre için haz verir. Zira karşıma bir zeka sorusu çıktığında refleks olarak cevabına bakan bir adamım ben. Ama işte bütün bunların haricinde, tarzlarına bayıldığım küçük bir ekip var ve stüdyo bu sefer de son oyunlarının yaratıcı konseptiyle cezbetti beni: küçük ofisimizde bir bilgisayarın çalışmasını taklit ediyoruz bu oyunda çünkü.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://dcetin.me//human-resource-machine-1.jpg" /></entry><entry xml:lang="en"><title type="html">The Witcher</title><link href="http://dcetin.me//en/game/the-witcher" rel="alternate" type="text/html" title="The Witcher" /><published>2015-10-17T00:00:00+00:00</published><updated>2015-10-17T00:00:00+00:00</updated><id>http://dcetin.me//en/game/the-witcher</id><content type="html" xml:base="http://dcetin.me//en/game/the-witcher">&lt;p&gt;Thirteen years ago the development studio called CD Projekt RED has founded in Poland. As a result of the financial problems of the years that passed and the patient and elaborative work style of the developers, the studio itself is known for only one title: The Witcher. Now everyone in the industry certainly knows the name, this way or that, and the studio which had to cancel their games in development in the past for not having the economic independence they dreamed makes its name echo louder than ever by reaching four million copies in two weeks with their latest installment to the series. Even when we are looking at the details the great picture is still quite striking, but let’s look at what lies behind that success.&lt;/p&gt;
+&lt;h2 id=&quot;witcher-as-in-the-books&quot;&gt;Witcher as in the books&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/witcher-1.jpg&quot; alt=&quot;witcher-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alright, alright. A great deal of credit goes to Sapkowski himself and his inspirational books. Although the events in the games takes place after the saga while having no direct connection to it, the books still have an important role as they give the games a background of history and characters, a solid base of setting and a compelling atmosphere. There’s a world already built with its dwellers and monsters within countries and cultures, so all the games have to do is to tell tales worthy of the tone of its predecessors.&lt;/p&gt;
+
+&lt;p&gt;The Witcher has an admirable knack at exercising different genres and this proves true for both video games and the books. Sometimes the story places you lingering in a nightmarish horror and before you know it, you are back in action –in the center of a sword-and-sorcery fight. You usually get the bitter taste of drama but luckily the stories don’t always hold back its happy endings. As there exists heavy politics, there is always room for humor, a dark and sarcastic kind of it. Besides, the important thing is that the shift between different genres occur frequent and always skillfully.&lt;/p&gt;
+&lt;h2 id=&quot;success-behind-the-games&quot;&gt;Success behind the games&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/witcher-2.jpg&quot; alt=&quot;witcher-2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But to be honest, the literary influence has never been the trump card of the series. The Witcher is a RPG and it does what an RPG has to do: cheating the player for living in a real world. Essential part of this quest is undeniably the surroundings and since the genre has always been appealing mainly to the mature audience, presence of the adult elements can easily be seen. Here, in the world of Witcher, you have what you have in real life: drinks, people, violence, sex, intrigue, small talk, love, gambling… And all this stuff is just not there for the sake of it, (especially in the sequels) they are pretty much integrated to both mechanics and storytelling. Again, similar to the real life, one inevitably comes to the point of making decisions. Politics, friendships, principles –and of course- romance get all entangled to bring you the finest dilemmas. Soon you shall know that your choices will come back to bite you (this game or another!) so games will make you think and sweat while you were busy, planning to make another playthrough for the other option.&lt;/p&gt;
+
+&lt;p&gt;As the games come from a literary background, there is a strong and characteristic protagonist on the focus, Geralt of Rivia. You play the role of this “White Wolf” in all three games. Having a main character in hand and not having a sandbox world (in contrast to Skyrim and its predecessors, as The Witcher frequently compared to them) bring suspicions about linearity, but this is good opportunity to understand the way the game it works. With its essentials, the game builds itself to draw attention to its detailed storyline and raise empathy to the characters it has. You barely notice the lack of items or places as they are out of the main interest of the game. Also the series usually let the players delve into the story to the extent they have in mind, but slightly reward the ones that are bold and eager to take part in the story.&lt;/p&gt;
+&lt;h2 id=&quot;cdpr-as-a-company&quot;&gt;CDPR as a company&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/witcher-3.jpg&quot; alt=&quot;witcher-3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve talked a lot about the successful aspects of the only intellectual property of the CDPR (don’t worry, another one is on the way) but the studio is also revered by the gamer society for its mostly highlighted principles. They’re appraised for their policies against DRM and microtransaction market as well as their exemplary actions in those issues. First Witcher was DRM-protected as a part of the publishing agreement with Atari. Second game, the studio tried DRM again but later they took a step back and finally, on the last game, they stick to what do they believe and didn’t include any kind of protection except for Steam.&lt;/p&gt;
+
+&lt;p&gt;At every step the developers have learnt by their mistakes and found their true opinions on where they are going to stand as a company. Now they find DRM useless as every game gets a cracked version immediately, and what they have in mind is simply to be “user-friendly”. They say that it isn’t hard to empathize with the players and what they are aiming to do is to build trust and mutual understanding between the company and the players. (If you haven’t heard of it yet, check out gog.com, it is an epitome of the CDPR’s principles.) “Nothing makes a developer happier than seeing gamers have fun with what they created.” tells the developer Iwinski –co-founder of the company. This is a true “For gamers, by gamers” moment and the idea summarizes what the company symbolizes for now.&lt;/p&gt;
+&lt;h2 id=&quot;what-expects-us-in-the-future&quot;&gt;What expects us in the future?&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/witcher-4.jpg&quot; alt=&quot;witcher-4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All three games have met well responses and each time a new game hit the shelves, both sales and critical reception improved noticeably –as a result of not rushing another sequel after an immediate success. (Not taking the two spinoffs into consideration.) It is honestly a great achievement that making a debut so grandeur for a dialogue-filled game which draws inspiration from fantasy novels of Slavic culture and making these games to be globally recognized as a hallmark of RPG.&lt;/p&gt;
+
+&lt;p&gt;CDPR introduced Wild Hunt as their last game featuring Geralt, thus this statement doesn’t mean the end of the franchise in gaming industry, even implicitly hints otherwise. In future the company will probably return to its flagship, no matter how much success their future plans would bring, but leaving the series at its pinnacle looks like the most convenient decision for now. Also we have no reason to worry about Geralt as his name will go on with the new books, comics and what else in future. Long story short, even if we are bidding farewell to the Witcher, everything is fine for now.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">What CD Projekt RED has accomplished and the reasons behind the success of The Witcher</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://dcetin.me//witcher-1.jpg" /></entry><entry xml:lang="tr"><title type="html">Rick and Morty</title><link href="http://dcetin.me//tr/tv/2015/10/12/rick-and-morty.html" rel="alternate" type="text/html" title="Rick and Morty" /><published>2015-10-12T00:00:00+00:00</published><updated>2015-10-12T00:00:00+00:00</updated><id>http://dcetin.me//tr/tv/2015/10/12/rick-and-morty</id><content type="html" xml:base="http://dcetin.me//tr/tv/2015/10/12/rick-and-morty.html">&lt;p&gt;Bilim kurgu denen tür bana her zaman bir fikri geliştirmek veya bir kurguyu güçlendirmek için en önemli silahlardan biri olarak gözükmüştür. Bilim kurgunun imkanlarından yararlanarak ister dram anlatın ister komedi, ister aksiyon anlatın ister korku; önceden elinizde olmayan farklı zamanların, mekanların, karakterlerin ve tekniklerin hatırı sayılır bir anlatım gücüne sahip olursunuz. Ama öte yandan, klonlama, zamanda yolculuk veya paralel evrenler gibi bazı güçlü konuların aşırı kullanılmaktan eskidiği bir gerçek. Aynı konuyu temel alan kült eserlerden farklı noktalara değinmekten , farklı adımlar atmaktan çekinince ortaya bilim kurgu hayranı olmayanların bile aşina olduğu senaryolar çıkıyor. Böyle yapımlar görünce de insan düşünüyor, acaba bilim kurgu türü kendi kendini tekrar etmeye mi başladı diye. Neyse ki Rick and Morty var da kim bilir kaç kez işlenmiş klişelerin ne kadar yaratıcı bir şekilde elden geçebileceğini iki sezondur kanıtlıyor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/ricknmorty-1.jpg&quot; alt=&quot;ricknmorty-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Rick and Morty isminin arkasında tonlarca kişi olsa da bu absürd komedi iki adamın başının altından çıkıyor: Community’nin yaratıcısı Dan Harmon ve seslendirmen Justin Roiland. İkilinin tanışıklığı on sene gibi bir süre öncesine kadar gidiyor ve irili ufaklı birçok projede beraber yer almışlıkları var. Bu önemli bir detay çünkü gördüğümüz kadarıyla ikili beraber çalışmayı öğrenmiş durumda; birbirlerini dengeliyorlar ve ortaya gerçekten güçlü bir sinerji çıkıyor.&lt;/p&gt;
+
+&lt;p&gt;Justin Roiland hem Rick’i hem de Morty’i seslendirdiği zamanlarda devleşiyor. Ne anlattığından bağımsız olarak sırf Rick’in konuşmasını dinlemek bile keyifli. Kendine ve esprilerine pek güvenmiyor olsa da Roiland diziyi kesinlikle bir adım ileri taşıyor, mizah anlayışı ve doğaçlamaları sayesinde dizi farklı yerler keşfediyor. Bahsettiğim gibi dizi bilindik konuları yenilikçi fikirlerle sunarken de tamamen rastgele bir çılgınlık izlerken de Roiland’ın bunda bir izi olduğunu biliyorsunuz.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/ricknmorty-2.jpg&quot; alt=&quot;ricknmorty-2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fakat bu mizah anlayışı bazen tuhaflık sınırlarını zorlamaya ve bazen de çiğ kalmaya başlıyor, o zaman da devreye Dan Harmon giriyor. Harmon serinin belkemiği, serinin başlamasından şimdiki yerine gelmesine kadar en önemli isim. Bu adam kağıtta yaratıcılığını konuşturduğu kadar ortağının fikirlerini derleyip toplayıp bir çerçeve içine oturtuyor.&lt;/p&gt;
+
+&lt;p&gt;Ele aldığı her konuda serinin artık içine işlemiş absürd ve alaycı yapısını ustalıkla kullanıyor yazarlar. Anlatımdaki bu başarının büyük kısmını konuşma tarzıyla, hareketleriyle, tüm benliğiyle Rick omuzlarında taşıyor. Dizinin egoist-alkolik-dahi büyükbabası muhtemelen şu an televizyonda görebileceğiniz en ilgi çekici karakter. Biraz Doctor Who, biraz Doc Brown, az biraz da Otostopçunun Galaksi Rehberi derken ortaya “çılgın bilimadamı” stereotipinden birkaç gömlek üstte bir karakter çıkmış. Bu arada hatırlatmak lazım, hikaye elemanlarından kullandığı dile kadar Rick and Morty bir yetişkin dizisi ve hikayeyi ilerlettiği sürece bu gerçeği kullanmaktan geri kalmıyor fakat rahatsız edici-aşağılayıcı yerlere de gerek olmadıkça gitmiyor. Ve en önemlisi dizi hala kesinlikle tekrara düşmüyor ve her bölüm bambaşka bir acayiplikle sizi şaşırtıyor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dcetin.me//assets/posts/ricknmorty-3.jpg&quot; alt=&quot;ricknmorty-3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;İlk sezonun azılı bir hayranı olarak ikinci sezonu çok da yüksek bir yere koymak istemem ama topu topu on bölümlük bir sezonda her bölümü hayranlıkla izledim. İlk sezon yaptığı sağlam çıkışın, aldığı olumlu eleştirilerin ve iki sezon arasındaki hatırı sayılır zamanın diziye yaradığını rahatlıkla görebiliyorsunuz. Göze batan ilk farklılık diğer aile üyelerinin de ara sıra maceralara katılması olmuş ki bu detay da başta Summer olmak üzere tüm aileye yaramış. Dizi daha önceden de yaptığı gibi duygusal olarak çarpıcı anlar yaratıyor, belki ilk sezona kıyasla bu daha sık ve daha derin bir duygusallık halini alıyor, tabii dizinin kendi tarzında. İlk sezondaki o birkaç sahne var ya, müzikler yine nokta atışı oturmuş bazı sahnelere. Özetle Rick and Morty ilk sezondaki gücünden hiçbir şey kaybetmemiş, iyi yaptıkları işi daha da iyi yapmaya devam etmişler. Alışık olduğumuz Rick and Morty yerli yerinde; tempo yine çok hızlı, ne izlediğinizin takibi kaçıracak acayiplikler dönüyor ve Rick hala geğiriyor.&lt;/p&gt;
+
+&lt;p&gt;Açın bir iki bölüm izleyin, dizinin bir bölümünü bile izleyip sevdiyseniz açın gerisini de izleyin. Üçüncü sezona daha var gibi dursa da siz geriden takip etmeyin.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><summary type="html">İkinci sezonun ardından Rick and Morty: iyi ki var!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://dcetin.me//ricknmorty-1.jpg" /></entry></feed>

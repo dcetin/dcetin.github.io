@@ -1,0 +1,12 @@
+Letterboxd
+Google Scholar
+ETHZ Web Center
+Instagram
+Facebook
+LinkedIn
+Google Analytics
+Github
+Mentornity
+Search Console
+config.yml
+CV (heading and projects)
