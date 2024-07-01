@@ -3,9 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-This is a short summary. If you'd rather read the longer one, it's <a href="/docs/DorukCetinCV.pdf" target="_blank">here</a> in pdf format.
 
----&nbsp;
 ## Education
 {% include cv-entry.html name="ETH Zurich" dates="2018 - 2021" logo="/assets/logo/eth.png"
 title="M.S. in Computer Science" city="Zurich, CH" name_url="https://www.ethz.ch/en.html" %}
