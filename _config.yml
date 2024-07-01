@@ -59,7 +59,7 @@ header_pages:
   - "cv.md"
   - "projects.md"
   - "personal.md"
-  # - "publications.md"
+  - "publications.md"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
