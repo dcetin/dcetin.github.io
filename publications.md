@@ -9,8 +9,8 @@ Alternatively, my Google Scholar page is [this way](https://scholar.google.com/c
 
 ## Publications
 
-* **[WACV '25]** [**VerA: Versatile Anonymization Fit for Clinical Facial Images** ](https://arxiv.org/abs/2312.02124)  
-M. El Helou, **D. Cetin**, P. Stamenkovic, N. Huber, F. Zünd  
+* **[WACV '25]** [**VerA: Versatile Anonymization Applicable to Clinical Facial Photographs** ](https://arxiv.org/abs/2312.02124)  
+M. El Helou\*, **D. Cetin\***, P. Stamenkovic, N. B. Huber, F. Zünd  
 _IEEE/CVF Winter Conference on Applications of Computer Vision, 2025_
 
 
@@ -27,4 +27,4 @@ _International Conference & Exhibition on Digital Transformation & Smart Systems
 ## Preprints
 
 * [**Facial Image Feature Analysis and its Specialization for Fréchet Distance and Neighborhoods**](https://arxiv.org/abs/2406.18430/)  
-**D. Cetin**, B. Schesch, P. Stamenkovic, N. Huber, F. Zünd, M. El Helou
+**D. Cetin**, B. Schesch, P. Stamenkovic, N. B. Huber, F. Zünd, M. El Helou
