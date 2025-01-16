@@ -11,17 +11,18 @@ Alternatively, my Google Scholar page is [this way](https://scholar.google.com/c
 
 * [VerA: Versatile Anonymization Applicable to Clinical Facial Photographs](https://arxiv.org/abs/2312.02124)  
 M. El Helou\*, **D. Cetin\***, P. Stamenkovic, N. B. Huber, F. Zünd  
-_IEEE/CVF Winter Conference on Applications of Computer Vision, 2025_
+_IEEE/CVF Winter Conference on Applications of Computer Vision, 2025_  
+ \[[arXiv](https://arxiv.org/abs/2312.02124)\] \[[poster](/docs/wacv_2025_poster.pdf)\]  
 
 * [Facial Image Feature Analysis and its Specialization for Fréchet Distance and Neighborhoods](https://arxiv.org/abs/2406.18430)  
 **D. Cetin**, B. Schesch, P. Stamenkovic, M. El Helou  
-_Society for Imaging Science and Technology (IS&T) Electronic Imaging Symposium, 2025_
+_Society for Imaging Science and Technology (IS&T) Electronic Imaging Symposium, 2025_  
+\[[arXiv](https://arxiv.org/abs/2406.18430)\] \[[poster](/docs/ei_2025_poster.pdf)\]  
 
 * [Visual-Only Recognition of Normal, Whispered And Silent Speech](https://arxiv.org/abs/1802.06399)  
 S. Petridis, J. Shen, **D. Cetin**, M. Pantic  
-_IEEE International Conference on Acoustics, Speech and Signal Processing, 2018_
-<!-- https://ibug.doc.ic.ac.uk/media/uploads/documents/normalwhispersilentdb.pdf -->
-<!-- https://ieeexplore.ieee.org/document/8461596 -->
+_IEEE International Conference on Acoustics, Speech and Signal Processing, 2018_  
+\[[arXiv](https://arxiv.org/abs/1802.06399)\] \[[paper](https://ieeexplore.ieee.org/document/8461596)\] \[[dataset](https://ibug-avs.eu/)\]  
 
 <!-- * **[DTSS '18]** **AlgoTrade: A web-based algorithmic trading and backtesting framework**  
 **D. Cetin**, B. Aydemir, E. Aldemir, U. Akunal, C. Seylan and S. Temizer  
