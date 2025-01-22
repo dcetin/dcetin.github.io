@@ -7,15 +7,14 @@ Alternatively, my Google Scholar page is [this way](https://scholar.google.com/c
 
 ---&nbsp;
 
-<style>
-paper_title { color: #2a7ae2; font-weight: bold; }
-</style>
+<style> paper_title { color: #2a7ae2; font-weight: bold; } </style>
+<style> award { color:rgb(8, 175, 14); font-weight: bold; } </style>
 
 ## Publications
 
 * <paper_title>VerA: Versatile Anonymization Applicable to Clinical Facial Photographs</paper_title>   
 M. El Helou\*, **D. Cetin\***, P. Stamenkovic, N. B. Huber, F. Zünd  
-_IEEE/CVF Winter Conference on Applications of Computer Vision, 2025_  
+_IEEE/CVF Winter Conference on Applications of Computer Vision, 2025 (<award>Oral</award>)_  
  \[[arXiv](https://arxiv.org/abs/2312.02124)\] \[[poster](/docs/wacv_2025_poster.pdf)\]  
 
 * <paper_title>Facial Image Feature Analysis and its Specialization for Fréchet Distance and Neighborhoods</paper_title>  
