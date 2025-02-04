@@ -20,7 +20,7 @@ _IEEE/CVF Winter Conference on Applications of Computer Vision, 2025 (<award>Ora
 * <paper_title>Facial Image Feature Analysis and its Specialization for Fréchet Distance and Neighborhoods</paper_title>  
 **D. Cetin**, B. Schesch, P. Stamenkovic, M. El Helou  
 _IS&T International Symposium on Electronic Imaging, 2025_  
-\[[arXiv](https://arxiv.org/abs/2406.18430)\] \[[poster](/docs/ei_2025_poster.pdf)\]  
+\[[arXiv](https://arxiv.org/abs/2406.18430)\] \[[paper](https://library.imaging.org/ei/articles/37/10/IPAS-237)\]  \[[poster](/docs/ei_2025_poster.pdf)\]  
 
 * <paper_title>Visual-Only Recognition of Normal, Whispered And Silent Speech</paper_title>  
 S. Petridis, J. Shen, **D. Cetin**, M. Pantic  
