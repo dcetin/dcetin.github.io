@@ -30,3 +30,14 @@ _IEEE International Conference on Acoustics, Speech and Signal Processing, 2018_
 <!-- * **[DTSS '18]** **AlgoTrade: A web-based algorithmic trading and backtesting framework**  
 **D. Cetin**, B. Aydemir, E. Aldemir, U. Akunal, C. Seylan and S. Temizer  
 _International Conference & Exhibition on Digital Transformation & Smart Systems, October 2018_ -->
+
+## Patents
+
+* Extraction of dental data from video data, US Patent Prov. App. 63/634,795
+* Modeling and visualization of facial structure for dental treatment planning, US Patent App. 18/933,722
+* Personalized image modification for clinical settings, US Patent App. 18/761,665
+* 3d dental arch model to dentition video correlation, US Patent App. 18/610,126
+* Capture guidance for video of patient dentition, US Patent App. 18/610,124
+* Augmented video generation with dental treatment, US Patent App. 18/525,530
+* Patient and consumer data de-identification, US Patent App. 18/140,196
+
