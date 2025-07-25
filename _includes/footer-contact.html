@@ -6,16 +6,32 @@
   <div class="footer-col-wrapper">
 
     <div class="footer-col footer-col-1">
-      {%- include social-mail.html -%}
+      <ul class="social-media-list">
+      <p>{{ site.email | replace: "@", " [at] " }}</p>
+      </ul>
     </div>
 
     <div class="footer-col footer-col-2">
-      {%- include social-pro.html -%}
+      <ul class="social-media-list">
+      <li><a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}">
+      <img src="/assets/icons/icons-64/icon-linkedin.png" height="20" width="20" style="margin: 6px 6px 6px 0px">
+      <span class="username">via LinkedIn</span></a></li>
+      </ul>
     </div>
 
     <div class="footer-col footer-col-3">
-      {%- include social-per.html -%}
+      <ul class="social-media-list">
+      <li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}">
+      <img src="/assets/icons/icons-64/icon-github.png" height="20" width="20" style="margin: 6px 6px 6px 0px">
+      <span class="username">via GitHub</span></a></li>
+      </ul>
     </div>
   </div>
 
 </div>
+
+{% comment %}
+{%- include social-mail.html -%}
+{%- include social-pro.html -%}
+{%- include social-per.html -%}
+{% endcomment %}
