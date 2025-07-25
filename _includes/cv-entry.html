@@ -23,11 +23,19 @@
             {% else %}
                 <span>{{ include.title }} {{ include.loc }}</span> 
             {% endif %}
+            {% if include.title_prev %}
+                <br>
+                <span>{{ include.title_prev }}</span> 
+            {% endif %}
         </div> 
         <div style="margin: auto 0;">
             <span>{{ include.city }}</span>
             <br>
             <span>{{ include.dates }}</span>
+            {% if include.dates_prev %}
+                <br>
+                <span>{{ include.dates_prev }}</span>
+            {% endif %}
         </div> 
     </div>
 </div>

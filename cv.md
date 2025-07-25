@@ -11,8 +11,9 @@ title="M.S. in Computer Science" city="Zurich, CH" name_url="https://www.ethz.ch
 title="B.S. in Computer Engineering" city="Ankara, TR" name_url="https://www.metu.edu.tr" %}
 
 ## Experience
-{% include cv-entry.html name="Align Technology" dates="July 2021 - Present" logo="/assets/logo/align.png"
-title="Software Research Engineer" loc="" city="Zurich, CH" name_url="https://www.aligntech.com/" %}
+{% include cv-entry.html name="Align Technology" dates="Feb 2025 - Present" logo="/assets/logo/align.png"
+title="Senior Software Research Engineer" loc="" city="Zurich, CH" name_url="https://www.aligntech.com/" 
+title_prev="Software Research Engineer" dates_prev="July 2021 - Feb 2025" %}
 {% include cv-entry.html name="Arbrea Labs" dates="April - July 2021" logo="/assets/logo/arbrea.png"
 title="Deep Learning Engineer" loc="" city="Zurich, CH" name_url="https://arbrea-labs.com/" %}
 {% include cv-entry.html name="DisneyResearch|Studios" dates="Winter 2020" logo="/assets/logo/disney.png"

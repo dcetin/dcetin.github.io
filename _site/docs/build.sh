@@ -7,17 +7,17 @@ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
 ~/.rbenv/bin/rbenv init
 cd ~/.rbenv
 git pull
-sudo apt install autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm5 libgdbm-dev
+sudo apt install autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm-dev
 echo 'eval "$(rbenv init -)"' >> ~/.bashrc
 source ~/.bashrc
 type rbenv
 git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
 rbenv install -l
-rbenv install 2.5.1
-rbenv local 2.5.1
-gem install bundler
+rbenv install 3.3.5
+rbenv local 3.3.5
 cd ~/Desktop/dcetin.github.io/
 gem install bundler
 gem update --system
 bundle install
 bundle exec jekyll serve
+# sudo sed -i.bak 's/, kwd/, **kwd/' $(gem which pathutil)
