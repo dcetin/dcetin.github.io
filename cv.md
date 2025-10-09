@@ -11,11 +11,16 @@ title="M.S. in Computer Science" city="Zurich, CH" name_url="https://www.ethz.ch
 title="B.S. in Computer Engineering" city="Ankara, TR" name_url="https://www.metu.edu.tr" %}
 
 ## Experience
-{% include cv-entry.html name="Align Technology" dates="Feb 2025 &ndash; Present" logo="/assets/logo/align.png"
+{% include cv-entry.html name="Lakera" dates="Oct 2025 &ndash; Present" logo="/assets/logo/lakera.png"
+title="Senior Software Engineer" loc="" city="Zurich, CH" name_url="https://www.lakera.ai/" %}
+{% include cv-entry.html name="Align Technology" dates="Feb 2025 &ndash; Sep 2025" logo="/assets/logo/align.png"
 title="Senior Software Research Engineer" loc="" city="Zurich, CH" name_url="https://www.aligntech.com/" 
-title_prev="Software Research Engineer" dates_prev="Jul 2021 &ndash; Feb 2025" %}
-{% include cv-entry.html name="Arbrea Labs" dates="Apr &ndash; Jun 2021" logo="/assets/logo/arbrea.png"
+title_prev="Software Research Engineer" dates_prev="July 2021 &ndash; Feb 2025" %}
+{% include cv-entry.html name="Arbrea Labs" dates="Apr 2021  &ndash; Jun 2021" logo="/assets/logo/arbrea.png"
 title="Deep Learning Engineer" loc="" city="Zurich, CH" name_url="https://arbrea-labs.com/" %}
+
+<!-- ---&nbsp; -->
+
 {% include cv-entry.html name="DisneyResearch|Studios" dates="Winter 2020" logo="/assets/logo/disney.png"
 title="Intern at" loc="Animation Group" city="Zurich, CH" name_url="https://studios.disneyresearch.com/" %}
 {% include cv-entry.html name="ETH Zurich" dates="Summer 2019" logo="/assets/logo/eth.png"
