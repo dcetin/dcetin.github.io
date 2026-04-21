@@ -10,7 +10,7 @@ permalink: /projects/
 
 &ensp; :books: [eth-cs-notes](https://github.com/dcetin/eth-cs-notes): Lecture notes and cheatsheets for Master's in Computer Science at ETH Zurich.  
 
-&ensp; :trophy: [academy-awards](http://dcetin.me/en/blog/academy-awards): Interactive plots to toy with some Academy Awards statistics.    
+&ensp; :trophy: [academy-awards](https://github.com/dcetin/academy-awards): Interactive plots to toy with some Academy Awards statistics.    
 
 ## Research
 
