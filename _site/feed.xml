@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2025-10-09T22:36:39+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Doruk Çetin</title><subtitle>Tis but a personal website.</subtitle><author><name>Doruk Çetin</name></author><entry xml:lang="en"><title type="html">Y Tu Mamá También</title><link href="http://localhost:4000/en/film/y-tu-mama-tambien" rel="alternate" type="text/html" title="Y Tu Mamá También" /><published>2020-12-22T01:00:00+01:00</published><updated>2020-12-22T01:00:00+01:00</updated><id>http://localhost:4000/en/film/y-tu-mama-tambien</id><content type="html" xml:base="http://localhost:4000/en/film/y-tu-mama-tambien">&lt;p&gt;I don’t know why it took me just over a year to run through my ramblings, but here I go. I was quite overwhelmed when the film has ended and wanted to talk to someone about it. The easiest way was just reading the reviews on Letterboxd, so I may or may not be reiterating what has been said before more eloquently.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2026-04-22T01:04:48+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Doruk Çetin</title><subtitle>Tis but a personal website.</subtitle><author><name>Doruk Çetin</name></author><entry xml:lang="en"><title type="html">Y Tu Mamá También</title><link href="http://localhost:4000/en/film/y-tu-mama-tambien" rel="alternate" type="text/html" title="Y Tu Mamá También" /><published>2020-12-22T01:00:00+01:00</published><updated>2020-12-22T01:00:00+01:00</updated><id>http://localhost:4000/en/film/y-tu-mama-tambien</id><content type="html" xml:base="http://localhost:4000/en/film/y-tu-mama-tambien">&lt;p&gt;I don’t know why it took me just over a year to run through my ramblings, but here I go. I was quite overwhelmed when the film has ended and wanted to talk to someone about it. The easiest way was just reading the reviews on Letterboxd, so I may or may not be reiterating what has been said before more eloquently.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/posts/y-tu-mama-tambien-1.jpg&quot; alt=&quot;y-tu-mama-tambien-1&quot; /&gt;&lt;/p&gt;
 
@@ -18,49 +18,13 @@
 
 &lt;div class=&quot;fullscreen-wrapper&quot;&gt;
     &lt;div class=&quot;fullscreen-content&quot;&gt;
-        &lt;iframe class=&quot;iframe-responsive&quot; src=&quot;/../assets/posts/academy-awards/academy-awards.html&quot; width=&quot;2000&quot; height=&quot;550&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+        &lt;iframe class=&quot;iframe-responsive&quot; src=&quot;/../assets/posts/academy-awards/academy-awards.html&quot; width=&quot;2000&quot; height=&quot;710&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Dataset and code to generate the plots can be found &lt;a href=&quot;https://github.com/dcetin/academy-awards&quot;&gt;here&lt;/a&gt;. Plot is best viewed (and interacted with) in desktop. If the browser somehow does not display it correctly, you can run the notebook in the repository instead.&lt;/p&gt;
+&lt;p&gt;Dataset and code to generate the plots can be found &lt;a href=&quot;https://github.com/dcetin/academy-awards&quot;&gt;here&lt;/a&gt;. Plot is best viewed (and interacted with) in desktop.&lt;/p&gt;
 
-&lt;p&gt;I used &lt;a href=&quot;https://plot.ly/python/&quot;&gt;Plotly Python&lt;/a&gt; to generate the plot. You can select the dataset via the buttons on the left side and toggle shown data by clicking on the legend entries on the right side. Hovering over the scatter plot will show the details of the data entries.&lt;/p&gt;
-
-&lt;h1 id=&quot;more-plots&quot;&gt;More Plots!&lt;/h1&gt;
-
-&lt;p&gt;You can also &lt;a href=&quot;https://colab.research.google.com/github/dcetin/academy-awards/blob/master/academy_awards.ipynb&quot;&gt;run the notebook on Colab&lt;/a&gt; to draw trajectories for specific people. I have added a few examples below to illustrate.&lt;/p&gt;
-
-&lt;h2 id=&quot;academy-just-doesnt-recognize-female-directors&quot;&gt;Academy just doesn’t recognize female directors&lt;/h2&gt;
-
-&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
-    &lt;div class=&quot;wide-content&quot;&gt;
-        &lt;img src=&quot;/../assets/posts/academy-awards/female_dirs.png&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;each-year-a-nomination-for-meryl-streep&quot;&gt;Each year a nomination for Meryl Streep&lt;/h2&gt;
-
-&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
-    &lt;div class=&quot;wide-content&quot;&gt;
-        &lt;img src=&quot;/../assets/posts/academy-awards/streep.png&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;clint-eastwood-89-years-and-still-going-strong&quot;&gt;Clint Eastwood: 89 years and still going strong&lt;/h2&gt;
-
-&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
-    &lt;div class=&quot;wide-content&quot;&gt;
-        &lt;img src=&quot;/../assets/posts/academy-awards/eastwood.png&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;i-still-cant-believe-day-lewis-is-retired&quot;&gt;I still can’t believe Day-Lewis is retired&lt;/h2&gt;
-
-&lt;div class=&quot;fullscreen-wrapper&quot;&gt;
-    &lt;div class=&quot;wide-content&quot;&gt;
-        &lt;img src=&quot;/../assets/posts/academy-awards/day-lewis.png&quot; /&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Doruk Çetin</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/academy-awards-1.jpg" /></entry><entry xml:lang="en"><title type="html">A Brief Timeline of the Achaemenid Empire</title><link href="http://localhost:4000/en/history/achaemenids" rel="alternate" type="text/html" title="A Brief Timeline of the Achaemenid Empire" /><published>2018-02-19T22:00:00+01:00</published><updated>2018-02-19T22:00:00+01:00</updated><id>http://localhost:4000/en/history/achaemenids</id><content type="html" xml:base="http://localhost:4000/en/history/achaemenids">&lt;p&gt;This was actually a term paper of mine for the Anatolian Civilizations in Antiquity I course (HIST 241) but enjoyed working on it a lot, so why not have it here? For the curious, I have here also the original &lt;a href=&quot;/docs/achaemenids-paper.pdf&quot; target=&quot;_blank&quot;&gt;paper&lt;/a&gt; and &lt;a href=&quot;/docs/achaemenids-slides.pptx&quot; target=&quot;_blank&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I used &lt;a href=&quot;https://plot.ly/python/&quot;&gt;Plotly Python&lt;/a&gt; to generate the plot. You can select the dataset via the buttons on the left side and toggle shown data by clicking on the legend entries on the right side. Hovering over the scatter plot will show the details of the data entries.&lt;/p&gt;</content><author><name>Doruk Çetin</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/academy-awards-1.jpg" /></entry><entry xml:lang="en"><title type="html">A Brief Timeline of the Achaemenid Empire</title><link href="http://localhost:4000/en/history/achaemenids" rel="alternate" type="text/html" title="A Brief Timeline of the Achaemenid Empire" /><published>2018-02-19T22:00:00+01:00</published><updated>2018-02-19T22:00:00+01:00</updated><id>http://localhost:4000/en/history/achaemenids</id><content type="html" xml:base="http://localhost:4000/en/history/achaemenids">&lt;p&gt;This was actually a term paper of mine for the Anatolian Civilizations in Antiquity I course (HIST 241) but enjoyed working on it a lot, so why not have it here? For the curious, I have here also the original &lt;a href=&quot;/docs/achaemenids-paper.pdf&quot; target=&quot;_blank&quot;&gt;paper&lt;/a&gt; and &lt;a href=&quot;/docs/achaemenids-slides.pptx&quot; target=&quot;_blank&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
 
