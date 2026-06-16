@@ -8,7 +8,7 @@
 -->
 <footer class="endnote-wrapper">
   <p class="endnote"> &copy; {{ "now" | date: "%Y" }} Doruk Çetin &middot; Powered by the Minima theme for Jekyll. 
-    Last updated on {{ "now" | date: "%b %d, %y" }}
+    Last updated on {{ "now" | date: "%b %d, %Y" }}
     <br>
     {%- for path in page_paths -%}
       {%- assign my_page = site.pages | where: "path", path | first -%}

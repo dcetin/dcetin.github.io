@@ -33,6 +33,7 @@ _International Conference & Exhibition on Digital Transformation & Smart Systems
 
 ## Patents
 
+* Integration of video data into image-based dental treatment planning and client device presentation, US Patent App. 19/179,909
 * Extraction of dental data from video data, US Patent Prov. App. 63/634,795
 * Modeling and visualization of facial structure for dental treatment planning, US Patent App. 18/933,722
 * Personalized image modification for clinical settings, US Patent App. 18/761,665

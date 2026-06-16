@@ -11,6 +11,8 @@ title="M.S. in Computer Science" city="Zurich, CH" name_url="https://www.ethz.ch
 title="B.S. in Computer Engineering" city="Ankara, TR" name_url="https://www.metu.edu.tr" %}
 
 ## Experience
+{% include cv-entry.html name="Check Point" dates="Oct 2025 &ndash; Present" logo="/assets/logo/checkpoint.png"
+title="Senior Software Engineer" loc="" city="Zurich, CH" name_url="https://www.checkpoint.com/" %}
 {% include cv-entry.html name="Lakera" dates="Oct 2025 &ndash; Present" logo="/assets/logo/lakera.png"
 title="Senior Software Engineer" loc="" city="Zurich, CH" name_url="https://www.lakera.ai/" %}
 {% include cv-entry.html name="Align Technology" dates="Feb 2025 &ndash; Sep 2025" logo="/assets/logo/align.png"
