@@ -27,10 +27,6 @@ S. Petridis, J. Shen, **D. Cetin**, M. Pantic
 _IEEE International Conference on Acoustics, Speech and Signal Processing, 2018_  
 \[[arXiv](https://arxiv.org/abs/1802.06399)\] \[[paper](https://ieeexplore.ieee.org/document/8461596)\] \[[dataset](https://ibug-avs.eu/)\]  
 
-<!-- * **[DTSS '18]** **AlgoTrade: A web-based algorithmic trading and backtesting framework**  
-**D. Cetin**, B. Aydemir, E. Aldemir, U. Akunal, C. Seylan and S. Temizer  
-_International Conference & Exhibition on Digital Transformation & Smart Systems, October 2018_ -->
-
 ## Patents
 
 * Integration of video data into image-based dental treatment planning and client device presentation, US Patent App. 19/179,909
