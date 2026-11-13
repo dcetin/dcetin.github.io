@@ -15,6 +15,7 @@ gem "kramdown", ">= 2.3.1"
 gem "kramdown-parser-gfm"
 gem "nokogiri", ">= 1.19.5"
 gem "addressable", ">= 2.9.1"
+gem "uri", ">= 1.0.4"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"

@@ -122,7 +122,7 @@ GEM
     securerandom (0.4.1)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    uri (1.0.3)
+    uri (1.1.2)
     webrick (1.9.1)
 
 PLATFORMS
@@ -150,6 +150,7 @@ DEPENDENCIES
   nokogiri (>= 1.19.5)
   rexml (~> 3.3)
   tzinfo-data
+  uri (>= 1.0.4)
   webrick (~> 1.9)
 
 BUNDLED WITH
