@@ -11,6 +11,10 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.10.0"
 gem "activesupport", ">= 8.0.5.2", "< 8.1"
 gem "concurrent-ruby", "~> 1.3.7"
+gem "kramdown", ">= 2.3.1"
+gem "kramdown-parser-gfm"
+gem "nokogiri", ">= 1.19.5"
+gem "addressable", ">= 2.9.1"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
@@ -28,11 +32,7 @@ group :jekyll_plugins do
   # gem "jekyll-figure"
 end
 
-# gem "kramdown", ">= 2.3.1"
-# gem "addressable", ">= 2.8.0"
 # gem "tzinfo", ">= 1.2.10"
-# gem "nokogiri", ">= 1.13.9"
-# gem "kramdown-parser-gfm"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:windows, :jruby]
