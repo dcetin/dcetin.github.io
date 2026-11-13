@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (8.0.2)
+    activesupport (8.0.5.2)
       base64
       benchmark (>= 0.3)
       bigdecimal
@@ -133,6 +133,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  activesupport (>= 8.0.5.2, < 8.1)
   jekyll (~> 3.10.0)
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
